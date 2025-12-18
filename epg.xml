@@ -25914,16 +25914,6 @@ BBC News draws on the expertise of more than 250 correspondents around the world
     <desc lang="en">برنامج أسبوعي من استديو قناة BBC عربية في مصر، يحاور حافظ الميرازي أهم المسؤولين والخبراء والمحللين حول القضايا المصرية الأسبوعية، ووجهات النظر المصرية حول قضايا الشرق الأوسط والعالم.
 Weekly from BBC Arabic studio in Cairo, officials, experts, analysts and citizens speak to Hafez al Mirazi on the week's Egyptian issues and Egyptian viewpoints on Middle Eastern and international issues.</desc>
   </programme>
-  <programme start="20251218144500 +0000" stop="20251218150000 +0000" channel="BBC World News.tl">
-    <title lang="en">بي بي سي نيوز ناو - BBC News Now</title>
-    <desc lang="en">تقدم لوسي هوكينغز أهم القصص وأكثرها رواجاً في العالم على الهواء مباشرة فور حدوثها.
-Lucy Hockings presents the world’s top and trending stories, live as they happen.</desc>
-  </programme>
-  <programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="BBC World News.tl">
-    <title lang="en">فيريفايد لايف - Verified Live</title>
-    <desc lang="en">يقدم (ماثيو آمروليوالا) أحدث الأخبار العالمية بشكل عام وأخبار المملكة المتحدة بشكل خاص، مباشرة من لندن.
-Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  </programme>
   <programme start="20251218153000 +0000" stop="20251218160000 +0000" channel="BBC World News.tl">
     <title lang="en">فيريفايد لايف - Verified Live</title>
     <desc lang="en">يقدم (ماثيو آمروليوالا) أحدث الأخبار العالمية بشكل عام وأخبار المملكة المتحدة بشكل خاص، مباشرة من لندن.
@@ -41398,11 +41388,6 @@ Discussion of questions regarding finance, banking, investment and related topic
     <desc lang="en">مقابلات حصرية مع المحللين الاقتصاديين وأصحاب الشركات العملاقة حول العالم.
 Get up close and personal with some of the world's most successful people.</desc>
   </programme>
-  <programme start="20251217160000 +0000" stop="20251217170000 +0000" channel="CNN.tl">
-    <title lang="en">ون وورلد ويذ آشر آند غولودريغا - One World With Asher &amp; Golodryga</title>
-    <desc lang="en">يغطي زين آشر وبيانا غولودريغا أهم القضايا المحلية والعالمية اليومية.
-Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-  </programme>
   <programme start="20251217170000 +0000" stop="20251217180000 +0000" channel="CNN.tl">
     <title lang="en">ون وورلد ويذ آشر آند غولودريغا - One World With Asher &amp; Golodryga</title>
     <desc lang="en">يغطي زين آشر وبيانا غولودريغا أهم القضايا المحلية والعالمية اليومية.
@@ -48965,6 +48950,42 @@ Filled with adventure and fun, this cartoon series tells the story of King Shaki
   </programme>
   <programme start="20251218210000 +0000" stop="20251218230000 +0000" channel="Cinema One Global.tl">
     <title lang="en">دالاوا سي إيبا سا بارايزو ني أدان - Dalawa Si Eba Sa Paraiso Ni Adan</title>
+  </programme>
+  <programme start="20251218230000 +0000" stop="20251219010000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">فورورد مارتش - Forward March</title>
+  </programme>
+  <programme start="20251219010000 +0000" stop="20251219030000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">مولتو إن ذا سيتي - Multo In The City</title>
+  </programme>
+  <programme start="20251219030000 +0000" stop="20251219050000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">إيت أول يو كان - Eat All You Can</title>
+  </programme>
+  <programme start="20251219050000 +0000" stop="20251219070000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">تيغاسين - Tigasin</title>
+  </programme>
+  <programme start="20251219070000 +0000" stop="20251219090000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">Okay Ka Fairy Ko The Movie</title>
+  </programme>
+  <programme start="20251219090000 +0000" stop="20251219110000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">Oo Na..Mahal Na Kung Mahal</title>
+  </programme>
+  <programme start="20251219110000 +0000" stop="20251219130000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">أيجنت أكس 44 - Agent X44</title>
+  </programme>
+  <programme start="20251219130000 +0000" stop="20251219150000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">The Gatekeeper</title>
+  </programme>
+  <programme start="20251219150000 +0000" stop="20251219170000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">Sarah Ang Munting Prinsesa</title>
+  </programme>
+  <programme start="20251219170000 +0000" stop="20251219190000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">سيغاو أنجي كاتارونغان - Sigaw Ng Katarungan</title>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219200000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">Sanib</title>
+  </programme>
+  <programme start="20251219210000 +0000" stop="20251219230000 +0000" channel="Cinema One Global.tl">
+    <title lang="en">La Vida Rosa</title>
   </programme>
   <programme start="20251219230000 +0000" stop="20251220010000 +0000" channel="Cinema One Global.tl">
     <title lang="en">Kiliti</title>
@@ -100077,74 +100098,29 @@ When an app claiming to predict a person’s death date gives her three days to 
   <programme start="20251217220000 +0000" stop="20251217230000 +0000" channel="Myx.tl">
     <title lang="en">Myxclusive: Deep Dive, Tuned In, Rough Cut</title>
   </programme>
-  <programme start="20251217230000 +0000" stop="20251218000000 +0000" channel="Myx.tl">
-    <title lang="en">The Ripple</title>
+  <programme start="20251218144000 +0000" stop="20251218150255 +0000" channel="Myx.tl">
+    <title lang="en">دراغن رسكيو رايدرز: هيروز أوف ذا سكاي: ذا بيغ شيب - Dragon Rescue Riders: Heroes Of The Sky: The Big Sheep</title>
   </programme>
-  <programme start="20251218000000 +0000" stop="20251218010000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
+  <programme start="20251218150300 +0000" stop="20251218152555 +0000" channel="Myx.tl">
+    <title lang="en">دراغن رسكيو رايدرز: هيروز أوف ذا سكاي: رسكيو ريسرز - Dragon Rescue Riders: Heroes Of The Sky: Rescue Racers</title>
   </programme>
-  <programme start="20251218010000 +0000" stop="20251218020000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Presents: The Music Room</title>
+  <programme start="20251218152600 +0000" stop="20251218155202 +0000" channel="Myx.tl">
+    <title lang="en">دينو بوبس: دعونا نتعرف على نجوم الديناصورات - Dino Pops: Let's Meet Some Dino-Stars</title>
   </programme>
-  <programme start="20251218020000 +0000" stop="20251218030000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
+  <programme start="20251218161500 +0000" stop="20251218164102 +0000" channel="Myx.tl">
+    <title lang="en">أولد إناف!: كويُوتس إيت تشيكنز! - Old Enough!: Coyotes Eat Chickens!</title>
   </programme>
-  <programme start="20251218030000 +0000" stop="20251218040000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
+  <programme start="20251218165100 +0000" stop="20251218165957 +0000" channel="Myx.tl">
+    <title lang="en">منصور: أمينة المكتبة - Mansour: The Librarian</title>
   </programme>
-  <programme start="20251218040000 +0000" stop="20251218050000 +0000" channel="Myx.tl">
-    <title lang="en">Myxclusive: Deep Dive, Tuned In, Rough Cut</title>
+  <programme start="20251218170000 +0000" stop="20251218171205 +0000" channel="Myx.tl">
+    <title lang="en">ذا بينغو شو: بينغو'ز لافاتوري ستوري / بينغو اند ذا سيجال - The Pingu Show: Pingu's lavatory story / Pingu and the seagull</title>
   </programme>
-  <programme start="20251218050000 +0000" stop="20251218060000 +0000" channel="Myx.tl">
-    <title lang="en">The Ripple</title>
+  <programme start="20251218172400 +0000" stop="20251218173605 +0000" channel="Myx.tl">
+    <title lang="en">ذا بينغو شو: بينغو اند ذا بروكن فيز / بينغوز فيرست كيس - The Pingu Show: Pingu and the broken vase / Pingu's first kiss</title>
   </programme>
-  <programme start="20251218060000 +0000" stop="20251218070000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251218070000 +0000" stop="20251218080000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Presents: The Music Room</title>
-  </programme>
-  <programme start="20251218080000 +0000" stop="20251218090000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
-  </programme>
-  <programme start="20251218090000 +0000" stop="20251218100000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
-  </programme>
-  <programme start="20251218100000 +0000" stop="20251218110000 +0000" channel="Myx.tl">
-    <title lang="en">Myxclusive: Deep Dive, Tuned In, Rough Cut</title>
-  </programme>
-  <programme start="20251218110000 +0000" stop="20251218120000 +0000" channel="Myx.tl">
-    <title lang="en">The Ripple</title>
-  </programme>
-  <programme start="20251218120000 +0000" stop="20251218130000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251218130000 +0000" stop="20251218140000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Presents: The Music Room</title>
-  </programme>
-  <programme start="20251218140000 +0000" stop="20251218150000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
-  </programme>
-  <programme start="20251218150000 +0000" stop="20251218160000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
-  </programme>
-  <programme start="20251218160000 +0000" stop="20251218163000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251218163000 +0000" stop="20251218170000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251218170000 +0000" stop="20251218173000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251218173000 +0000" stop="20251218180000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251218180000 +0000" stop="20251218190000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251218190000 +0000" stop="20251218200000 +0000" channel="Myx.tl">
-    <title lang="en">ون دريم - One Dream</title>
+  <programme start="20251218174800 +0000" stop="20251218175402 +0000" channel="Myx.tl">
+    <title lang="en">ماتشبوكس ورلد تور: ماتشبوكس أدفنتشرز جاينت سنيكس - Matchbox Adventure World Tour: Matchbox Adventures Giant Snakes</title>
   </programme>
   <programme start="20251218200000 +0000" stop="20251218210000 +0000" channel="Myx.tl">
     <title lang="en">بريس بليه - Press Play</title>
@@ -100157,87 +100133,6 @@ When an app claiming to predict a person’s death date gives her three days to 
   </programme>
   <programme start="20251218223000 +0000" stop="20251218230000 +0000" channel="Myx.tl">
     <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251218230000 +0000" stop="20251218233000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251218233000 +0000" stop="20251219000000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251219000000 +0000" stop="20251219010000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251219010000 +0000" stop="20251219020000 +0000" channel="Myx.tl">
-    <title lang="en">ون دريم - One Dream</title>
-  </programme>
-  <programme start="20251219020000 +0000" stop="20251219030000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
-  </programme>
-  <programme start="20251219030000 +0000" stop="20251219040000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
-  </programme>
-  <programme start="20251219040000 +0000" stop="20251219043000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251219043000 +0000" stop="20251219050000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251219050000 +0000" stop="20251219053000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251219053000 +0000" stop="20251219060000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251219060000 +0000" stop="20251219070000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251219070000 +0000" stop="20251219080000 +0000" channel="Myx.tl">
-    <title lang="en">Bini X BGYO USA Adventures</title>
-  </programme>
-  <programme start="20251219080000 +0000" stop="20251219090000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
-  </programme>
-  <programme start="20251219090000 +0000" stop="20251219100000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
-  </programme>
-  <programme start="20251219100000 +0000" stop="20251219103000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251219103000 +0000" stop="20251219110000 +0000" channel="Myx.tl">
-    <title lang="en">Booked</title>
-  </programme>
-  <programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251219113000 +0000" stop="20251219120000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس هيتس ديفيرنت - Myx Hits Different</title>
-  </programme>
-  <programme start="20251219120000 +0000" stop="20251219130000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251219130000 +0000" stop="20251219140000 +0000" channel="Myx.tl">
-    <title lang="en">Bini X BGYO USA Adventures</title>
-  </programme>
-  <programme start="20251219140000 +0000" stop="20251219150000 +0000" channel="Myx.tl">
-    <title lang="en">بريس بليه - Press Play</title>
-  </programme>
-  <programme start="20251219150000 +0000" stop="20251219160000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
-  </programme>
-  <programme start="20251219160000 +0000" stop="20251219170000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس - Myx Live</title>
-  </programme>
-  <programme start="20251219170000 +0000" stop="20251219173000 +0000" channel="Myx.tl">
-    <title lang="en">Myxclusive: Deep Dive, Tuned In, Rough Cut</title>
-  </programme>
-  <programme start="20251219173000 +0000" stop="20251219180000 +0000" channel="Myx.tl">
-    <title lang="en">Myxclusive: Deep Dive, Tuned In, Rough Cut</title>
-  </programme>
-  <programme start="20251219180000 +0000" stop="20251219190000 +0000" channel="Myx.tl">
-    <title lang="en">ذا أو بي أم آور - The OPM Hour</title>
-  </programme>
-  <programme start="20251219190000 +0000" stop="20251219200000 +0000" channel="Myx.tl">
-    <title lang="en">ايسلاند بلوك بارتي  - Island Block Party</title>
   </programme>
   <programme start="20251219200000 +0000" stop="20251219210000 +0000" channel="Myx.tl">
     <title lang="en">بريس بليه - Press Play</title>
@@ -106406,6 +106301,27 @@ Octopuses are like aliens on Earth, with three hearts, blue blood, and the abili
   </programme>
   <programme start="20251217195000 +0000" stop="20251217200000 +0000" channel="OSNtv Comedy.tl">
     <title lang="en">شيتس كريك: نزيل الموتيل - Schitt's Creek: The Motel Guest</title>
+  </programme>
+  <programme start="20251217202000 +0000" stop="20251217204500 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">2 بروك غيرلز: الهروب الكبير - 2 Broke Girls: And The Great Escape</title>
+  </programme>
+  <programme start="20251217204500 +0000" stop="20251217210500 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">2 بروك غيرلز: حافلة الحفلة الحزينة - 2 Broke Girls: And The Pity Party Bus</title>
+  </programme>
+  <programme start="20251217210500 +0000" stop="20251217212500 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">2 بروك غيرلز: العرض لا يخبر - 2 Broke Girls: And The Show Don't Tell</title>
+  </programme>
+  <programme start="20251217212500 +0000" stop="20251217215500 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">فريندز: الحلقة التي تموت فيها إستل - Friends: The One Where Estelle Dies</title>
+  </programme>
+  <programme start="20251217215500 +0000" stop="20251217222000 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">فريندز: حلقة حفلة وداع رايتشل - Friends: The One With Rachel's Going Away Party</title>
+  </programme>
+  <programme start="20251217222000 +0000" stop="20251217224500 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">فريندز: الحلقة الأخيرة، الجزء 1 - Friends: The Last One, Part 1</title>
+  </programme>
+  <programme start="20251217224500 +0000" stop="20251217231000 +0000" channel="OSNtv Comedy.tl">
+    <title lang="en">فريندز: الحلقة الأخيرة، الجزء 2 - Friends: The Last One, Part 2</title>
   </programme>
   <programme start="20251217231000 +0000" stop="20251217233500 +0000" channel="OSNtv Comedy.tl">
     <title lang="en">تو أند إيه هالف مين: رأس ابني الضخم - Two And A Half Men: My Son's Enormous Head</title>
