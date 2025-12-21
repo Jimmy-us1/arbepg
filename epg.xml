@@ -8566,36 +8566,6 @@ Be at the forefront of top stories, breaking news, current affairs and all there
     <desc lang="en">كُن في طليعة متابعي أهم القصص، الأخبار العاجلة، والشؤون الراهنة وكل ما ينبغي معرفته في المنطقة العربية وحول العالم.
 Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
   </programme>
-  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221160000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221170000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
   <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="Al Hayat.tl">
     <title lang="en">الحياة - Al Hayat</title>
     <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
@@ -20457,10 +20427,10 @@ A documentary depicting the Saudi Bedouin society, its traditions, and the hospi
   <programme start="20251221211500 +0000" stop="20251221213000 +0000" channel="Alkass One.tl">
     <title lang="en">Road to Afcon Egypt</title>
   </programme>
-  <programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="Alkass One.tl">
+  <programme start="20251221213000 +0000" stop="20251221220100 +0000" channel="Alkass One.tl">
     <title lang="en">Mohammed VI, Training Center To Achieve the Best - Afcon 2025 - Mohammed VI, Training Center To Achieve the Best  -  Afcon 2025</title>
   </programme>
-  <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="Alkass One.tl">
+  <programme start="20251221220100 +0000" stop="20251221223000 +0000" channel="Alkass One.tl">
     <title lang="en">Welcome to Morocco (#2)  - Afcon 2025 - Welcome to Morocco (#2)   -  Afcon 2025</title>
   </programme>
   <programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="Alkass One.tl">
@@ -20478,10 +20448,10 @@ A documentary depicting the Saudi Bedouin society, its traditions, and the hospi
   <programme start="20251222013000 +0000" stop="20251222020000 +0000" channel="Alkass One.tl">
     <title lang="en">Teams Morocco</title>
   </programme>
-  <programme start="20251222020000 +0000" stop="20251222023200 +0000" channel="Alkass One.tl">
+  <programme start="20251222020000 +0000" stop="20251222023100 +0000" channel="Alkass One.tl">
     <title lang="en">Mohammed VI, Training Center To Achieve the Best - Afcon 2025 - Mohammed VI, Training Center To Achieve the Best  -  Afcon 2025</title>
   </programme>
-  <programme start="20251222023200 +0000" stop="20251222030100 +0000" channel="Alkass One.tl">
+  <programme start="20251222023100 +0000" stop="20251222030100 +0000" channel="Alkass One.tl">
     <title lang="en">Stadium Prince Moulay Abdellah, the New Jewel  - Afcon 2025 - Stadium Prince Moulay Abdellah, the New Jewel   -  Afcon 2025</title>
   </programme>
   <programme start="20251222030100 +0000" stop="20251222033000 +0000" channel="Alkass One.tl">
@@ -20496,10 +20466,10 @@ A documentary depicting the Saudi Bedouin society, its traditions, and the hospi
   <programme start="20251222083000 +0000" stop="20251222090000 +0000" channel="Alkass One.tl">
     <title lang="en">Teams Egypt</title>
   </programme>
-  <programme start="20251222090000 +0000" stop="20251222093100 +0000" channel="Alkass One.tl">
-    <title lang="en">Teams Morocco</title>
+  <programme start="20251222090000 +0000" stop="20251222093000 +0000" channel="Alkass One.tl">
+    <title lang="en">Road to Afcon Morocco</title>
   </programme>
-  <programme start="20251222093100 +0000" stop="20251222113000 +0000" channel="Alkass One.tl">
+  <programme start="20251222093000 +0000" stop="20251222113000 +0000" channel="Alkass One.tl">
     <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Morocco vs Comoros  -  African Cup of Nations</title>
   </programme>
   <programme start="20251222113000 +0000" stop="20251222120000 +0000" channel="Alkass One.tl">
@@ -20508,10 +20478,10 @@ A documentary depicting the Saudi Bedouin society, its traditions, and the hospi
   <programme start="20251222120000 +0000" stop="20251222123000 +0000" channel="Alkass One.tl">
     <title lang="en">Welcome to Morocco (#2)  - Afcon 2025 - Welcome to Morocco (#2)   -  Afcon 2025</title>
   </programme>
-  <programme start="20251222123000 +0000" stop="20251222160000 +0000" channel="Alkass One.tl">
+  <programme start="20251222123000 +0000" stop="20251222161000 +0000" channel="Alkass One.tl">
     <title lang="en">Mali vs Zambia - African Cup of Nations - Morocco 2025 - Mali vs Zambia  -  African Cup of Nations</title>
   </programme>
-  <programme start="20251222160000 +0000" stop="20251222190000 +0000" channel="Alkass One.tl">
+  <programme start="20251222161000 +0000" stop="20251222190000 +0000" channel="Alkass One.tl">
     <title lang="en">South Africa vs Angola - African Cup of Nations - Morocco 2025 - South Africa vs Angola  -  African Cup of Nations</title>
   </programme>
   <programme start="20251222190000 +0000" stop="20251222220200 +0000" channel="Alkass One.tl">
@@ -21342,14 +21312,11 @@ A documentary depicting the Saudi Bedouin society, its traditions, and the hospi
   <programme start="20251221163000 +0000" stop="20251221170000 +0000" channel="Alkass Two.tl">
     <title lang="en">Nigeria vs South Africa - Semi Final - AFCON 2023 Mini Match - Nigeria vs South Africa  -  Semi Final</title>
   </programme>
-  <programme start="20251221170000 +0000" stop="20251221210000 +0000" channel="Alkass Two.tl">
+  <programme start="20251221170000 +0000" stop="20251221211500 +0000" channel="Alkass Two.tl">
     <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Morocco vs Comoros  -  African Cup of Nations</title>
   </programme>
-  <programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="Alkass Two.tl">
+  <programme start="20251221211500 +0000" stop="20251221220000 +0000" channel="Alkass Two.tl">
     <title lang="en">Ivory Coast vs DR Congo - Semi Final - AFCON 2023 Mini Match - Ivory Coast vs DR Congo  -  Semi Final</title>
-  </programme>
-  <programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="Alkass Two.tl">
-    <title lang="en">Nigeria vs South Africa - Semi Final - AFCON 2023 Mini Match - Nigeria vs South Africa  -  Semi Final</title>
   </programme>
   <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="Alkass Two.tl">
     <title lang="en">South Africa vs DR Congo - 3rd Place - AFCON 2023 Mini Match - South Africa vs DR Congo  -  3rd Place</title>
@@ -25018,51 +24985,6 @@ This documentary is a visually stunning series that chronicles humanity’s ques
     <desc lang="en">تتعمق هذه الحكاية الآسرة في دور قيصر المحوري في مؤامرة كاتالين، (وتسمى المؤامرة القيصرية الثانية)، ومنافسته الشرسة مع كاتو، وفضيحة طقوس بونا ديا، والتي بلغت ذروتها بانتخابه المنتصر قنصلاً لروما.
 A look at Caesar's pivotal role in the Cataline Plot, his fierce rivalry with Cato, and the scandal surrounding the Bona Dea ritual, culminating in his triumphant election as Consul of Rome.</desc>
   </programme>
-  <programme start="20251221123000 +0000" stop="20251221130000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">فور تك - 4 Tech</title>
-    <desc lang="en">برنامج يعرض آخر وأحدث الأخبار على مواقع الإنترنت وأحدث التقنيات والتكنولوجيا الحديثة في وقتنا المعاصر.
-All the latest news from cyberspace and the bloggersphere including a comprehensive guide to all the recent innovations in technology.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">العالم الساعة الواحدة - The World At One</title>
-    <desc lang="en">الأخبار العالمية المهمة والأحدث مع التعمق في التحاليل والتفاصيل.
-The latest international news with in-depth analysis from the BBC in Arabic.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221143000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221143000 +0000" stop="20251221150000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">برنامج وثائقي - Documentary</title>
-    <desc lang="en">برامج وثائقية هامة وممتعة، تتناول شتى المواضيع مثل: التاريخ، الحضارة، السياسة، العلوم، الرياضة، ومعظم النشاطات الإنسانية بكل صورها، قديمها وحديثها.
-An in-depth look into wide-ranging topics history and civilization, to politics, sports, science and technology.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221160000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221163000 +0000" stop="20251221170000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">جدير بالانتباه - Worth Paying Attention</title>
-    <desc lang="en">تقدم فناة بي بي سي العربية، بودكاست يضم ضيوفاً من جميع أنحاء العالم العربي.
-BBC News Arabic presents a podcast featuring guests from across the Arab world.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221173000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221173000 +0000" stop="20251221180000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">فور تك - 4 Tech</title>
-    <desc lang="en">برنامج يعرض آخر وأحدث الأخبار على مواقع الإنترنت وأحدث التقنيات والتكنولوجيا الحديثة في وقتنا المعاصر.
-All the latest news from cyberspace and the bloggersphere including a comprehensive guide to all the recent innovations in technology.</desc>
-  </programme>
   <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="BBC Arabic.tl">
     <title lang="en">أخبار المساء - Newsnight</title>
     <desc lang="en">نظرة إلى الوراء لمتابعة أفضل أفلام الأسبوع الفائت والمناقشات حولهم في أخبار المساء.
@@ -25532,56 +25454,6 @@ BBC News draws on the expertise of more than 250 correspondents around the world
     <title lang="en">أسرار المُسنّين - Secrets of The Superagers</title>
     <desc lang="en">يعتقد العلماء أن تحدي الجسم يمكن أن يفيد الدماغ. يستكشف الدكتور مايكل موزلي كيف يمكن للتأمل أن يساعد في محاربة الخرف وكيف يمكن للناس شحذ عقولهم من خلال استعادة شعورهم كأطفال صغار.
 Scientists believe that challenging the body can benefit the brain. Dr. Michael Mosley learns how meditation can help fight dementia and how people can sharpen their minds by being more like children.</desc>
-  </programme>
-  <programme start="20251221123000 +0000" stop="20251221130000 +0000" channel="BBC World News.tl">
-    <title lang="en">ذا ترافل شو - The Travel Show</title>
-    <desc lang="en">انضموا للفريق في رحلتهم الاستكشافية، وهم يستشكفون وجهات جديدة في جميع أنحاء العالم، ويظهرون الجوانب الخفية لبعض النقاط المهمة والمفضلة للعطل في العالم.
-Join the BBC team on their journey of discovery as they explore new destinations around the globe and uncover hidden sides to some of the world's favourite holiday hotspots.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221133000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221133000 +0000" stop="20251221140000 +0000" channel="BBC World News.tl">
-    <title lang="en">التكنولوجيا الآن - Tech Now</title>
-    <desc lang="en">من أحدث التطورات في السفر الجوي إلى التطورات في العلوم الطبية، نستكشف ما كان يصنع موجات في عالم التكنولوجيا.
-From the latest developments in air travel to cutting-edge advancements in medical science, we explore what's been making waves in the world of technology.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221143000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221143000 +0000" stop="20251221150000 +0000" channel="BBC World News.tl">
-    <title lang="en">عقول نوبل - Nobel Minds</title>
-    <desc lang="en">تتحدث سيسيليا غرالدي في ستوكهولم إلى الحائزين على جائزة نوبل للسلام والاقتصاد والفيزياء والكيمياء والطب لهذا العام، حول الاكتشافات والأبحاث التي تكمن وراء جوائزهم.
-Cecilia Gralde in Stockholm speaks to this year's Nobel Laureates for Peace, Economics, Physics, Chemistry and Medicine about the discoveries and research behind their awards.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221153000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221153000 +0000" stop="20251221160000 +0000" channel="BBC World News.tl">
-    <title lang="en">العين العالمية - Global Eye</title>
-    <desc lang="en">برنامج أسبوعي من بي بي سي العالمية،، يقدم أهم ما جاء في الصحافة الجنائية من جميع أنحاء العالم.
-A weekly programme from the BBC World Service, bringing forensic journalism from all corners of the world.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251221163000 +0000" stop="20251221170000 +0000" channel="BBC World News.tl">
-    <title lang="en">توكينغ بيزنيس - Talking Business</title>
-    <desc lang="en">هل تريد أن تعرف ما الذي يجعل الأعمال تنجح وتزدهر وما الذي يحدث في الاقتصاد العالمي؟ خبراؤنا سيجيبون على أسئلتك واستفساراتك.
-Want to know what makes businesses tick, and what's happening in the global economy? Find out as experts give you the answers.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
   </programme>
   <programme start="20251221180000 +0000" stop="20251221183000 +0000" channel="BBC World News.tl">
     <title lang="en">أخبار بي بي سي - BBC News</title>
@@ -36129,6 +36001,123 @@ Come explore the world with Blippi! There are so many exciting things to explore
   <programme start="20251220193000 +0000" stop="20251220200000 +0000" channel="Bloomberg.tl">
     <title lang="en">ذا سيركويت - The Circuit: Dana Walden, Disney Entertainment Co-Chair</title>
   </programme>
+  <programme start="20251220200000 +0000" stop="20251220210000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبرج تحقق - Bloomberg Investigates: Inside North Korea's Secret Remote IT Workforce</title>
+  </programme>
+  <programme start="20251220210000 +0000" stop="20251220213000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Best of the Bloomberg Women, Money &amp; Power...</title>
+  </programme>
+  <programme start="20251220213000 +0000" stop="20251220220000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Pascal Desroches, AT&amp;T</title>
+  </programme>
+  <programme start="20251220220000 +0000" stop="20251220223000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Matt Skaruppa, Duolingo</title>
+  </programme>
+  <programme start="20251220223000 +0000" stop="20251220230000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Screentime: The Business of Pop Culture</title>
+  </programme>
+  <programme start="20251220230000 +0000" stop="20251220233000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251220233000 +0000" stop="20251221000000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="Bloomberg.tl">
+    <title lang="en">الصفقة مع أليكس رودريجيز وجيسون كيلي - The Deal with Alex Rodriguez and Jason Kelly: The Future of Fitness With Peloton's Robin Arz?n</title>
+  </programme>
+  <programme start="20251221013000 +0000" stop="20251221020000 +0000" channel="Bloomberg.tl">
+    <title lang="en">ذا سيركويت - The Circuit: Dana Walden, Disney Entertainment Co-Chair</title>
+  </programme>
+  <programme start="20251221020000 +0000" stop="20251221023000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Originals</title>
+  </programme>
+  <programme start="20251221023000 +0000" stop="20251221030000 +0000" channel="Bloomberg.tl">
+    <title lang="en">LEADERS with Francine Lacqua: Theresa May and the Brutality of Politics</title>
+  </programme>
+  <programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Is Europe Too Late to Compete in the Chip War?</title>
+  </programme>
+  <programme start="20251221040000 +0000" stop="20251221050000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبرج تحقق - Bloomberg Investigates: Inside North Korea's Secret Remote IT Workforce</title>
+  </programme>
+  <programme start="20251221050000 +0000" stop="20251221053000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Matt Skaruppa, Duolingo</title>
+  </programme>
+  <programme start="20251221053000 +0000" stop="20251221060000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Pascal Desroches, AT&amp;T</title>
+  </programme>
+  <programme start="20251221060000 +0000" stop="20251221063000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Next Africa</title>
+  </programme>
+  <programme start="20251221070000 +0000" stop="20251221073000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221073000 +0000" stop="20251221080000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221080000 +0000" stop="20251221090000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبرج تحقق - Bloomberg Investigates: Inside North Korea's Secret Remote IT Workforce</title>
+  </programme>
+  <programme start="20251221090000 +0000" stop="20251221100000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20251221100000 +0000" stop="20251221110000 +0000" channel="Bloomberg.tl">
+    <title lang="en">الصفقة مع أليكس رودريجيز وجيسون كيلي - The Deal with Alex Rodriguez and Jason Kelly: The Future of Fitness With Peloton's Robin Arz?n</title>
+  </programme>
+  <programme start="20251221110000 +0000" stop="20251221113000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221113000 +0000" stop="20251221120000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221123000 +0000" stop="20251221130000 +0000" channel="Bloomberg.tl">
+    <title lang="en">عرض ديفيد روبنشتاين - The David Rubenstein Show: David Solomon, Goldman Sachs CEO</title>
+  </programme>
+  <programme start="20251221130000 +0000" stop="20251221133000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Gina Goetter, Hasbro</title>
+  </programme>
+  <programme start="20251221133000 +0000" stop="20251221140000 +0000" channel="Bloomberg.tl">
+    <title lang="en">LEADERS with Francine Lacqua: Theresa May and the Brutality of Politics</title>
+  </programme>
+  <programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20251221150000 +0000" stop="20251221153000 +0000" channel="Bloomberg.tl">
+    <title lang="en">LEADERS with Francine Lacqua: Theresa May and the Brutality of Politics</title>
+  </programme>
+  <programme start="20251221153000 +0000" stop="20251221160000 +0000" channel="Bloomberg.tl">
+    <title lang="en">ذا سيركويت - The Circuit: Dana Walden, Disney Entertainment Co-Chair</title>
+  </programme>
+  <programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="Bloomberg.tl">
+    <title lang="en">LEADERS with Francine Lacqua: Theresa May and the Brutality of Politics</title>
+  </programme>
+  <programme start="20251221163000 +0000" stop="20251221170000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Originals</title>
+  </programme>
+  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبرج تحقق - Bloomberg Investigates: Inside North Korea's Secret Remote IT Workforce</title>
+  </programme>
+  <programme start="20251221190000 +0000" stop="20251221193000 +0000" channel="Bloomberg.tl">
+    <title lang="en">عرض ديفيد روبنشتاين - The David Rubenstein Show: David Solomon, Goldman Sachs CEO</title>
+  </programme>
+  <programme start="20251221193000 +0000" stop="20251221200000 +0000" channel="Bloomberg.tl">
+    <title lang="en">بلومبيرغ تشيف فيوتشر أوفيسر - Bloomberg Chief Future Officer: Pascal Desroches, AT&amp;T</title>
+  </programme>
+  <programme start="20251221200000 +0000" stop="20251221203000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221203000 +0000" stop="20251221210000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Mishal Husain Show</title>
+  </programme>
+  <programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Originals</title>
+  </programme>
+  <programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Wall Street Week</title>
+  </programme>
   <programme start="20251221230000 +0000" stop="20251222010000 +0000" channel="Bloomberg.tl">
     <title lang="en">Bloomberg The Asia Trade</title>
   </programme>
@@ -36174,17 +36163,56 @@ Come explore the world with Blippi! There are so many exciting things to explore
   <programme start="20251222190000 +0000" stop="20251222200000 +0000" channel="Bloomberg.tl">
     <title lang="en">Bloomberg Businessweek Daily</title>
   </programme>
-  <programme start="20251222200000 +0000" stop="20251222203000 +0000" channel="Bloomberg.tl">
-    <title lang="en">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20251222203000 +0000" stop="20251222210000 +0000" channel="Bloomberg.tl">
-    <title lang="en">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20251222213000 +0000" stop="20251222220000 +0000" channel="Bloomberg.tl">
-    <title lang="en">Bloomberg Originals</title>
+  <programme start="20251222200000 +0000" stop="20251222220000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg The Close</title>
   </programme>
   <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="Bloomberg.tl">
-    <title lang="en">Bloomberg Wall Street Week</title>
+    <title lang="en">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20251222230000 +0000" stop="20251223010000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg The Asia Trade</title>
+  </programme>
+  <programme start="20251223010000 +0000" stop="20251223030000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg: The China Show</title>
+  </programme>
+  <programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Insight with Haslinda Amin</title>
+  </programme>
+  <programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Horizons Middle East &amp; Africa</title>
+  </programme>
+  <programme start="20251223060000 +0000" stop="20251223070000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20251223070000 +0000" stop="20251223090000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg: The Opening Trade</title>
+  </programme>
+  <programme start="20251223090000 +0000" stop="20251223100000 +0000" channel="Bloomberg.tl">
+    <title lang="en">The Pulse with Francine Lacqua</title>
+  </programme>
+  <programme start="20251223100000 +0000" stop="20251223110000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Brief</title>
+  </programme>
+  <programme start="20251223110000 +0000" stop="20251223140000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20251223140000 +0000" stop="20251223160000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Open Interest</title>
+  </programme>
+  <programme start="20251223160000 +0000" stop="20251223170000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Tech</title>
+  </programme>
+  <programme start="20251223170000 +0000" stop="20251223173000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Crypto</title>
+  </programme>
+  <programme start="20251223173000 +0000" stop="20251223180000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Markets</title>
+  </programme>
+  <programme start="20251223180000 +0000" stop="20251223190000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20251223190000 +0000" stop="20251223200000 +0000" channel="Bloomberg.tl">
+    <title lang="en">Bloomberg Businessweek Daily</title>
   </programme>
   <programme start="20251223200000 +0000" stop="20251223220000 +0000" channel="Bloomberg.tl">
     <title lang="en">Bloomberg The Close</title>
@@ -36519,36 +36547,6 @@ Come explore the world with Blippi! There are so many exciting things to explore
   <programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="Bloomberg TV.us.tl">
     <title lang="en">بلومبرج : ذا كلوز - Bloomberg the Close</title>
   </programme>
-  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221160000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221170000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
   <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="CBC.tl">
     <title lang="en">CBC</title>
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
@@ -36813,36 +36811,6 @@ A contemporary entertainment channel offering a mix of popular series and talk s
     <title lang="en">CBC</title>
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
 A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221160000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221170000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
   </programme>
   <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="CBC Drama.tl">
     <title lang="en">CBC دراما - CBC Drama</title>
@@ -37588,36 +37556,6 @@ An Arabic news channel broadcasting live coverage of current events from across 
     <title lang="en">CBC إكسترا نيوز - CBC Extra News</title>
     <desc lang="en">إحدى قنوات شبكة CBC، إخبارية تختص بتقديم تغطيات الأخبار المباشرة للأحداث، عبر عدد من المذيعين والصحفيين والمراسلين.
 An Arabic news channel broadcasting live coverage of current events from across the world.</desc>
-  </programme>
-  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251221150000 +0000" stop="20251221160000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251221160000 +0000" stop="20251221170000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
   </programme>
   <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="CBC Sofra.tl">
     <title lang="en">CBC سفرة - CBC Sofra</title>
@@ -41197,56 +41135,6 @@ Business news and analysis , featuring interviews with the region's leading exec
     <desc lang="en">يسلط البرنامج الضوء على أبرز الأحداث الاقتصادية والاجتماعية في المملكة الأردنية الهاشمية.
 An overview of the relevant economic and social events in the Hashemite Kingdom of Jordan.</desc>
   </programme>
-  <programme start="20251220140000 +0000" stop="20251220150000 +0000" channel="CNN.tl">
-    <title lang="en">سميركونيش - Smerconish</title>
-    <desc lang="en">مقدم البرنامج مايكل سميركونيش يناقش مواضيع سياسية أمريكية وأخبار مهمة دارت ضمن الأسبوع.
-Host Michael Smerconish tackles the American political and news stories of the week.</desc>
-  </programme>
-  <programme start="20251220150000 +0000" stop="20251220153000 +0000" channel="CNN.tl">
-    <title lang="en">سي-ان-ان كريـَيترز: ذِ إنترو - CNN Creators: The Intro</title>
-    <desc lang="en">برنامج حديث بنكهة رقمية يستخدمه شباب يحكي قصص بتعكس التكنولوجيا، الفن، الثقافات والرياضة.
-A fresh digital-forward show where young storytellers explore the trends shaping culture, tech, art, and sports و brought to you by CNN Creators.</desc>
-  </programme>
-  <programme start="20251220153000 +0000" stop="20251220160000 +0000" channel="CNN.tl">
-    <title lang="en">إنسايد أفريكا:ذا بينتيد هاوس أوف زيمبابوي - Inside Africa:The Painted Houses of Zimbabwe</title>
-    <desc lang="en">برنامج أسبوعي من قلب إفريقيا، يلقي نظرة مقربة على الحياة الاجتماعية والسياسية والاقتصادية والثقافية في القارة السمراء، تقدم أيشا سيساي
-News magazine programme featuring reports on African political and social issues from host Isha Sesay and CNN correspondents across the continent.</desc>
-  </programme>
-  <programme start="20251220160000 +0000" stop="20251220170000 +0000" channel="CNN.tl">
-    <title lang="en">ذي أمانبور آور - The Amanpour Hour</title>
-    <desc lang="en">كريستيان أمانبور، المذيعة الرئيسية لـ CNN الدولية، تقدم نظرة ثاقبة لأهم القصص الإخبارية العالمية والمحلية عبر أسبوع من الزمن.
-Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-  </programme>
-  <programme start="20251220170000 +0000" stop="20251220173000 +0000" channel="CNN.tl">
-    <title lang="en">وورلد سبورت - World Sport</title>
-    <desc lang="en">استعراض شامل لآخر الأخبار الرياضية من جميع أنحاء العالم، يسلط الضوء على اللاعبين ونجوم الرياضة وصانعي الأخبار.
-A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.</desc>
-  </programme>
-  <programme start="20251220173000 +0000" stop="20251220180000 +0000" channel="CNN.tl">
-    <title lang="en">مور ذان ايه غيم - More Than a Game</title>
-    <desc lang="en">في هذه القصة الحقيقية، يخضع خمسة صغار من لاعبي كرة السلة الموهوبين من ولاية أوهايو للتدريب على يد والد أحد اللاعبين يتمتع بشخصية كارزمية لكنه يفتقر إلى الخبرة، بينما يقودهم ليبرون جيمس، الذي سيسطع نجمه في عالم كرة السلة الأمريكية، في رحلة نحو الشهرة.
-From grade school through high school, LeBron James and four talented teammates burn up the basketball courts throughout Ohio. Documentary starring LeBron James and Dru Joyce.</desc>
-  </programme>
-  <programme start="20251220180000 +0000" stop="20251220183000 +0000" channel="CNN.tl">
-    <title lang="en">أفريكان فويسيز:جولي ميهرتو، كونتمبوراري فيجوال آرتيست - African Voices:Julie Mehretu, Contemporary Visual Artist</title>
-    <desc lang="en">يقدم للمشاهدين وجهة نظر فريدة من نوعها، ويعرض مشاركات الشخصيات الأفريقية في النقاشات من مختلف المجالات الاقتصادية والسياسية والموسيقى والرياضة.
-'African Voices' offers viewers a unique viewpoint, showcasing engaging African personalities in intimate discussions from business and politics to music and sport.</desc>
-  </programme>
-  <programme start="20251220183000 +0000" stop="20251220190000 +0000" channel="CNN.tl">
-    <title lang="en">إنسايد أفريكا:بوتسواناز سبورتس ستارز - Inside Africa:Botswana's Sports Stars</title>
-    <desc lang="en">برنامج أسبوعي من قلب إفريقيا، يلقي نظرة مقربة على الحياة الاجتماعية والسياسية والاقتصادية والثقافية في القارة السمراء، تقدم أيشا سيساي
-News magazine programme featuring reports on African political and social issues from host Isha Sesay and CNN correspondents across the continent.</desc>
-  </programme>
-  <programme start="20251220190000 +0000" stop="20251220200000 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن نيوز روم - CNN Newsroom</title>
-    <desc lang="en">يعرض أهم الأخبار العاجلة التي ترد إلى غرفة الأخبار من حول العالم.
-CNN Newsroom is where breaking news happens; witness the resources of the world's news leader at work as the day's stories develop.</desc>
-  </programme>
-  <programme start="20251220200000 +0000" stop="20251220201500 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن ماركت بلاس يوريوب:يوروبز يونيكورنز آت ويب ساميت لشبونة - CNN Marketplace Europe:Europe's Unicorns at Web Summit Lisbon</title>
-    <desc lang="en"> برنامج اقتصادي يلقي الضوء على واحدة من أقوى القارات في العالم، وهي في خضم مواجهتها للتحديات الاقتصادية والفرص التي ستتاح خلال العشر سنوات القادمة.
-Business program putting the spotlight on one of the world’s most influential continents as it faces up to the economic challenges and opportunities of the next 10 years.</desc>
-  </programme>
   <programme start="20251220201500 +0000" stop="20251220203000 +0000" channel="CNN.tl">
     <title lang="en">سي إن إن ماركيت بليس إيجا - CNN Marketplace Asia</title>
     <desc lang="en">يتيح البرنامج للمشاهدين الوصول إلى معلومات قيمة حول الأسواق الآسيوية مع نظرة على الأحداث والتطورات التي تؤثر على قطاع الأعمال.
@@ -41477,20 +41365,20 @@ CNN Newsroom is where breaking news happens; witness the resources of the world'
     <desc lang="en">يعرض أهم الأخبار العاجلة التي ترد إلى غرفة الأخبار من حول العالم.
 CNN Newsroom is where breaking news happens; witness the resources of the world's news leader at work as the day's stories develop.</desc>
   </programme>
-  <programme start="20251222010000 +0000" stop="20251222013000 +0000" channel="CNN.tl">
+  <programme start="20251222010000 +0000" stop="20251222020000 +0000" channel="CNN.tl">
+    <title lang="en">روب راينر: هِز لايف آند ليجاسي - Rob Reiner: His Life and Legacy</title>
+    <desc lang="en">تُقدِّم سارة سيدنر تقريراً يتناول آخر مستجدات التحقيق والأسئلة العالقة بشأن وفاة روب راينر وميشيل سينغر راينر، مع إلقاء الضوء على إرثهما الممتد وتأثيرهما العميق في هوليوود وخارجها.
+Sara Sidner reports on the latest in the investigation and unanswered questions around the death of Rob Reiner and Michele Singer Reiner and looks at their long legacy in Hollywood and beyond.</desc>
+  </programme>
+  <programme start="20251222020000 +0000" stop="20251222023000 +0000" channel="CNN.tl">
     <title lang="en">كونيكتينغ أفريكا:محمد منصور - Connecting Africa:Mohamed Mansour</title>
     <desc lang="en">سي إن إن تقدم لمحات تعريفية عن الأشخاص والمشاريع والشركات التي تُحدث ثورة في الأعمال التجارية الأفريقية وتجمع بلدان القارة معاً.
 CNN profiles the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
   </programme>
-  <programme start="20251222013000 +0000" stop="20251222020000 +0000" channel="CNN.tl">
+  <programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="CNN.tl">
     <title lang="en">إنسايد أفريكا:بوتسواناز سبورتس ستارز - Inside Africa:Botswana's Sports Stars</title>
     <desc lang="en">برنامج أسبوعي من قلب إفريقيا، يلقي نظرة مقربة على الحياة الاجتماعية والسياسية والاقتصادية والثقافية في القارة السمراء، تقدم أيشا سيساي
 News magazine programme featuring reports on African political and social issues from host Isha Sesay and CNN correspondents across the continent.</desc>
-  </programme>
-  <programme start="20251222020000 +0000" stop="20251222030000 +0000" channel="CNN.tl">
-    <title lang="en">فريد زكريا جي بي أس - Fareed Zakaria GPS</title>
-    <desc lang="en">يقدم الأخبار الدولية وينظر إلى النهج الخلاق لحل المشاكل التي تواجهنا في العالم، تقديم الكتاب الشهير بصحيفة نيويورك تايمز فريد زكريا
-New York Times best-selling author Fareed Zakaria hosts this international news programme that looks at innovative approaches to solving the world's toughest problems.</desc>
   </programme>
   <programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="CNN.tl">
     <title lang="en">أفريكان فويسيز - African Voices</title>
@@ -41658,9 +41546,9 @@ Kaitlan Collins goes straight to the source for the best reporting on the day's 
 Offering insight into the day's driving stories from around the globe.</desc>
   </programme>
   <programme start="20251223040000 +0000" stop="20251223050000 +0000" channel="CNN.tl">
-    <title lang="en">لورا كوتس لايف - Laura Coates Live</title>
-    <desc lang="en">لورا كوتس المحللة القانونية، تقدم تحليلاً ثاقبا يثير التفكير، حول أكبر وأهم أحداث اليوم.
-Legal analyst Laura Coates delivers insightful and thought-provoking analysis of the day's biggest stories.</desc>
+    <title lang="en">ذَ ستوري وِذ إلكس مايكلسن - The Story Is With Elex Michaelson</title>
+    <desc lang="en">برنامج حواري مشوّق يقدّمه أليكس مايكلسن، يسلّط الضوء على قصص وشخصيات مؤثرة تكشف أسرار الأحداث والقضايا التي تشغل العالم.
+A dynamic talk show where Elex Michaelson dives into powerful conversations with leaders and changemakers, revealing the stories and insights behind today’s most impactful events.of humor.</desc>
   </programme>
   <programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="CNN.tl">
     <title lang="en">ذَ ستوري وِذ إلكس مايكلسن - The Story Is With Elex Michaelson</title>
@@ -60212,10 +60100,10 @@ Relive Argentina&amp;apos;s triumphant moments against England in the 1986™ an
   <programme start="20251220115619 +0000" stop="20251220115857 +0000" channel="Fairuz.tl">
     <title lang="en">في قهوة على المفرق - Fe Ahwe Al Mafraq</title>
   </programme>
-  <programme start="20251220115857 +0000" stop="20251220120626 +0000" channel="Fairuz.tl">
+  <programme start="20251220115857 +0000" stop="20251220120627 +0000" channel="Fairuz.tl">
     <title lang="en">نسم علينا الهوى - Nassam Alayna El Hawa</title>
   </programme>
-  <programme start="20251220120626 +0000" stop="20251220120945 +0000" channel="Fairuz.tl">
+  <programme start="20251220120627 +0000" stop="20251220120945 +0000" channel="Fairuz.tl">
     <title lang="en">علموني - </title>
   </programme>
   <programme start="20251220120945 +0000" stop="20251220121247 +0000" channel="Fairuz.tl">
@@ -99483,10 +99371,13 @@ Successful author Veronica Henely finds herself trapped in the past at the time 
     <title lang="en">بريس بليه - Press Play</title>
   </programme>
   <programme start="20251222210000 +0000" stop="20251222220000 +0000" channel="Myx.tl">
-    <title lang="en">Myx Now</title>
+    <title lang="en">Bini X BGYO USA Adventures</title>
   </programme>
-  <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="Myx.tl">
-    <title lang="en">أم واي أكس - Myx Live</title>
+  <programme start="20251222220000 +0000" stop="20251222223000 +0000" channel="Myx.tl">
+    <title lang="en">Myx Live</title>
+  </programme>
+  <programme start="20251222223000 +0000" stop="20251222230000 +0000" channel="Myx.tl">
+    <title lang="en">Myx Live</title>
   </programme>
   <programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="Myx.tl">
     <title lang="en">The Ripple</title>
@@ -126536,130 +126427,200 @@ Socio-political talk show, featuring guests who put forward and discuss issues o
     <desc lang="en">برنامج رياضي متخصص يستضيف نخبة من ألمع النجوم لمناقشة الأمور الفنية والتكتيكية لكرة القدم.
 Featuring a handpicked selection of football players who share their insights into the techniques and strategies deployed in the game.</desc>
   </programme>
-  <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251222213000 +0000" stop="20251222214700 +0000" channel="Saudi 1.tl">
+    <title lang="en">الأخبار - News</title>
+    <desc lang="en">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.
+International and local news with up-to-the minute coverage on the hour every hour.</desc>
   </programme>
-  <programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251222214700 +0000" stop="20251222222800 +0000" channel="Saudi 1.tl">
+    <title lang="en">ديرتنا - Deeratna</title>
+    <desc lang="en">يستعرض برنامج ديرتنا ملامح الحياة في مناطق المملكة، من عادات وتراث وحكايات الناس، ويسلط الضوء على المبادرات المحلية والجهود المجتمعية التي تعزز الهوية الوطنية، مقدّماً محتوى يعكس جمال التنوع السعودي.
+Deeratna showcases life across Saudi regions, highlighting traditions, stories, and local culture. It features community initiatives that strengthen national identity, offering content that reflects the beauty and diversity of Saudi society.</desc>
   </programme>
-  <programme start="20251223000000 +0000" stop="20251223010000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251222222800 +0000" stop="20251222225800 +0000" channel="Saudi 1.tl">
+    <title lang="en">تجربة فريدة - Tajruba Fareedah</title>
+    <desc lang="en">يشارك المقيمون في المملكة العربية السعودية قصص نجاحهم ويتحدثون عن روح الأخوة في المجتمع، التي ساعدتهم على الوصول إلى ذروة حياتهم المهنية.
+Residents of the Kingdom of Saudi Arabia share their success stories, and talk about the spirit of brotherhood and community that helped them scale the career ladder.</desc>
   </programme>
-  <programme start="20251223010000 +0000" stop="20251223020000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251222225800 +0000" stop="20251223000500 +0000" channel="Saudi 1.tl">
+    <title lang="en">الشارع السعودي - A-Share' A-Saudi</title>
+    <desc lang="en">كل ما يشغل بال المواطن السعودي ويقع في دائرة اهتماماته، من الأخبار ونبض الشارع ومسيرة التطور في المملكة وفقاً لرؤية 2030.
+Everything that Saudi citizens care about from news about what’s happening on the street to updates on the developments happening in compliance with Vision 2030.</desc>
   </programme>
-  <programme start="20251223020000 +0000" stop="20251223030000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223000500 +0000" stop="20251223014500 +0000" channel="Saudi 1.tl">
+    <title lang="en">دورينا غير - Dawreena Ghair</title>
+    <desc lang="en">برنامج رياضي متخصص يستضيف نخبة من ألمع النجوم لمناقشة الأمور الفنية والتكتيكية لكرة القدم.
+Featuring a handpicked selection of football players who share their insights into the techniques and strategies deployed in the game.</desc>
   </programme>
-  <programme start="20251223030000 +0000" stop="20251223040000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223014500 +0000" stop="20251223021500 +0000" channel="Saudi 1.tl">
+    <title lang="en">علوم الأولين - Uloom Al Awaleen</title>
+    <desc lang="en">برنامج يقدم القصص الشعبي في قالب درامي لاستخلاص مبادئ وقيم وسوالف الأولين. تقديم نواف الهويمل.
+Nawwaf Al-Huwaymel presents a selection of folk tales that contain valuable life lessons and principles worth emulating.</desc>
   </programme>
-  <programme start="20251223040000 +0000" stop="20251223050000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223021500 +0000" stop="20251223024700 +0000" channel="Saudi 1.tl">
+    <title lang="en">آثار السعودية - Aathar As-Saoudiya</title>
+    <desc lang="en">رحلة تلفزيونية إستكشافية تستعرض لنا الأماكن والآثار العريقة في أرجاء السعودية.
+A TV Journey through the beautiful land of Saudi Arabia, exploring unseen parts and digging deep through its history.</desc>
+  </programme>
+  <programme start="20251223024700 +0000" stop="20251223031300 +0000" channel="Saudi 1.tl">
+    <title lang="en">فتاوى - Fataawa</title>
+    <desc lang="en">برنامج يستضيف كبار العلماء والشيوخ للإجابة على استفسارات المشاهدين في الأمور الفقهية والمسائل الدينية وفق الشرع الإسلامي والقرآن الكريم والسنة النبوية.
+Erudite Muslim scholars address viewers’ queries regarding matters in accordance with the Islamic law, the Holy Qur’an and the Prophet’s Sunnah.</desc>
+  </programme>
+  <programme start="20251223031300 +0000" stop="20251223034000 +0000" channel="Saudi 1.tl">
+    <title lang="en">ديرتنا - Deeratna</title>
+    <desc lang="en">يستعرض برنامج ديرتنا ملامح الحياة في مناطق المملكة، من عادات وتراث وحكايات الناس، ويسلط الضوء على المبادرات المحلية والجهود المجتمعية التي تعزز الهوية الوطنية، مقدّماً محتوى يعكس جمال التنوع السعودي.
+Deeratna showcases life across Saudi regions, highlighting traditions, stories, and local culture. It features community initiatives that strengthen national identity, offering content that reflects the beauty and diversity of Saudi society.</desc>
+  </programme>
+  <programme start="20251223034000 +0000" stop="20251223041000 +0000" channel="Saudi 1.tl">
+    <title lang="en">ديرتنا - Deeratna</title>
+    <desc lang="en">يستعرض برنامج ديرتنا ملامح الحياة في مناطق المملكة، من عادات وتراث وحكايات الناس، ويسلط الضوء على المبادرات المحلية والجهود المجتمعية التي تعزز الهوية الوطنية، مقدّماً محتوى يعكس جمال التنوع السعودي.
+Deeratna showcases life across Saudi regions, highlighting traditions, stories, and local culture. It features community initiatives that strengthen national identity, offering content that reflects the beauty and diversity of Saudi society.</desc>
+  </programme>
+  <programme start="20251223041000 +0000" stop="20251223044000 +0000" channel="Saudi 1.tl">
+    <title lang="en">تجربة فريدة - Tajruba Fareedah</title>
+    <desc lang="en">يشارك المقيمون في المملكة العربية السعودية قصص نجاحهم ويتحدثون عن روح الأخوة في المجتمع، التي ساعدتهم على الوصول إلى ذروة حياتهم المهنية.
+Residents of the Kingdom of Saudi Arabia share their success stories, and talk about the spirit of brotherhood and community that helped them scale the career ladder.</desc>
+  </programme>
+  <programme start="20251223044000 +0000" stop="20251223050000 +0000" channel="Saudi 1.tl">
+    <title lang="en">كشنة وكشتة - Kishna wa Kushta</title>
+    <desc lang="en">برنامج يقدم العديد من تجارب الطبخ من خلال عدة مناطق مختلفة في المملكة وضع بين يدين المشاهد أبرز الحلول المختلفة والمستوحاة من البيئة.
+A program that offers a variety of cooking experiences from different regions across the Kingdom, showcasing distinctive culinary traditions and presenting viewers with diverse solutions and inspirations drawn from the local environment.</desc>
   </programme>
   <programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+    <title lang="en">الشارع السعودي - A-Share' A-Saudi</title>
+    <desc lang="en">كل ما يشغل بال المواطن السعودي ويقع في دائرة اهتماماته، من الأخبار ونبض الشارع ومسيرة التطور في المملكة وفقاً لرؤية 2030.
+Everything that Saudi citizens care about from news about what’s happening on the street to updates on the developments happening in compliance with Vision 2030.</desc>
   </programme>
-  <programme start="20251223060000 +0000" stop="20251223070000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223060000 +0000" stop="20251223060500 +0000" channel="Saudi 1.tl">
+    <title lang="en">موجز الأخبار - News Summary</title>
+    <desc lang="en">تابعوا أحدث وأهم عناوين الأخبار على مدار الساعة من حول العالم.
+Updates on current events, global affairs, politics, and breaking news stories.</desc>
   </programme>
-  <programme start="20251223070000 +0000" stop="20251223080000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223060500 +0000" stop="20251223070000 +0000" channel="Saudi 1.tl">
+    <title lang="en">لقاء خاص - Liqaa Khass</title>
+    <desc lang="en">برنامج حواري سياسي اجتماعي وديني منّوع، يستضيف نخبة من الضيوف لطرح ومناقشة القضايا التي تهم الشارع العربي.
+Socio-political talk show, featuring guests who put forward and discuss issues of concern to the Arab people.</desc>
   </programme>
-  <programme start="20251223080000 +0000" stop="20251223090000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223070000 +0000" stop="20251223091300 +0000" channel="Saudi 1.tl">
+    <title lang="en">صباح السعودية - Sabah Al-Saudiya</title>
+    <desc lang="en">برنامج صباحي يناقش مختلف المواضيع السياسية والاجتماعية، والثقافية، إضافة إلى المقابلات الحصرية، كما يقدم فقرات عن الفن والصحة وأحوال الطقس.
+A morning show that discusses topics related to politics, current affairs, arts and culture, and health, with exclusive interviews, rounding up with the weather forecast.</desc>
   </programme>
-  <programme start="20251223090000 +0000" stop="20251223100000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223091300 +0000" stop="20251223092000 +0000" channel="Saudi 1.tl">
+    <title lang="en">صلاة الظهر - Thuhr prayer</title>
+    <desc lang="en">نقل لشعائر صلاة الظهر.
+Live Dohor prayer.</desc>
   </programme>
-  <programme start="20251223100000 +0000" stop="20251223110000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223092000 +0000" stop="20251223093700 +0000" channel="Saudi 1.tl">
+    <title lang="en">آثار السعودية - Aathar As-Saoudiya</title>
+    <desc lang="en">رحلة تلفزيونية إستكشافية تستعرض لنا الأماكن والآثار العريقة في أرجاء السعودية.
+A TV Journey through the beautiful land of Saudi Arabia, exploring unseen parts and digging deep through its history.</desc>
   </programme>
-  <programme start="20251223110000 +0000" stop="20251223120000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223093700 +0000" stop="20251223100000 +0000" channel="Saudi 1.tl">
+    <title lang="en">تجربة فريدة - Tajruba Fareedah</title>
+    <desc lang="en">يشارك المقيمون في المملكة العربية السعودية قصص نجاحهم ويتحدثون عن روح الأخوة في المجتمع، التي ساعدتهم على الوصول إلى ذروة حياتهم المهنية.
+Residents of the Kingdom of Saudi Arabia share their success stories, and talk about the spirit of brotherhood and community that helped them scale the career ladder.</desc>
   </programme>
-  <programme start="20251223120000 +0000" stop="20251223130000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223100000 +0000" stop="20251223100500 +0000" channel="Saudi 1.tl">
+    <title lang="en">موجز الأخبار - News Summary</title>
+    <desc lang="en">تابعوا أحدث وأهم عناوين الأخبار على مدار الساعة من حول العالم.
+Updates on current events, global affairs, politics, and breaking news stories.</desc>
   </programme>
-  <programme start="20251223130000 +0000" stop="20251223140000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223100500 +0000" stop="20251223103000 +0000" channel="Saudi 1.tl">
+    <title lang="en">كشنة وكشتة - Kishna wa Kushta</title>
+    <desc lang="en">برنامج يقدم العديد من تجارب الطبخ من خلال عدة مناطق مختلفة في المملكة وضع بين يدين المشاهد أبرز الحلول المختلفة والمستوحاة من البيئة.
+A program that offers a variety of cooking experiences from different regions across the Kingdom, showcasing distinctive culinary traditions and presenting viewers with diverse solutions and inspirations drawn from the local environment.</desc>
   </programme>
-  <programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223103000 +0000" stop="20251223120500 +0000" channel="Saudi 1.tl">
+    <title lang="en">دورينا غير - Dawreena Ghair</title>
+    <desc lang="en">برنامج رياضي متخصص يستضيف نخبة من ألمع النجوم لمناقشة الأمور الفنية والتكتيكية لكرة القدم.
+Featuring a handpicked selection of football players who share their insights into the techniques and strategies deployed in the game.</desc>
   </programme>
-  <programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223120500 +0000" stop="20251223123000 +0000" channel="Saudi 1.tl">
+    <title lang="en">فتاوى - Fataawa</title>
+    <desc lang="en">برنامج يستضيف كبار العلماء والشيوخ للإجابة على استفسارات المشاهدين في الأمور الفقهية والمسائل الدينية وفق الشرع الإسلامي والقرآن الكريم والسنة النبوية.
+Erudite Muslim scholars address viewers’ queries regarding matters in accordance with the Islamic law, the Holy Qur’an and the Prophet’s Sunnah.</desc>
   </programme>
-  <programme start="20251223160000 +0000" stop="20251223170000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223123000 +0000" stop="20251223133000 +0000" channel="Saudi 1.tl">
+    <title lang="en">الأخبار - News</title>
+    <desc lang="en">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.
+International and local news with up-to-the minute coverage on the hour every hour.</desc>
   </programme>
-  <programme start="20251223170000 +0000" stop="20251223180000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223133000 +0000" stop="20251223140500 +0000" channel="Saudi 1.tl">
+    <title lang="en">ديرتنا - Deeratna</title>
+    <desc lang="en">يستعرض برنامج ديرتنا ملامح الحياة في مناطق المملكة، من عادات وتراث وحكايات الناس، ويسلط الضوء على المبادرات المحلية والجهود المجتمعية التي تعزز الهوية الوطنية، مقدّماً محتوى يعكس جمال التنوع السعودي.
+Deeratna showcases life across Saudi regions, highlighting traditions, stories, and local culture. It features community initiatives that strengthen national identity, offering content that reflects the beauty and diversity of Saudi society.</desc>
   </programme>
-  <programme start="20251223180000 +0000" stop="20251223190000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223140500 +0000" stop="20251223143600 +0000" channel="Saudi 1.tl">
+    <title lang="en">رجال عبد العزيز - Rijal Abdulaziz</title>
+    <desc lang="en">سلسلة وثائقية ترصد حكايات عميقة وتفاصيل دقيقة عن رجالات الملك المؤسس، وكيف ساهموا معه في توحيد المملكة.
+A documentary series featuring stories with precise details about the brave men commanded by the founding king, and their contributions to the unification of the kingdom.</desc>
   </programme>
-  <programme start="20251223190000 +0000" stop="20251223200000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223143600 +0000" stop="20251223150000 +0000" channel="Saudi 1.tl">
+    <title lang="en">صلاة المغرب - Maghrib prayer</title>
+    <desc lang="en">نقل مباشر لشعائر صلاة المغرب.
+Live Maghreb Prayer.</desc>
   </programme>
-  <programme start="20251223200000 +0000" stop="20251223210000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223150000 +0000" stop="20251223155500 +0000" channel="Saudi 1.tl">
+    <title lang="en">جو السعودية - Jaow As-Saudiya</title>
+    <desc lang="en">من الشمال إلى الجنوب ومن الشرق إلى الغرب، تتفرد كل منطقة في المملكة بطابعها الفريد الذي يفخر به السعوديون. يدعو أحمد الجار زواره من حول العالم لاستكشاف هذا التنوع بأنفسهم!
+North, South, East and West—each region in Saudi Arabia has unique vibes... Ahmed Aljar invites people from around the globe to experience this diversity firsthand.</desc>
   </programme>
-  <programme start="20251223210000 +0000" stop="20251223220000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223155500 +0000" stop="20251223160500 +0000" channel="Saudi 1.tl">
+    <title lang="en">المشروع - Al Mashruo'</title>
+    <desc lang="en">يستعرض االبرنامج أهم المشاريع السعودية الضخمة، أثناء الإنشاء وما بعد الإنجاز ومدى فعاليتها.
+Program highlights the mega projects on in the Kingdom of Saudi Arabia at the present time.</desc>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="Saudi 1.tl">
-    <title lang="en">السعودية 1 - Saudi 1</title>
-    <desc lang="en">تركز القناة على الأسرة والترفيه بصورة شاملة وعامة، يشاهدها جميع أفراد العائلة.
-A general entertainment channel for the entire family brought to you in Arabic.</desc>
+  <programme start="20251223160500 +0000" stop="20251223163500 +0000" channel="Saudi 1.tl">
+    <title lang="en">صلاة العشاء - Isha prayer</title>
+    <desc lang="en">نقل لشعائر صلاة العشاء.
+Live Eshaa prayer.</desc>
+  </programme>
+  <programme start="20251223163500 +0000" stop="20251223170900 +0000" channel="Saudi 1.tl">
+    <title lang="en">بيئتنا - Beiatna</title>
+    <desc lang="en">برنامج توعوي يهدف إلى توعية المشاهدين لأهمية حماية البيئة من التلوث، ويسلط الضوء على الأضرار الناجمة عن أهم التلوث البيئي.
+Awareness program, aims to educate viewers of the importance of protecting the environment from pollution, and highlights the most important damages caused by environmental pollution.</desc>
+  </programme>
+  <programme start="20251223170900 +0000" stop="20251223173000 +0000" channel="Saudi 1.tl">
+    <title lang="en">علوم الأولين - Uloom Al Awaleen</title>
+    <desc lang="en">برنامج يقدم القصص الشعبي في قالب درامي لاستخلاص مبادئ وقيم وسوالف الأولين. تقديم نواف الهويمل.
+Nawwaf Al-Huwaymel presents a selection of folk tales that contain valuable life lessons and principles worth emulating.</desc>
+  </programme>
+  <programme start="20251223173000 +0000" stop="20251223183000 +0000" channel="Saudi 1.tl">
+    <title lang="en">الشارع السعودي - A-Share' A-Saudi</title>
+    <desc lang="en">كل ما يشغل بال المواطن السعودي ويقع في دائرة اهتماماته، من الأخبار ونبض الشارع ومسيرة التطور في المملكة وفقاً لرؤية 2030.
+Everything that Saudi citizens care about from news about what’s happening on the street to updates on the developments happening in compliance with Vision 2030.</desc>
+  </programme>
+  <programme start="20251223183000 +0000" stop="20251223190700 +0000" channel="Saudi 1.tl">
+    <title lang="en">الأخبار - News</title>
+    <desc lang="en">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.
+International and local news with up-to-the minute coverage on the hour every hour.</desc>
+  </programme>
+  <programme start="20251223190700 +0000" stop="20251223205500 +0000" channel="Saudi 1.tl">
+    <title lang="en">شاعر الراية - Sha'er Ar-Raya</title>
+    <desc lang="en">برنامج تلفزيوني متخصص في مسابقات الشعر النبطي يهدف إلى إحياء الإرث الأدبي والشعري بأسلوب مبتكر يتماشى مع حداثة وتطور العصر.
+A competition that revives poetic heritage and literature by adapting it to modern times as poets compete over the best Nabati poems.</desc>
+  </programme>
+  <programme start="20251223205500 +0000" stop="20251223213000 +0000" channel="Saudi 1.tl">
+    <title lang="en">جو السعودية - Jaow As-Saudiya</title>
+    <desc lang="en">من الشمال إلى الجنوب ومن الشرق إلى الغرب، تتفرد كل منطقة في المملكة بطابعها الفريد الذي يفخر به السعوديون. يدعو أحمد الجار زواره من حول العالم لاستكشاف هذا التنوع بأنفسهم!
+North, South, East and West—each region in Saudi Arabia has unique vibes... Ahmed Aljar invites people from around the globe to experience this diversity firsthand.</desc>
+  </programme>
+  <programme start="20251223213000 +0000" stop="20251223214900 +0000" channel="Saudi 1.tl">
+    <title lang="en">الأخبار - News</title>
+    <desc lang="en">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.
+International and local news with up-to-the minute coverage on the hour every hour.</desc>
+  </programme>
+  <programme start="20251223214900 +0000" stop="20251223222400 +0000" channel="Saudi 1.tl">
+    <title lang="en">ديرتنا - Deeratna</title>
+    <desc lang="en">يستعرض برنامج ديرتنا ملامح الحياة في مناطق المملكة، من عادات وتراث وحكايات الناس، ويسلط الضوء على المبادرات المحلية والجهود المجتمعية التي تعزز الهوية الوطنية، مقدّماً محتوى يعكس جمال التنوع السعودي.
+Deeratna showcases life across Saudi regions, highlighting traditions, stories, and local culture. It features community initiatives that strengthen national identity, offering content that reflects the beauty and diversity of Saudi society.</desc>
+  </programme>
+  <programme start="20251223222400 +0000" stop="20251223230500 +0000" channel="Saudi 1.tl">
+    <title lang="en">المشروع - Al Mashruo'</title>
+    <desc lang="en">يستعرض االبرنامج أهم المشاريع السعودية الضخمة، أثناء الإنشاء وما بعد الإنجاز ومدى فعاليتها.
+Program highlights the mega projects on in the Kingdom of Saudi Arabia at the present time.</desc>
   </programme>
   <programme start="20251219230000 +0000" stop="20251220000000 +0000" channel="Saudi Quran.tl">
     <title lang="en">القرآن الكريم - Al Qura'an Al Kareem</title>
@@ -146644,16 +146605,16 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251222130500 +0000" stop="20251222145200 +0000" channel="be IN 4K.tl">
     <title lang="en">Arsenal vs. Wolverhampton Wanderers  - English Premier League 2025/2026 - Arsenal vs. Wolverhampton Wanderers   -  English Premier League 2025/2026</title>
   </programme>
-  <programme start="20251222145200 +0000" stop="20251222164100 +0000" channel="be IN 4K.tl">
+  <programme start="20251222145200 +0000" stop="20251222164500 +0000" channel="be IN 4K.tl">
     <title lang="en">Aston Villa vs. Manchester United - English Premier League 2025/2026 - Aston Villa vs. Manchester United  -  English Premier League 2025/2026</title>
   </programme>
-  <programme start="20251222164100 +0000" stop="20251222182700 +0000" channel="be IN 4K.tl">
+  <programme start="20251222164500 +0000" stop="20251222183100 +0000" channel="be IN 4K.tl">
     <title lang="en">Newcastle United vs. Chelsea - English Premier League 2025/2026 - Newcastle United vs. Chelsea  -  English Premier League 2025/2026</title>
   </programme>
-  <programme start="20251222182700 +0000" stop="20251222201800 +0000" channel="be IN 4K.tl">
+  <programme start="20251222183100 +0000" stop="20251222202200 +0000" channel="be IN 4K.tl">
     <title lang="en">Tottenham Hotspur vs. Liverpool - English Premier League 2025/2026 - Tottenham Hotspur vs. Liverpool  -  English Premier League 2025/2026</title>
   </programme>
-  <programme start="20251222201800 +0000" stop="20251222214000 +0000" channel="be IN 4K.tl">
+  <programme start="20251222202200 +0000" stop="20251222214000 +0000" channel="be IN 4K.tl">
     <title lang="en">Aston Villa vs. Manchester United - English Premier League 2025/2026 - Aston Villa vs. Manchester United  -  English Premier League 2025/2026</title>
   </programme>
   <programme start="20251222214000 +0000" stop="20251222233000 +0000" channel="be IN 4K.tl">
@@ -147419,7 +147380,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match - Real Madrid vs Sevilla  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251221133500 +0000" stop="20251221160000 +0000" channel="be INSports 1.tl">
-    <title lang="en">AJ Auxerre vs AS Monaco - French Cup - 2025/26 - Round of 64 - AJ Auxerre vs AS Monaco  -  French Cup</title>
+    <title lang="en">AJ Auxerre vs AS Monaco - French Cup - 2025/26 - Round of 32 - AJ Auxerre vs AS Monaco  -  French Cup</title>
   </programme>
   <programme start="20251221160000 +0000" stop="20251221190000 +0000" channel="be INSports 1.tl">
     <title lang="en">Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Aston Villa vs Manchester United  -  English Premier League 2025/2026 Week 17</title>
@@ -147431,22 +147392,22 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Best World Cup Player 2010</title>
   </programme>
   <programme start="20251221195000 +0000" stop="20251221220000 +0000" channel="be INSports 1.tl">
-    <title lang="en">Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or - French Cup - 2025/26 - Round of 64 - Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or  -  French Cup</title>
+    <title lang="en">Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or - French Cup - 2025/26 - Round of 32 - Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or  -  French Cup</title>
   </programme>
   <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="be INSports 1.tl">
     <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
   </programme>
-  <programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="be INSports 1.tl">
-    <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
+  <programme start="20251221223000 +0000" stop="20251221225400 +0000" channel="be INSports 1.tl">
+    <title lang="en">Best World Cup Player 2010</title>
   </programme>
-  <programme start="20251221230000 +0000" stop="20251222004500 +0000" channel="be INSports 1.tl">
-    <title lang="en">AJ Auxerre vs AS Monaco - French Cup - 2025/26 - Round of 64 - AJ Auxerre vs AS Monaco  -  French Cup</title>
+  <programme start="20251221225400 +0000" stop="20251222004500 +0000" channel="be INSports 1.tl">
+    <title lang="en">AJ Auxerre vs AS Monaco - French Cup - 2025/26 - Round of 32 - AJ Auxerre vs AS Monaco  -  French Cup</title>
   </programme>
   <programme start="20251222004500 +0000" stop="20251222034500 +0000" channel="be INSports 1.tl">
     <title lang="en">Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Aston Villa vs Manchester United  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251222034500 +0000" stop="20251222053000 +0000" channel="be INSports 1.tl">
-    <title lang="en">Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or - French Cup - 2025/26 - Round of 64 - Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or  -  French Cup</title>
+    <title lang="en">Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or - French Cup - 2025/26 - Round of 32 - Olympique Lyonnais vs FC Saint Cyr Collonges Mont D’or  -  French Cup</title>
   </programme>
   <programme start="20251222053000 +0000" stop="20251222060000 +0000" channel="be INSports 1.tl">
     <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
@@ -147455,7 +147416,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251222063000 +0000" stop="20251222070000 +0000" channel="be INSports 1.tl">
-    <title lang="en">FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026</title>
+    <title lang="en">EPL Stories 2025/2026</title>
   </programme>
   <programme start="20251222070000 +0000" stop="20251222073000 +0000" channel="be INSports 1.tl">
     <title lang="en">Everton vs Arsenal - English Premier League 2025/2026 Week 17 - Mini Match - Everton vs Arsenal  -  English Premier League 2025/2026 Week 17</title>
@@ -147473,7 +147434,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match - Villarreal vs Barcelona  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="be INSports 1.tl">
-    <title lang="en">FIFA World Cup 2026 African Arabic Teams in World Cup 2026</title>
+    <title lang="en">EPL Stories 2025/2026</title>
   </programme>
   <programme start="20251222110000 +0000" stop="20251222113000 +0000" channel="be INSports 1.tl">
     <title lang="en">Al Wahda FC (UAE) vs Al Sadd SC (QAT) - AFC Champions League Elite 2025/2026 - West MD5 - Mini Match - Al Wahda FC (UAE) vs Al Sadd SC (QAT)  -  AFC Champions League Elite 2025/2026</title>
@@ -147739,7 +147700,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251223195000 +0000" stop="20251223220000 +0000" channel="be INSports 2.tl">
     <title lang="en">Arsenal vs Crystal Palace - Carabao Cup 2025 -2026 - Round 5 - Fulham vs Nottingham Forest  -  English Premier League 2025/2026 Week 17</title>
   </programme>
-  <programme start="20251223220000 +0000" stop="20251224000000 +0000" channel="be INSports 2.tl">
+  <programme start="20251223223000 +0000" stop="20251224010000 +0000" channel="be INSports 2.tl">
     <title lang="en">Leeds United vs Crystal Palace - English Premier League 2025/2026 Week 17 - Leeds United vs Crystal Palace  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251219234500 +0000" stop="20251220013300 +0000" channel="be INSports 3.tl">
@@ -148183,13 +148144,13 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251221203000 +0000" stop="20251221210000 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Hilal SFC (KSA) vs Al Shorta (IRQ) - AFC Champions League Elite 2025/2026 - West MD5 - Mini Match - Al Hilal SFC (KSA) vs Al Shorta (IRQ)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20251221210000 +0000" stop="20251221224500 +0000" channel="be INSports 5.tl">
-    <title lang="en">OGC Nice vs Saint Etienne - French Cup - 2025/26 - Round of 64 - OGC Nice vs Saint Etienne  -  French Cup</title>
+  <programme start="20251221210000 +0000" stop="20251221224900 +0000" channel="be INSports 5.tl">
+    <title lang="en">OGC Nice vs Saint Etienne - French Cup - 2025/26 - Round of 32 - OGC Nice vs Saint Etienne  -  French Cup</title>
   </programme>
-  <programme start="20251221224500 +0000" stop="20251221231500 +0000" channel="be INSports 5.tl">
+  <programme start="20251221224900 +0000" stop="20251221231600 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Wahda FC (UAE) vs Al Sadd SC (QAT) - AFC Champions League Elite 2025/2026 - West MD5 - Mini Match - Al Wahda FC (UAE) vs Al Sadd SC (QAT)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20251221231500 +0000" stop="20251222010000 +0000" channel="be INSports 5.tl">
+  <programme start="20251221231600 +0000" stop="20251222010000 +0000" channel="be INSports 5.tl">
     <title lang="en">Sepahan SC (IRN) vs Al Hussein (JOR) - AFC Champions League Two 2025/2026 - West MD5 - Sepahan SC (IRN) vs Al Hussein (JOR)  -  AFC Champions League Two 2025/2026</title>
   </programme>
   <programme start="20251222010000 +0000" stop="20251222024500 +0000" channel="be INSports 5.tl">
@@ -148207,10 +148168,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251222064500 +0000" stop="20251222071500 +0000" channel="be INSports 5.tl">
     <title lang="en">FC Istiklol (TJK) vs Al Nassr Club (KSA) - AFC Champions League Two 2025/2026 - West - FC Istiklol (TJK) vs Al Nassr Club (KSA)  -  AFC Champions League Two 2025/2026</title>
   </programme>
-  <programme start="20251222071500 +0000" stop="20251222090000 +0000" channel="be INSports 5.tl">
-    <title lang="en">OGC Nice vs Saint Etienne - French Cup - 2025/26 - Round of 64 - OGC Nice vs Saint Etienne  -  French Cup</title>
+  <programme start="20251222071500 +0000" stop="20251222090300 +0000" channel="be INSports 5.tl">
+    <title lang="en">OGC Nice vs Saint Etienne - French Cup - 2025/26 - Round of 32 - OGC Nice vs Saint Etienne  -  French Cup</title>
   </programme>
-  <programme start="20251222090000 +0000" stop="20251222093000 +0000" channel="be INSports 5.tl">
+  <programme start="20251222090300 +0000" stop="20251222093000 +0000" channel="be INSports 5.tl">
     <title lang="en">PFC Nasaf (UZB) vs Tractor FC (IRN) - AFC Champions League Elite 2025/2026 - West MD5 - Mini Match - PFC Nasaf (UZB) vs Tractor FC (IRN)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
   <programme start="20251222093000 +0000" stop="20251222113000 +0000" channel="be INSports 5.tl">
@@ -148529,37 +148490,40 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Brann vs Fenerbahçe - UEFA Europa League 2025/2026 - MD6 - Brann vs Fenerbahçe  -  UEFA Europa League 2025/2026</title>
   </programme>
   <programme start="20251221210000 +0000" stop="20251221230000 +0000" channel="be INSports 7.tl">
-    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 64 - US Concarneau vs FC Nantes  -  French Cup</title>
+    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 32 - US Concarneau vs FC Nantes  -  French Cup</title>
   </programme>
-  <programme start="20251221230000 +0000" stop="20251222010000 +0000" channel="be INSports 7.tl">
+  <programme start="20251221230000 +0000" stop="20251222003000 +0000" channel="be INSports 7.tl">
     <title lang="en">L. Tien (USA) vs  A. Blockx (BEL) - Final - Next Gen ATP Finals presented by PIF - Jeddah 2025 - L. Tien (USA) vs  A. Blockx (BEL)  -  Final</title>
+  </programme>
+  <programme start="20251222003000 +0000" stop="20251222010000 +0000" channel="be INSports 7.tl">
+    <title lang="en">Alcaraz - Sinner: The Dawn of a New Tennis Era - Alcaraz  -  Sinner: The Dawn of a New Tennis Era</title>
   </programme>
   <programme start="20251222010000 +0000" stop="20251222030000 +0000" channel="be INSports 7.tl">
     <title lang="en">Qarabağ vs Ajax - UEFA Champions League 2025/26 - MD6 - Qarabağ vs Ajax  -  UEFA Champions League 2025/26</title>
   </programme>
   <programme start="20251222030000 +0000" stop="20251222050000 +0000" channel="be INSports 7.tl">
-    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 64 - US Concarneau vs FC Nantes  -  French Cup</title>
+    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 32 - US Concarneau vs FC Nantes  -  French Cup</title>
   </programme>
-  <programme start="20251222050000 +0000" stop="20251222070000 +0000" channel="be INSports 7.tl">
+  <programme start="20251222050000 +0000" stop="20251222063000 +0000" channel="be INSports 7.tl">
     <title lang="en">L. Tien (USA) vs  A. Blockx (BEL) - Final - Next Gen ATP Finals presented by PIF - Jeddah 2025 - L. Tien (USA) vs  A. Blockx (BEL)  -  Final</title>
   </programme>
-  <programme start="20251222070000 +0000" stop="20251222084500 +0000" channel="be INSports 7.tl">
+  <programme start="20251222063000 +0000" stop="20251222081500 +0000" channel="be INSports 7.tl">
     <title lang="en">Qarabağ vs Ajax - UEFA Champions League 2025/26 - MD6 - Qarabağ vs Ajax  -  UEFA Champions League 2025/26</title>
   </programme>
-  <programme start="20251222084500 +0000" stop="20251222091500 +0000" channel="be INSports 7.tl">
+  <programme start="20251222081500 +0000" stop="20251222084500 +0000" channel="be INSports 7.tl">
     <title lang="en">Alcaraz - Sinner: The Dawn of a New Tennis Era - Alcaraz  -  Sinner: The Dawn of a New Tennis Era</title>
   </programme>
-  <programme start="20251222091500 +0000" stop="20251222110000 +0000" channel="be INSports 7.tl">
-    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 64 - US Concarneau vs FC Nantes  -  French Cup</title>
-  </programme>
-  <programme start="20251222110000 +0000" stop="20251222130000 +0000" channel="be INSports 7.tl">
+  <programme start="20251222084500 +0000" stop="20251222101500 +0000" channel="be INSports 7.tl">
     <title lang="en">L. Tien (USA) vs  A. Blockx (BEL) - Final - Next Gen ATP Finals presented by PIF - Jeddah 2025 - L. Tien (USA) vs  A. Blockx (BEL)  -  Final</title>
   </programme>
-  <programme start="20251222130000 +0000" stop="20251222144500 +0000" channel="be INSports 7.tl">
-    <title lang="en">Kairat Almaty vs Olympiacos - UEFA Champions League 2025/26 - MD6 - Kairat Almaty vs Olympiacos  -  UEFA Champions League 2025/26</title>
+  <programme start="20251222101500 +0000" stop="20251222113000 +0000" channel="be INSports 7.tl">
+    <title lang="en">DTM  Show 2025-Season Review - DTM  Show 2025 - Season Review</title>
   </programme>
-  <programme start="20251222144500 +0000" stop="20251222151500 +0000" channel="be INSports 7.tl">
-    <title lang="en">Fast Zone 2025 Ep.36</title>
+  <programme start="20251222113000 +0000" stop="20251222133000 +0000" channel="be INSports 7.tl">
+    <title lang="en">Final's - Arab Elite Tennis Championship - 2025 - Final's  -  Arab Elite Tennis Championship</title>
+  </programme>
+  <programme start="20251222133000 +0000" stop="20251222151500 +0000" channel="be INSports 7.tl">
+    <title lang="en">Kairat Almaty vs Olympiacos - UEFA Champions League 2025/26 - MD6 - Kairat Almaty vs Olympiacos  -  UEFA Champions League 2025/26</title>
   </programme>
   <programme start="20251222151500 +0000" stop="20251222170000 +0000" channel="be INSports 7.tl">
     <title lang="en">Twente vs Real Madrid - UEFA Women’s Champions League 2025/2026 - MD6 - Twente vs Real Madrid  -  UEFA Women’s Champions League 2025/2026</title>
@@ -148997,10 +148961,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Real Betis vs Getafe - Spanish LaLiga 2025/26 - Week 17 - Real Betis vs Getafe  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
+    <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
+    <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251221230000 +0000" stop="20251222013000 +0000" channel="be INSports English 1.tl">
     <title lang="en">Miami vs New York - NBA season 2025–2026 - Miami vs New York  -  NBA season 2025–2026</title>
@@ -149026,14 +148990,14 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251222043000 +0000" stop="20251222050000 +0000" channel="be INSports English 1.tl">
     <title lang="en">This is Paris 2025/26 Ep.16</title>
   </programme>
-  <programme start="20251222050000 +0000" stop="20251222052700 +0000" channel="be INSports English 1.tl">
+  <programme start="20251222050000 +0000" stop="20251222053000 +0000" channel="be INSports English 1.tl">
     <title lang="en">EN EPL The Big Interview 2025/26 | E19 - Marc Cucurella - EN EPL The Big Interview 2025/26 | E19  -  Marc Cucurella</title>
   </programme>
-  <programme start="20251222052700 +0000" stop="20251222060000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
+  <programme start="20251222053000 +0000" stop="20251222060000 +0000" channel="be INSports English 1.tl">
+    <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251222060000 +0000" stop="20251222062700 +0000" channel="be INSports English 1.tl">
-    <title lang="en">Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match - Tottenham Hotspur vs Liverpool  -  English Premier League 2025/2026 Week 17</title>
+    <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - Manchester City vs West Ham United  -  English Premier League 2025/2026 Week 17</title>
   </programme>
   <programme start="20251222062700 +0000" stop="20251222070000 +0000" channel="be INSports English 1.tl">
     <title lang="en">EN FA Cup Highlights 2025/26 Round 2</title>
