@@ -8215,21 +8215,6 @@ Be at the forefront of top stories, breaking news, current affairs and all there
     <desc lang="en">كُن في طليعة متابعي أهم القصص، الأخبار العاجلة، والشؤون الراهنة وكل ما ينبغي معرفته في المنطقة العربية وحول العالم.
 Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
   </programme>
-  <programme start="20251224230000 +0000" stop="20251225000000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225010000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20251225010000 +0000" stop="20251225020000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
   <programme start="20251225020000 +0000" stop="20251225030000 +0000" channel="Al Hayat.tl">
     <title lang="en">الحياة - Al Hayat</title>
     <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
@@ -17784,7 +17769,7 @@ Asmaar hosts prominent poets and critics in spontaneous literary sessions blendi
     <title lang="en">News</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227210500 +0000" channel="Aljazeera Documentary.tl">
-    <title lang="en">5 Minutes</title>
+    <title lang="en">ابنة النهر الأصفر - 5 Minutes</title>
   </programme>
   <programme start="20251227210500 +0000" stop="20251227213000 +0000" channel="Aljazeera Documentary.tl">
     <title lang="en">News</title>
@@ -17799,7 +17784,7 @@ Asmaar hosts prominent poets and critics in spontaneous literary sessions blendi
     <title lang="en">News</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227220500 +0000" channel="Aljazeera Documentary.tl">
-    <title lang="en">Global Week - End</title>
+    <title lang="en">صوت البحر - Global Week - End</title>
   </programme>
   <programme start="20251227220500 +0000" stop="20251227223000 +0000" channel="Aljazeera Documentary.tl">
     <title lang="en">News</title>
@@ -18166,6 +18151,12 @@ Asmaar hosts prominent poets and critics in spontaneous literary sessions blendi
   </programme>
   <programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="Aljazeera HD.tl">
     <title lang="en">نشرة الأخبار</title>
+  </programme>
+  <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="Aljazeera HD.tl">
+    <title lang="en">سي إن إن نيوز رووم</title>
+  </programme>
+  <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="Aljazeera HD.tl">
+    <title lang="en">سميركونيش</title>
   </programme>
   <programme start="20251223234500 +0000" stop="20251224010000 +0000" channel="Alkass Eight.tl">
     <title lang="en">دوري أبطال آسيا للنخبة - AFC Champions League Elite Al Shorta (Iraq) vs. Al Ahli (Saudi Arabia)</title>
@@ -18576,7 +18567,7 @@ Asmaar hosts prominent poets and critics in spontaneous literary sessions blendi
     <title lang="en">لايفز - Lifes</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228000000 +0000" channel="Alkass Five.tl">
-    <title lang="en">Akhbar</title>
+    <title lang="en">نيوز - Akhbar</title>
   </programme>
   <programme start="20251224010000 +0000" stop="20251224013000 +0000" channel="Alkass Four.tl">
     <title lang="en">ذا فوتبول ريفيو - The Football Review</title>
@@ -19008,10 +18999,10 @@ Asmaar hosts prominent poets and critics in spontaneous literary sessions blendi
     <title lang="en">Nigeria vs Tunisia - African Cup of Nations - Morocco 2025 - Nigeria vs Tunisia  -  African Cup of Nations</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227223000 +0000" channel="Alkass One.tl">
-    <title lang="en">Senegal vs DR Congo  -  African Cup of Nations</title>
+    <title lang="en">Senegal vs DR Congo - African Cup of Nations - Morocco 2025 - Mini Match - Senegal vs DR Congo  -  African Cup of Nations</title>
   </programme>
   <programme start="20251227223000 +0000" stop="20251228013000 +0000" channel="Alkass One.tl">
-    <title lang="en">Benin vs Botswana  -  African Cup of Nations</title>
+    <title lang="en">Benin vs Botswana - African Cup of Nations - Morocco 2025 - Benin vs Botswana  -  African Cup of Nations</title>
   </programme>
   <programme start="20251224010000 +0000" stop="20251224013000 +0000" channel="Alkass Seven.tl">
     <title lang="en">ذا فوتبول ريفيو - The Football Review</title>
@@ -23373,26 +23364,6 @@ The program investigates documents revealing encounters with extraterrestrials a
     <desc lang="en">إدمان أستراليا للأشياء المحظورة يأخذنا إلى أعماق هذه التجارة العالمية، كاشفاً عن الطرق المخفية والشبكات الخطيرة التي تغذي هذا العالم السفلي الخطير.
 This documentary exposes the hidden world of illegal items trafficking, uncovering the supply chain from Melbourne's streets to South-East Asia, and reveals the identities of key players fueling Australia's addiction crisis.</desc>
   </programme>
-  <programme start="20251224230000 +0000" stop="20251225000000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار المساء - Newsnight</title>
-    <desc lang="en">نظرة إلى الوراء لمتابعة أفضل أفلام الأسبوع الفائت والمناقشات حولهم في أخبار المساء.
-A look back at the best of the week's films and discussions from Newsnight.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225003000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251225003000 +0000" stop="20251225010000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">بي بي سي تريندينغ - BBC Trending</title>
-    <desc lang="en">شاهدوا آخر الأخبار المتناقلة، وأحدث التطورات التي تجري حول العالم.
-BBC Arabic presents Trending - explaining the stories the world is sharing.</desc>
-  </programme>
-  <programme start="20251225010000 +0000" stop="20251225013000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
   <programme start="20251225013000 +0000" stop="20251225020000 +0000" channel="BBC Arabic.tl">
     <title lang="en">فن للحياة - Art For Life</title>
     <desc lang="en">برنامج ثقافي أسبوعي، يعرض مجموعة متنوعة من الأعمال الفنية، بإيقاعات عالمية.
@@ -24012,31 +23983,6 @@ BBC News draws on the expertise of more than 250 correspondents around the world
     <title lang="en">بتوقيت مصر - Egypt Time</title>
     <desc lang="en">برنامج أسبوعي من استديو قناة BBC عربية في مصر، يحاور حافظ الميرازي أهم المسؤولين والخبراء والمحللين حول القضايا المصرية الأسبوعية، ووجهات النظر المصرية حول قضايا الشرق الأوسط والعالم.
 Weekly from BBC Arabic studio in Cairo, officials, experts, analysts and citizens speak to Hafez al Mirazi on the week's Egyptian issues and Egyptian viewpoints on Middle Eastern and international issues.</desc>
-  </programme>
-  <programme start="20251224230000 +0000" stop="20251224233000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251224233000 +0000" stop="20251225000000 +0000" channel="BBC World News.tl">
-    <title lang="en">ذا باتل تو غيت ماي تشايلد باك - The Battle to Get My Child Back</title>
-    <desc lang="en">آباء وأمهات من غرينلاند وفي مختلف أنحاء الدنمارك يكافحون لاستعادة أطفالهم الذين تم أخذهم إلى دور الرعاية بعد خضوعهم لما يُعرف الآن بـ"اختبارات كفاءة الوالدية"، والتي تم حظرها لاحقًا.
-Greenlandic parents across Denmark are fighting to be reunited with their children, who were taken into care following the use of now banned 'parenting competency tests'.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225003000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20251225003000 +0000" stop="20251225010000 +0000" channel="BBC World News.tl">
-    <title lang="en">مسار الرئيس - The President's Path</title>
-    <desc lang="en">انضم إلى كايتريونا بيري وسومي سوماسكاندا في مناقشة أسبوعية ديناميكية حول رئاسة الولايات المتحدة.
-Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-  </programme>
-  <programme start="20251225010000 +0000" stop="20251225013000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
   </programme>
   <programme start="20251225013000 +0000" stop="20251225020000 +0000" channel="BBC World News.tl">
     <title lang="en">عقول نوبل - Nobel Minds</title>
@@ -35097,16 +35043,6 @@ In Cocomelon, JJ and his siblings go on fun adventures, help preschoolers learn 
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="Bloomberg TV.us.tl">
     <title lang="en">ذا سيركت (موسم 3، حلقة8) - The Circuit  -  Meghan, the Duchess of Sussex</title>
   </programme>
-  <programme start="20251224230000 +0000" stop="20251225000000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225010000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
   <programme start="20251225010000 +0000" stop="20251225020000 +0000" channel="CBC.tl">
     <title lang="en">CBC</title>
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
@@ -35456,16 +35392,6 @@ A contemporary entertainment channel offering a mix of popular series and talk s
     <title lang="en">CBC</title>
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
 A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20251224230000 +0000" stop="20251225000000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225010000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
   </programme>
   <programme start="20251225010000 +0000" stop="20251225020000 +0000" channel="CBC Drama.tl">
     <title lang="en">CBC دراما - CBC Drama</title>
@@ -36296,16 +36222,6 @@ An Arabic news channel broadcasting live coverage of current events from across 
     <title lang="en">CBC إكسترا نيوز - CBC Extra News</title>
     <desc lang="en">إحدى قنوات شبكة CBC، إخبارية تختص بتقديم تغطيات الأخبار المباشرة للأحداث، عبر عدد من المذيعين والصحفيين والمراسلين.
 An Arabic news channel broadcasting live coverage of current events from across the world.</desc>
-  </programme>
-  <programme start="20251224230000 +0000" stop="20251225000000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225010000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
   </programme>
   <programme start="20251225010000 +0000" stop="20251225020000 +0000" channel="CBC Sofra.tl">
     <title lang="en">CBC سفرة - CBC Sofra</title>
@@ -39663,21 +39579,6 @@ Discussion of questions regarding finance, banking, investment and related topic
     <desc lang="en">مقابلات حصرية مع المحللين الاقتصاديين وأصحاب الشركات العملاقة حول العالم.
 Get up close and personal with some of the world's most successful people.</desc>
   </programme>
-  <programme start="20251224010000 +0000" stop="20251224020000 +0000" channel="CNN.tl">
-    <title lang="en">أندرسون كوبر 360 - Anderson Cooper 360</title>
-    <desc lang="en">أندرسون كوبر يلقي نظرة فريدة على العناوين الرئيسية وقضايا اليوم
-Anderson Cooper takes a unique look at the headlines and the issues of the day.</desc>
-  </programme>
-  <programme start="20251224020000 +0000" stop="20251224030000 +0000" channel="CNN.tl">
-    <title lang="en">ذا سورس ويذ كايتلان كولينز - The Source With Kaitlan Collins</title>
-    <desc lang="en">تذهب (كايتلان كولينز) مباشرة إلى المصدر للحصول على أفضل التقارير حول أكبر القصص اليومية.
-Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-  </programme>
-  <programme start="20251224030000 +0000" stop="20251224040000 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن نيوز نايت - CNN Newsnight</title>
-    <desc lang="en">برنامج يقدم نظرة ثاقبة لأخبار الساعة اليومية، من جميع أنحاء العالم.
-Offering insight into the day's driving stories from around the globe.</desc>
-  </programme>
   <programme start="20251224040000 +0000" stop="20251224050000 +0000" channel="CNN.tl">
     <title lang="en">ذَ ستوري وِذ إلكس مايكلسن - The Story Is With Elex Michaelson</title>
     <desc lang="en">برنامج حواري مشوّق يقدّمه أليكس مايكلسن، يسلّط الضوء على قصص وشخصيات مؤثرة تكشف أسرار الأحداث والقضايا التي تشغل العالم.
@@ -40508,7 +40409,7 @@ A fresh digital-forward show where young storytellers explore the trends shaping
     <title lang="en">سي إن إن نيوز رووم - CNN Newsroom</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="CNNArabic.tl">
-    <title lang="en">CNN Newsroom</title>
+    <title lang="en">أدفنتشر تايم (موسم 1) - CNN Newsroom</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="CNNArabic.tl">
     <title lang="en">Smerconish</title>
@@ -56943,7 +56844,7 @@ Wasim must face a new problem that threatens the safety of the compound. Meanwhi
     <title lang="en">نيوز - News</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227210500 +0000" channel="Euronews English.tl">
-    <title lang="en">5 Minutes</title>
+    <title lang="en">إيكانز - 5 Minutes</title>
   </programme>
   <programme start="20251227210500 +0000" stop="20251227213000 +0000" channel="Euronews English.tl">
     <title lang="en">News</title>
@@ -56958,7 +56859,7 @@ Wasim must face a new problem that threatens the safety of the compound. Meanwhi
     <title lang="en">News</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227220500 +0000" channel="Euronews English.tl">
-    <title lang="en">Global Week - End</title>
+    <title lang="en">آنكل جراند با - Global Week - End</title>
   </programme>
   <programme start="20251227220500 +0000" stop="20251227223000 +0000" channel="Euronews English.tl">
     <title lang="en">News</title>
@@ -63080,7 +62981,7 @@ Chef Robert Irvine has a tough "mission" ahead- of making the impossible possibl
     <title lang="en">كريسماس كوكي تشالينج (موسم 7، حلقة8) - Holiday Baking Championship  -  Christmas Windows In Time</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="Food Network EMEA.tl">
-    <title lang="en">Restaurant: Impossible  -  Irish Eyes Are Frowning</title>
+    <title lang="en">المطعم والمستحيل (موسم 18، حلقة8) - Restaurant: Impossible  -  Irish Eyes Are Frowning</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251223231500 +0000" channel="France 24.tl">
     <title lang="en">الأخبار - News</title>
@@ -68150,16 +68051,16 @@ David Bromstad helps lucky Americans buy their dream properties. These families,
     <title lang="en">ايلاند لايف (موسم 18، حلقة3) - Fix My Frankenhouse  -  I Am Frankenhouse</title>
   </programme>
   <programme start="20251227214000 +0000" stop="20251227220500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">Island Life  -  New Memories In Gulf Shores</title>
+    <title lang="en">ايلاند لايف (موسم 18، حلقة3) - Island Life  -  New Memories In Gulf Shores</title>
   </programme>
   <programme start="20251227220500 +0000" stop="20251227223000 +0000" channel="HGTVArabia.tl">
-    <title lang="en">Island Life  -  Heights In Orange Beach</title>
+    <title lang="en">ايلاند لايف (موسم 18، حلقة4) - Island Life  -  Heights In Orange Beach</title>
   </programme>
   <programme start="20251227223000 +0000" stop="20251227225500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">My Lottery Dream Home  -  Beach House Perfection</title>
+    <title lang="en">ماي لوتري دريم هوم (موسم 6، حلقة11) - My Lottery Dream Home  -  Beach House Perfection</title>
   </programme>
   <programme start="20251227225500 +0000" stop="20251227231500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">My Lottery Dream Home  -  Lucky In Las Vegas</title>
+    <title lang="en">ماي لوتري دريم هوم (موسم 6، حلقة12) - My Lottery Dream Home  -  Lucky In Las Vegas</title>
   </programme>
   <programme start="20251223233830 +0000" stop="20251224002123 +0000" channel="Hikayat Dofaa.tl">
     <title lang="en">دفعة لندن  موسم 1 حلقة 26 - Dof'at London Season 1 Episode 26</title>
@@ -69750,46 +69651,46 @@ An altercation takes place between Dalal and Sabija, and later Dalal carries out
     <title lang="en">مرحبا بكم في كوكب الأرض - WELCOME TO EARTH   -  WELCOME TO EARTH  Roman Remains</title>
   </programme>
   <programme start="20251225210000 +0000" stop="20251225212300 +0000" channel="Jeem TV.tl">
-    <title lang="en">KIDS PLANET    -  KIDS PLANET   Love, protect and care for our planet earth</title>
+    <title lang="en">كوكب الأطفال (حلقة6) - KIDS PLANET    -  KIDS PLANET   Love, protect and care for our planet earth</title>
   </programme>
   <programme start="20251225212300 +0000" stop="20251225213700 +0000" channel="Jeem TV.tl">
-    <title lang="en">Badr   -  Badr  The Substitute</title>
+    <title lang="en">بدر (حلقة6) - Badr   -  Badr  The Substitute</title>
   </programme>
   <programme start="20251225213700 +0000" stop="20251225215000 +0000" channel="Jeem TV.tl">
-    <title lang="en">AUDREY’S SHELTER    -  AUDREY’S SHELTER   A New Friend</title>
+    <title lang="en">ملجأ دودري (موسم 1، حلقة6) - AUDREY’S SHELTER    -  AUDREY’S SHELTER   A New Friend</title>
   </programme>
   <programme start="20251225215000 +0000" stop="20251225220200 +0000" channel="Jeem TV.tl">
-    <title lang="en">Dino Dana     -  Dino Dana    Follow The Mammoth</title>
+    <title lang="en">دانا والديناصورات (موسم 4، حلقة6) - Dino Dana     -  Dino Dana    Follow The Mammoth</title>
   </programme>
   <programme start="20251225220200 +0000" stop="20251225221500 +0000" channel="Jeem TV.tl">
-    <title lang="en">ROBIN HOOD     -  ROBIN HOOD    Unbearably Close Friends</title>
+    <title lang="en">روبن هود (موسم 3، حلقة12) - ROBIN HOOD     -  ROBIN HOOD    Unbearably Close Friends</title>
   </programme>
   <programme start="20251225221500 +0000" stop="20251225222800 +0000" channel="Jeem TV.tl">
-    <title lang="en">Ranger Rob     -  Ranger Rob    The Lost Yeti Treasure of Big Sky Park</title>
+    <title lang="en">حارس المدينة (موسم 1، حلقة6) - Ranger Rob     -  Ranger Rob    The Lost Yeti Treasure of Big Sky Park</title>
   </programme>
   <programme start="20251225222800 +0000" stop="20251225224100 +0000" channel="Jeem TV.tl">
-    <title lang="en">Jungle Bunch S3 P1  -  Jungle Bunch S3 P12   The Minis at the Loony Well</title>
+    <title lang="en">تقارير من الغابة (موسم 31، حلقة6) - Jungle Bunch S3 P1  -  Jungle Bunch S3 P12   The Minis at the Loony Well</title>
   </programme>
   <programme start="20251225224100 +0000" stop="20251225225200 +0000" channel="Jeem TV.tl">
-    <title lang="en">Atchoo     -  Atchoo    Berto the Animal Catcher</title>
+    <title lang="en">أتشوو (موسم 2، حلقة11) - Atchoo     -  Atchoo    Berto the Animal Catcher</title>
   </programme>
   <programme start="20251225225200 +0000" stop="20251225230400 +0000" channel="Jeem TV.tl">
-    <title lang="en">Atchoo     -  Atchoo    Operation Sphinx</title>
+    <title lang="en">أتشوو (موسم 2، حلقة12) - Atchoo     -  Atchoo    Operation Sphinx</title>
   </programme>
   <programme start="20251225230400 +0000" stop="20251225231600 +0000" channel="Jeem TV.tl">
-    <title lang="en">THE JUNGLE BOOK     -  THE JUNGLE BOOK    NOT FAIR !</title>
+    <title lang="en">كتاب الأدغال (موسم 3، حلقة7) - THE JUNGLE BOOK     -  THE JUNGLE BOOK    NOT FAIR !</title>
   </programme>
   <programme start="20251225231600 +0000" stop="20251225234000 +0000" channel="Jeem TV.tl">
-    <title lang="en">MoominValley S1  -  MoominValley S1P12   Midwinter Ancestor</title>
+    <title lang="en">وادي الأمان (موسم 1، حلقة12) - MoominValley S1  -  MoominValley S1P12   Midwinter Ancestor</title>
   </programme>
   <programme start="20251225234000 +0000" stop="20251225234800 +0000" channel="Jeem TV.tl">
-    <title lang="en">KARATE SHEEP    -  KARATE SHEEP   What's the Time, Mr. Wolf?</title>
+    <title lang="en">خروف الكراتيه - KARATE SHEEP    -  KARATE SHEEP   What's the Time, Mr. Wolf?</title>
   </programme>
   <programme start="20251225234800 +0000" stop="20251225235700 +0000" channel="Jeem TV.tl">
-    <title lang="en">KARATE SHEEP    -  KARATE SHEEP   False Alarm</title>
+    <title lang="en">خروف الكراتيه - KARATE SHEEP    -  KARATE SHEEP   False Alarm</title>
   </programme>
   <programme start="20251225235700 +0000" stop="20251226000000 +0000" channel="Jeem TV.tl">
-    <title lang="en">Seven And Me     -  Seven And Me    The Big Order</title>
+    <title lang="en">أنا والأقزام السبعة (موسم 1، حلقة6) - Seven And Me     -  Seven And Me    The Big Order</title>
   </programme>
   <programme start="20251226000000 +0000" stop="20251226000900 +0000" channel="Jeem TV.tl">
     <title lang="en">خروف الكراتيه - KARATE SHEEP    -  KARATE SHEEP   Trico’s Magic Show</title>
@@ -79016,16 +78917,19 @@ Rayan thrives under his grandma’s care while Nawal drowns in despair. Sultan c
 Hamed sets out to ask Zaidoon about the valuable painting Nemat has purchased. Meanwhile, Asem takes part in a TV interview to discuss concerns people have raised.</desc>
   </programme>
   <programme start="20251225055500 +0000" stop="20251225070000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">A'elati Tarbah Season 4 Episode 24</title>
-    <desc lang="en">Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
+    <title lang="en">عائلتي تربح الموسم 4 الحلقة 24 - A'elati Tarbah Season 4 Episode 24</title>
+    <desc lang="en">تتنافس عائلتين من خلال الإجابة على اسئلة معلومات عامة للفوز بجائزة مالية بقيمة عشرة ملايين دينار عراقي.
+Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
   </programme>
   <programme start="20251225070000 +0000" stop="20251225080000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Marba Al Ezz Season 1 Episode 23</title>
-    <desc lang="en">Drooling over Abu Zuhair’s offer, Khalaf takes a risky step. Abu Zuhair boils with rage when he finds out what Jawaher’s been up to. Trouble finds its way to Abu Alaa.</desc>
+    <title lang="en">مربى العز  موسم 1 حلقة 23 - Marba Al Ezz Season 1 Episode 23</title>
+    <desc lang="en">بعد أن يسيل لعابه أمام عرض أبي زهير ، يتخذ خلف قرارا في غاية الخطورة. يثور أبو زهير كالبركان عند اكتشافه أمرا تقدم عليه جواهر. أما أبو علاء، فتطرق بابه مصيبة لم تكن على البال.
+Drooling over Abu Zuhair’s offer, Khalaf takes a risky step. Abu Zuhair boils with rage when he finds out what Jawaher’s been up to. Trouble finds its way to Abu Alaa.</desc>
   </programme>
   <programme start="20251225085500 +0000" stop="20251225093000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Fareed Season 3 Episode 500</title>
-    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+    <title lang="en">فريد  موسم 3 حلقة 500 - Fareed Season 3 Episode 500</title>
+    <desc lang="en">لتلقين حفيده الطائش والمتهور درسا، يقرر كبير العائلة الغني هاليس آغا أن يزوجه بابنة عائلة من مسقط رأسه.
+Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
   </programme>
   <programme start="20251225093000 +0000" stop="20251225100500 +0000" channel="MBC Iraq.tl">
     <title lang="en">المدينة البعيدة  موسم 1 حلقة 135 - Al Madeena Al Ba'eeda Season 1 Episode 135</title>
@@ -79033,72 +78937,86 @@ Hamed sets out to ask Zaidoon about the valuable painting Nemat has purchased. M
 Cihan and his men travel to Syria to catch Hamada. Deniz overreacts when he walks into the baby’s room.</desc>
   </programme>
   <programme start="20251225100500 +0000" stop="20251225105500 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Al Marsa Season 1 Episode 51</title>
-    <desc lang="en">Rayan thrives under his grandma’s care while Nawal drowns in despair. Sultan counts his sins behind bars. Khawla earns her stripes, Khaled vows to marry Zeina, and Ziad’s band lands a dream gig.</desc>
+    <title lang="en">المرسى  موسم 1 حلقة 51 - Al Marsa Season 1 Episode 51</title>
+    <desc lang="en">ينعم ريان برعاية جدته فيما تغرق نوال في اليأس. يحصي سلطان خطاياه خلف القضبان. تثبت خولة جدارتها في الشركة ويعد خالد زينة بالزواج وتحظى فرقة زياد بفرصة العمر.
+Rayan thrives under his grandma’s care while Nawal drowns in despair. Sultan counts his sins behind bars. Khawla earns her stripes, Khaled vows to marry Zeina, and Ziad’s band lands a dream gig.</desc>
   </programme>
   <programme start="20251225105500 +0000" stop="20251225120000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">A'elati Tarbah Season 4 Episode 24</title>
-    <desc lang="en">Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
+    <title lang="en">عائلتي تربح الموسم 4 الحلقة 24 - A'elati Tarbah Season 4 Episode 24</title>
+    <desc lang="en">تتنافس عائلتين من خلال الإجابة على اسئلة معلومات عامة للفوز بجائزة مالية بقيمة عشرة ملايين دينار عراقي.
+Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
   </programme>
   <programme start="20251225120000 +0000" stop="20251225130000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Ibn Al Basha Season 1 Episode 15</title>
-    <desc lang="en">Hamed sets out to ask Zaidoon about the valuable painting Nemat has purchased. Meanwhile, Asem takes part in a TV interview to discuss concerns people have raised.</desc>
+    <title lang="en">ابن الباشا  موسم 1 حلقة 15 - Ibn Al Basha Season 1 Episode 15</title>
+    <desc lang="en">ينوي حامد لقاء زيدون كي يسأله عن اللوحة الثمينة التي قام نعمة بشرائها. أما عاصم، فتجري معه محطة تلفزيونية مقابلة يناقش من خلالها مشاكل الناس.
+Hamed sets out to ask Zaidoon about the valuable painting Nemat has purchased. Meanwhile, Asem takes part in a TV interview to discuss concerns people have raised.</desc>
   </programme>
   <programme start="20251225130000 +0000" stop="20251225140500 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Marba Al Ezz Season 1 Episode 24</title>
-    <desc lang="en">When he hears that the bloodthirsty tribes are attacking the neighbourhood, Manna readies his horse in a bid to defend his people. An enraged Jawaher devises a sinister plan.</desc>
+    <title lang="en">مربى العز  موسم 1 حلقة 24 - Marba Al Ezz Season 1 Episode 24</title>
+    <desc lang="en">بعد أن يصل إلى مسامعه هجوم العشائر المتعطشة للدم على الحي، يمتطي الفارس مناع جواده ويشق طريقه نحوهم ليمنع شرهم. يتطاير الشرار من عيني جواهر وترسم بالدم خطة في غاية الشر.
+When he hears that the bloodthirsty tribes are attacking the neighbourhood, Manna readies his horse in a bid to defend his people. An enraged Jawaher devises a sinister plan.</desc>
   </programme>
   <programme start="20251225140500 +0000" stop="20251225150000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Le'bet Newton Season 1 Episode 18</title>
-    <desc lang="en">Seeking citizenship for their newborn, a couple decides that their baby should be born in the USA, a decision with threatening consequences on their marriage.</desc>
+    <title lang="en">لعبة نيوتن الموسم 1 الحلقة 18 - Le'bet Newton Season 1 Episode 18</title>
+    <desc lang="en">يتخذ رجل وزوجته المتحابين قرارا بإنجاب وليدهما المرتقب على الأراضي الأمريكية طمعا في الجنسية، إلا أن عقبات كثيرة ستعترض طريقهما وتهدد بتدمير زواجهما.
+Seeking citizenship for their newborn, a couple decides that their baby should be born in the USA, a decision with threatening consequences on their marriage.</desc>
   </programme>
   <programme start="20251225150000 +0000" stop="20251225155500 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Al Marsa Season 1 Episode 52</title>
-    <desc lang="en">Badr’s fury leaves Nagham bloodied and battered. Sultan is released from prison only to wade into ruins and debt. Hitting rock bottom, he turns to selling his belongings to keep his head above water.</desc>
+    <title lang="en">المرسى  موسم 1 حلقة 52 - Al Marsa Season 1 Episode 52</title>
+    <desc lang="en">يترك غضب بدر نغم منهكة. يخرج سلطان من السجن، ليجد نفسه غارقا في الخراب والديون. وعندما يبلغ القاع، يبيع ممتلكاته ليبقى صامدا في وجه أمواج عاتية.
+Badr’s fury leaves Nagham bloodied and battered. Sultan is released from prison only to wade into ruins and debt. Hitting rock bottom, he turns to selling his belongings to keep his head above water.</desc>
   </programme>
   <programme start="20251225155500 +0000" stop="20251225162500 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Fareed Season 3 Episode 501</title>
-    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+    <title lang="en">فريد  موسم 3 حلقة 501 - Fareed Season 3 Episode 501</title>
+    <desc lang="en">لتلقين حفيده الطائش والمتهور درسا، يقرر كبير العائلة الغني هاليس آغا أن يزوجه بابنة عائلة من مسقط رأسه.
+Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
   </programme>
   <programme start="20251225162500 +0000" stop="20251225170000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Al Madeena Al Ba'eeda Season 1 Episode 136</title>
-    <desc lang="en">News of Deniz’s accident reaches Cihan. Elsewhere, Demir vows to avenge his father.</desc>
+    <title lang="en">المدينة البعيدة  موسم 1 حلقة 136 - Al Madeena Al Ba'eeda Season 1 Episode 136</title>
+    <desc lang="en">يعلم جيهان عن الحادثة التي تعرض لها دينيز. أما ديمير، فيتوعد بالانتقام لأبيه.
+News of Deniz’s accident reaches Cihan. Elsewhere, Demir vows to avenge his father.</desc>
   </programme>
   <programme start="20251225170000 +0000" stop="20251225180000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">A'elati Tarbah Season 4 Episode 25</title>
-    <desc lang="en">Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
+    <title lang="en">عائلتي تربح الموسم 4 الحلقة 25 - A'elati Tarbah Season 4 Episode 25</title>
+    <desc lang="en">تتنافس عائلتين من خلال الإجابة على اسئلة معلومات عامة للفوز بجائزة مالية بقيمة عشرة ملايين دينار عراقي.
+Two families face off by answering a series of general knowledge question for a chance to win the ten million Iraqi Dinar prize.</desc>
   </programme>
   <programme start="20251225180000 +0000" stop="20251225185900 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Ibn Al Basha Season 1 Episode 16</title>
-    <desc lang="en">Hamed and Omran try to come up with a plan to get Warda out from prison. Elsewhere, an unwelcome visitor shows up at Asem’s office.</desc>
+    <title lang="en">ابن الباشا  موسم 1 حلقة 16 - Ibn Al Basha Season 1 Episode 16</title>
+    <desc lang="en">يحاول حامد وعمران إيجاد حل لإخراج وردة من السجن. من ناحية أخرى، يتلقى عاصم زيارة غير مرحب بها في مكتبه.
+Hamed and Omran try to come up with a plan to get Warda out from prison. Elsewhere, an unwelcome visitor shows up at Asem’s office.</desc>
   </programme>
   <programme start="20251225185900 +0000" stop="20251225200000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Al-Forsan</title>
-    <desc lang="en">Al Forsan brings together aspiring Iraqi entrepreneurs as they pitch their startup projects to a panel of top investors in hopes of securing fundings and strategic partnerships.</desc>
+    <title lang="en">الفرسان - Al-Forsan</title>
+    <desc lang="en">يجمع برنامج الفرسان رواد الأعمال العراقيين الطموحين ليعرضوا مشاريعهم أمام لجنة من أبرز المستثمرين وصناع القرار بهدف الحصول على استثمارات وشراكات استراتيجية.
+Al Forsan brings together aspiring Iraqi entrepreneurs as they pitch their startup projects to a panel of top investors in hopes of securing fundings and strategic partnerships.</desc>
   </programme>
   <programme start="20251225200000 +0000" stop="20251225203600 +0000" channel="MBC Iraq.tl">
-    <title lang="en">عائلتي تربح الموسم 4 الحلقة 25 - Rose &amp; Layla Season 1 Episode 5</title>
-    <desc lang="en">تتنافس عائلتين من خلال الإجابة على اسئلة معلومات عامة للفوز بجائزة مالية بقيمة عشرة ملايين دينار عراقي.
-A break-in at Rose’s house leads to a serious fight between her and Youssef. Ibrahim decides to personally tail Rose and Layla. Selim takes Layla on a dinner date.</desc>
+    <title lang="en">Rose &amp; Layla Season 1 Episode 5</title>
+    <desc lang="en">A break-in at Rose’s house leads to a serious fight between her and Youssef. Ibrahim decides to personally tail Rose and Layla. Selim takes Layla on a dinner date.</desc>
   </programme>
   <programme start="20251225203600 +0000" stop="20251225205500 +0000" channel="MBC Iraq.tl">
     <title lang="en">TV guide is not available</title>
   </programme>
   <programme start="20251225205500 +0000" stop="20251225212500 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Fareed Season 3 Episode 501</title>
-    <desc lang="en">Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+    <title lang="en">فريد  موسم 3 حلقة 501 - Fareed Season 3 Episode 501</title>
+    <desc lang="en">لتلقين حفيده الطائش والمتهور درسا، يقرر كبير العائلة الغني هاليس آغا أن يزوجه بابنة عائلة من مسقط رأسه.
+Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
   </programme>
   <programme start="20251225212500 +0000" stop="20251225220000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Al Madeena Al Ba'eeda Season 1 Episode 136</title>
-    <desc lang="en">News of Deniz’s accident reaches Cihan. Elsewhere, Demir vows to avenge his father.</desc>
+    <title lang="en">المدينة البعيدة  موسم 1 حلقة 136 - Al Madeena Al Ba'eeda Season 1 Episode 136</title>
+    <desc lang="en">يعلم جيهان عن الحادثة التي تعرض لها دينيز. أما ديمير، فيتوعد بالانتقام لأبيه.
+News of Deniz’s accident reaches Cihan. Elsewhere, Demir vows to avenge his father.</desc>
   </programme>
   <programme start="20251225220000 +0000" stop="20251225225000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Marba Al Ezz Season 1 Episode 24</title>
-    <desc lang="en">When he hears that the bloodthirsty tribes are attacking the neighbourhood, Manna readies his horse in a bid to defend his people. An enraged Jawaher devises a sinister plan.</desc>
+    <title lang="en">مربى العز  موسم 1 حلقة 24 - Marba Al Ezz Season 1 Episode 24</title>
+    <desc lang="en">بعد أن يصل إلى مسامعه هجوم العشائر المتعطشة للدم على الحي، يمتطي الفارس مناع جواده ويشق طريقه نحوهم ليمنع شرهم. يتطاير الشرار من عيني جواهر وترسم بالدم خطة في غاية الشر.
+When he hears that the bloodthirsty tribes are attacking the neighbourhood, Manna readies his horse in a bid to defend his people. An enraged Jawaher devises a sinister plan.</desc>
   </programme>
   <programme start="20251225225000 +0000" stop="20251225233000 +0000" channel="MBC Iraq.tl">
-    <title lang="en">Le'bet Newton Season 1 Episode 18</title>
-    <desc lang="en">Seeking citizenship for their newborn, a couple decides that their baby should be born in the USA, a decision with threatening consequences on their marriage.</desc>
+    <title lang="en">لعبة نيوتن الموسم 1 الحلقة 18 - Le'bet Newton Season 1 Episode 18</title>
+    <desc lang="en">يتخذ رجل وزوجته المتحابين قرارا بإنجاب وليدهما المرتقب على الأراضي الأمريكية طمعا في الجنسية، إلا أن عقبات كثيرة ستعترض طريقهما وتهدد بتدمير زواجهما.
+Seeking citizenship for their newborn, a couple decides that their baby should be born in the USA, a decision with threatening consequences on their marriage.</desc>
   </programme>
   <programme start="20251225233000 +0000" stop="20251226001500 +0000" channel="MBC Iraq.tl">
     <title lang="en">المرسى  موسم 1 حلقة 52 - Al Marsa Season 1 Episode 52</title>
@@ -82056,103 +81974,110 @@ Raed recruits professional bookmaker Kareem. With the help of Ahmed, Mughith sta
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
   </programme>
   <programme start="20251225053500 +0000" stop="20251225060500 +0000" channel="MBC Persia.tl">
-    <title lang="en">Shahre Dour</title>
+    <title lang="en">المدينة البعيدة - Shahre Dour</title>
     <desc lang="en">A woman and her son arrive in her late husband's homeland with his corpse, determined to give him a proper burial. But his powerful family soon traps her in a web of secrets and control, making her escape impossible.</desc>
   </programme>
   <programme start="20251225060500 +0000" stop="20251225063300 +0000" channel="MBC Persia.tl">
-    <title lang="en">Shahre Dour</title>
+    <title lang="en">المدينة البعيدة - Shahre Dour</title>
     <desc lang="en">A woman and her son arrive in her late husband's homeland with his corpse, determined to give him a proper burial. But his powerful family soon traps her in a web of secrets and control, making her escape impossible.</desc>
   </programme>
   <programme start="20251225072300 +0000" stop="20251225081100 +0000" channel="MBC Persia.tl">
-    <title lang="en">Navadegan</title>
+    <title lang="en">أنا بنت أبي - Navadegan</title>
     <desc lang="en">Navigating fears and self-doubt, a small-town girl must prove her mettle to inherit a real estate empire and forge a legacy that defies all expectations.</desc>
   </programme>
   <programme start="20251225081100 +0000" stop="20251225085800 +0000" channel="MBC Persia.tl">
-    <title lang="en">Navadegan</title>
+    <title lang="en">أنا بنت أبي - Navadegan</title>
     <desc lang="en">Navigating fears and self-doubt, a small-town girl must prove her mettle to inherit a real estate empire and forge a legacy that defies all expectations.</desc>
   </programme>
   <programme start="20251225085800 +0000" stop="20251225094400 +0000" channel="MBC Persia.tl">
-    <title lang="en">Navadegan</title>
+    <title lang="en">أنا بنت أبي - Navadegan</title>
     <desc lang="en">Navigating fears and self-doubt, a small-town girl must prove her mettle to inherit a real estate empire and forge a legacy that defies all expectations.</desc>
   </programme>
   <programme start="20251225094400 +0000" stop="20251225103100 +0000" channel="MBC Persia.tl">
-    <title lang="en">Navadegan</title>
+    <title lang="en">أنا بنت أبي - Navadegan</title>
     <desc lang="en">Navigating fears and self-doubt, a small-town girl must prove her mettle to inherit a real estate empire and forge a legacy that defies all expectations.</desc>
   </programme>
   <programme start="20251225103100 +0000" stop="20251225110300 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225110300 +0000" stop="20251225113400 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225113400 +0000" stop="20251225120500 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225120500 +0000" stop="20251225123400 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225123400 +0000" stop="20251225130700 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225130700 +0000" stop="20251225133600 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225133600 +0000" stop="20251225140400 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225140400 +0000" stop="20251225143100 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225143100 +0000" stop="20251225150100 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225150100 +0000" stop="20251225152900 +0000" channel="MBC Persia.tl">
-    <title lang="en">Man Madaram</title>
+    <title lang="en">أنا أم - Man Madaram</title>
     <desc lang="en">After her husband breaks her heart, Karsu returns to her estranged mother’s house with her three children in hopes of rebuilding her life.</desc>
   </programme>
   <programme start="20251225152900 +0000" stop="20251225155900 +0000" channel="MBC Persia.tl">
-    <title lang="en">Nabegheh</title>
-    <desc lang="en">After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
+    <title lang="en">العبقري - Nabegheh</title>
+    <desc lang="en">بعد أن يقوم باكتشاف ثوري في أطروحته لنيل الدكتوراه، يتوجب على عبقري في الرياضيات تغيير خططه المستقبلية للسفر إلى الولايات المتحدة عند عودة والده الذي هجر العائلة قبل سنوات إلى حياته.
+After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
   </programme>
   <programme start="20251225155900 +0000" stop="20251225162900 +0000" channel="MBC Persia.tl">
-    <title lang="en">Nabegheh</title>
-    <desc lang="en">After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
+    <title lang="en">العبقري - Nabegheh</title>
+    <desc lang="en">بعد أن يقوم باكتشاف ثوري في أطروحته لنيل الدكتوراه، يتوجب على عبقري في الرياضيات تغيير خططه المستقبلية للسفر إلى الولايات المتحدة عند عودة والده الذي هجر العائلة قبل سنوات إلى حياته.
+After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
   </programme>
   <programme start="20251225162900 +0000" stop="20251225170100 +0000" channel="MBC Persia.tl">
-    <title lang="en">Shahre Dour</title>
+    <title lang="en">المدينة البعيدة - Shahre Dour</title>
     <desc lang="en">A woman and her son arrive in her late husband's homeland with his corpse, determined to give him a proper burial. But his powerful family soon traps her in a web of secrets and control, making her escape impossible.</desc>
   </programme>
   <programme start="20251225170100 +0000" stop="20251225172900 +0000" channel="MBC Persia.tl">
-    <title lang="en">Shahre Dour</title>
+    <title lang="en">المدينة البعيدة - Shahre Dour</title>
     <desc lang="en">A woman and her son arrive in her late husband's homeland with his corpse, determined to give him a proper burial. But his powerful family soon traps her in a web of secrets and control, making her escape impossible.</desc>
   </programme>
   <programme start="20251225172900 +0000" stop="20251225200500 +0000" channel="MBC Persia.tl">
-    <title lang="en">Bharat</title>
-    <desc lang="en">At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom as a man exerts himself to keep a promise made to his dad.</desc>
+    <title lang="en">بهارات - Bharat</title>
+    <desc lang="en">بينما توشك الهند أن تشهد بزوغ فجر جديد كدولة مستقلة، تنطلق عائلة في رحلة شاقة سعيا وراء الحرية حيث ينذر رجل نفسه للوفاء بوعد قطعه لوالده.
+
+At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom as a man exerts himself to keep a promise made to his dad.</desc>
   </programme>
   <programme start="20251225200500 +0000" stop="20251225220900 +0000" channel="MBC Persia.tl">
     <title lang="en">The Holdovers</title>
-    <desc lang="en">They’re the ones left behind in a deserted boarding school for the holidays—a grumpy teacher, a sharp-tongued teen, and a grieving cook. Stuck together, they just might find what they didn’t know they needed: each other.</desc>
+    <desc lang="en">أستاذ ساخط وطالب لاذع وطاهية بقلب مكسور. هؤلاء هم الذين سيقضون عطلة الأعياد في مدرسة داخلية مهجورة بمفردهم... حتى يجمع القدر بينهم ويجبرهم أن يمضوا الوقت سويا، ليكتشفوا أن ما فقدوه قد يجدونهم في بعضهم البعض.
+They’re the ones left behind in a deserted boarding school for the holidays—a grumpy teacher, a sharp-tongued teen, and a grieving cook. Stuck together, they just might find what they didn’t know they needed: each other.</desc>
   </programme>
   <programme start="20251225220900 +0000" stop="20251225223500 +0000" channel="MBC Persia.tl">
-    <title lang="en">Nabegheh</title>
-    <desc lang="en">After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
+    <title lang="en">العبقري - Nabegheh</title>
+    <desc lang="en">بعد أن يقوم باكتشاف ثوري في أطروحته لنيل الدكتوراه، يتوجب على عبقري في الرياضيات تغيير خططه المستقبلية للسفر إلى الولايات المتحدة عند عودة والده الذي هجر العائلة قبل سنوات إلى حياته.
+After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
   </programme>
   <programme start="20251225223500 +0000" stop="20251225230000 +0000" channel="MBC Persia.tl">
-    <title lang="en">Nabegheh</title>
-    <desc lang="en">After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
+    <title lang="en">العبقري - Nabegheh</title>
+    <desc lang="en">بعد أن يقوم باكتشاف ثوري في أطروحته لنيل الدكتوراه، يتوجب على عبقري في الرياضيات تغيير خططه المستقبلية للسفر إلى الولايات المتحدة عند عودة والده الذي هجر العائلة قبل سنوات إلى حياته.
+After making a groundbreaking discovery in his doctoral thesis, a math genius is forced to change his plans to go to the U.S. when his father, who abandoned his family years ago, re-enters their lives.</desc>
   </programme>
   <programme start="20251225230000 +0000" stop="20251225233200 +0000" channel="MBC Persia.tl">
-    <title lang="en">Shahre Dour</title>
+    <title lang="en">المدينة البعيدة - Shahre Dour</title>
     <desc lang="en">A woman and her son arrive in her late husband's homeland with his corpse, determined to give him a proper burial. But his powerful family soon traps her in a web of secrets and control, making her escape impossible.</desc>
   </programme>
   <programme start="20251225233200 +0000" stop="20251226000000 +0000" channel="MBC Persia.tl">
@@ -99312,429 +99237,6 @@ Ryan Reynolds champions the underdogs of the animal kingdom from pathetic animal
   </programme>
   <programme start="20251224225500 +0000" stop="20251224231500 +0000" channel="NickToons HD.tl">
     <title lang="en">سبونجبوب سكويربانتس: بيني فولش/ ناتشورال نوفيس - SpongeBob SquarePants: Penny Foolish / Nautical Novice</title>
-  </programme>
-  <programme start="20251224231500 +0000" stop="20251224234000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ترانسفورمرز: إيرثكوايك: سيكرت ليغاسي الجزء 1 - Transformers: EarthSpark: Secret Legacy Pt. 1</title>
-  </programme>
-  <programme start="20251224234000 +0000" stop="20251225000000 +0000" channel="NickToons HD.tl">
-    <title lang="en">مونستر هاي: ذا مونسترنغ - Monster High: The Monstering</title>
-  </programme>
-  <programme start="20251225000000 +0000" stop="20251225002000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: بوكيت بانتس/ إي بيست تو فار - Best and Bester: Bucket Pants / A Best Too Far</title>
-  </programme>
-  <programme start="20251225002000 +0000" stop="20251225004000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: سبويلر أليرت/ سومثينغ فيشي - Best and Bester: Spoiler Alert / Something Fishy</title>
-  </programme>
-  <programme start="20251225004000 +0000" stop="20251225010000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: فير شير/ باور بلانت - Best and Bester: Fair Share / Power Plant</title>
-  </programme>
-  <programme start="20251225010000 +0000" stop="20251225012500 +0000" channel="NickToons HD.tl">
-    <title lang="en">تيليز أوف ذا تينايغ ميوتانت نينجا ترتلز: ذا بيغ ماك - Tales of the Teenage Mutant Ninja Turtles: The Big Muck</title>
-  </programme>
-  <programme start="20251225012500 +0000" stop="20251225014500 +0000" channel="NickToons HD.tl">
-    <title lang="en">رايز أوف ذا تينيدج ميوتانت نينجا ترتلز - Rise of the Teenage Mutant Ninja Turtles: Turtle-dega Nights: The Ballad of Rat Man / The An</title>
-  </programme>
-  <programme start="20251225014500 +0000" stop="20251225020500 +0000" channel="NickToons HD.tl">
-    <title lang="en">تي.يز.أف.أف. بوبي: فريسكي بيزنس/هوت دوغ - T.U.F.F. Puppy: Frisky Business/ Hot Dog</title>
-  </programme>
-  <programme start="20251225020500 +0000" stop="20251225023000 +0000" channel="NickToons HD.tl">
-    <title lang="en">افاتار: ذا لاست ايربيندر: ذا سيدج أوف ذا نورث الجزء 1 - Avatar: The Last Airbender: The Siege Of The North Part 1</title>
-  </programme>
-  <programme start="20251225023000 +0000" stop="20251225025000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: بيني فولش/ ناتشورال نوفيس - SpongeBob SquarePants: Penny Foolish / Nautical Novice</title>
-  </programme>
-  <programme start="20251225025000 +0000" stop="20251225025500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: World Book Day</title>
-  </programme>
-  <programme start="20251225025500 +0000" stop="20251225030000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Children's Festival</title>
-  </programme>
-  <programme start="20251225030000 +0000" stop="20251225030500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Muddy Festival</title>
-  </programme>
-  <programme start="20251225030500 +0000" stop="20251225031000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Strawberries</title>
-  </programme>
-  <programme start="20251225031000 +0000" stop="20251225031500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Grandpa Pig's Birthday</title>
-  </programme>
-  <programme start="20251225031500 +0000" stop="20251225032000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: The Petting Farm</title>
-  </programme>
-  <programme start="20251225032000 +0000" stop="20251225032500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Pizza! Pizza!</title>
-  </programme>
-  <programme start="20251225032500 +0000" stop="20251225033000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: TV Land</title>
-  </programme>
-  <programme start="20251225033000 +0000" stop="20251225033500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Roman Day</title>
-  </programme>
-  <programme start="20251225033500 +0000" stop="20251225034000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Bird Spotting</title>
-  </programme>
-  <programme start="20251225034000 +0000" stop="20251225035000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Super Potato Movie</title>
-  </programme>
-  <programme start="20251225035000 +0000" stop="20251225035500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Bat and Ball</title>
-  </programme>
-  <programme start="20251225035500 +0000" stop="20251225040000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Buried Treasure</title>
-  </programme>
-  <programme start="20251225040000 +0000" stop="20251225042000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ايه لايف إن ايه ديه/ صن بليشد - SpongeBob SquarePants: A Life In A Day / Sun Bleached</title>
-  </programme>
-  <programme start="20251225042000 +0000" stop="20251225044500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: جاينت سكوايدوارد / نو نوز نوز - SpongeBob SquarePants: Giant Squidward / No Nose Knows</title>
-  </programme>
-  <programme start="20251225044500 +0000" stop="20251225050500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا باتي كابر\ بلانكتنز ريغولار - SpongeBob SquarePants: The Patty Caper / Plankton's Regular</title>
-  </programme>
-  <programme start="20251225050500 +0000" stop="20251225052000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس - SpongeBob SquarePants: Salsa Imbecilicus</title>
-  </programme>
-  <programme start="20251225052000 +0000" stop="20251225054500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: إتس أيه سبونج بوب كريسماس - SpongeBob SquarePants: It's A SpongeBob Christmas!</title>
-  </programme>
-  <programme start="20251225054500 +0000" stop="20251225061000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: ذا هو هو! هورور! / أوتهاوس أوترادج - Kamp Koral: SpongeBob's Under Years: The Ho! Ho! Horror! / Outhouse Outrage</title>
-  </programme>
-  <programme start="20251225061000 +0000" stop="20251225063000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: شوغر سكويز/ تاغ، يور ات - Kamp Koral: Spongebob's Under Years: Sugar Squeeze / Tag, You're It</title>
-  </programme>
-  <programme start="20251225063000 +0000" stop="20251225065500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا كاساغرانديز: إي فيري كاساغرانديز كريسماس - The Casagrandes: A Very Casagrandes Christmas</title>
-  </programme>
-  <programme start="20251225065500 +0000" stop="20251225071500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا كاساغرانديز: آر إن ذا فاميلي\ فايندرز ويبرز - The Casagrandes: Arr In The Family / Finders Weepers</title>
-  </programme>
-  <programme start="20251225071500 +0000" stop="20251225074000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: غراب سناب/ شيز اول بات - The Loud House: Grub Snub / She's All Bat</title>
-  </programme>
-  <programme start="20251225074000 +0000" stop="20251225080500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: سكولد! الجزء 2 - The Loud House: Schooled! Part 2</title>
-  </programme>
-  <programme start="20251225080500 +0000" stop="20251225083000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: ذا بوس ماي بي/ فاميلي بوندنغ - The Loud House: The Boss Maybe / Family Bonding</title>
-  </programme>
-  <programme start="20251225083000 +0000" stop="20251225085000 +0000" channel="NickToons HD.tl">
-    <title lang="en">تيليز أوف ذا تينايغ ميوتانت نينجا ترتلز: راف ثينكس إت ثرو - Tales of the Teenage Mutant Ninja Turtles: Raph Thinks It Through</title>
-  </programme>
-  <programme start="20251225085000 +0000" stop="20251225091500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا باتريك ستار شو  - The Patrick Star Show: Squidina's Holidaze Special</title>
-  </programme>
-  <programme start="20251225091500 +0000" stop="20251225100500 +0000" channel="NickToons HD.tl">
-    <title lang="en">Albert: Albert - Albert</title>
-  </programme>
-  <programme start="20251225100500 +0000" stop="20251225103000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: كامبد - The Loud House: Camped!</title>
-  </programme>
-  <programme start="20251225103000 +0000" stop="20251225105500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: 'Twas the Fight Before Christmas</title>
-  </programme>
-  <programme start="20251225105500 +0000" stop="20251225112000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيري أودبارنتس: إي نيو ويش: راتلكوندا رايسرز/ ديغ إي ليتل ديبر - The Fairly OddParents: A New Wish: Rattleconda Racers / Dig a Little Deeper</title>
-  </programme>
-  <programme start="20251225112000 +0000" stop="20251225113000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: تيوتر سوص - SpongeBob SquarePants: Tutor Sauce</title>
-  </programme>
-  <programme start="20251225113000 +0000" stop="20251225115500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: إتس أيه سبونج بوب كريسماس - SpongeBob SquarePants: It's A SpongeBob Christmas!</title>
-  </programme>
-  <programme start="20251225115500 +0000" stop="20251225121500 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: ذا هو هو! هورور! / أوتهاوس أوترادج - Kamp Koral: SpongeBob's Under Years: The Ho! Ho! Horror! / Outhouse Outrage</title>
-  </programme>
-  <programme start="20251225121500 +0000" stop="20251225123000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز - Kamp Koral: SpongeBob's Under Years: Eye of the Hotdog</title>
-  </programme>
-  <programme start="20251225123000 +0000" stop="20251225125500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: رول موديل ويذ ذا كاساغرانديس - The Loud House: Roll Model with the Casagrandes / No Show with the</title>
-  </programme>
-  <programme start="20251225125500 +0000" stop="20251225132000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: 'Twas the Fight Before Christmas</title>
-  </programme>
-  <programme start="20251225132000 +0000" stop="20251225133000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Can't Lynn Em All</title>
-  </programme>
-  <programme start="20251225133000 +0000" stop="20251225140000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Sonic Prime: Situation: Grim</title>
-  </programme>
-  <programme start="20251225140000 +0000" stop="20251225142500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: جيفي تيس برانكويل إمبوريوم - SpongeBob SquarePants: Jeffy T's Prankwell Emporium / A Taste of Plankton</title>
-  </programme>
-  <programme start="20251225142500 +0000" stop="20251225145000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ماسترد أو ماين/ شوبنغ ليست - SpongeBob SquarePants: Mustard O' Mine / Shopping List</title>
-  </programme>
-  <programme start="20251225145000 +0000" stop="20251225150500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس - SpongeBob SquarePants: Big Top Flop</title>
-  </programme>
-  <programme start="20251225150500 +0000" stop="20251225153000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا باتريك ستار شو : جست إن تايم - The Patrick Star Show: Just in time for Christmas / Klopnodian Heritage F</title>
-  </programme>
-  <programme start="20251225153000 +0000" stop="20251225155000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Super Duper Bunny League: Bunnies Save Christmas!</title>
-  </programme>
-  <programme start="20251225155000 +0000" stop="20251225160000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Pet Project</title>
-  </programme>
-  <programme start="20251225160000 +0000" stop="20251225161500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Cuff Break</title>
-  </programme>
-  <programme start="20251225161500 +0000" stop="20251225163500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيري أودبارنتس: إي نيو ويش: أوبيرايشن بيرذداي تايكباك بارت 1/ أوبيرايشن بيرث - The Fairly OddParents: A New Wish: Operation Birthday Takeback Pt 1 / Operation Birth</title>
-  </programme>
-  <programme start="20251225163500 +0000" stop="20251225170000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Sonic Prime: Situation: Grim</title>
-  </programme>
-  <programme start="20251225170000 +0000" stop="20251225180500 +0000" channel="NickToons HD.tl">
-    <title lang="en">A Fairly Odd Christmas</title>
-  </programme>
-  <programme start="20251225180500 +0000" stop="20251225181500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا باد غوي كلاب فور فيلينز - SpongeBob SquarePants: The Bad Guy Club for Villains</title>
-  </programme>
-  <programme start="20251225181500 +0000" stop="20251225183500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا أبريسف سايد/ ايروورم - SpongeBob SquarePants: The Abrasive Side / Earworm</title>
-  </programme>
-  <programme start="20251225183500 +0000" stop="20251225185000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Just Snow With It</title>
-  </programme>
-  <programme start="20251225185000 +0000" stop="20251225190500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: هيد بوتس إنكزايتي - The Loud House: Head Poet's Anxiety</title>
-  </programme>
-  <programme start="20251225190500 +0000" stop="20251225193000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: تايم تراب! - The Loud House: Time Trap!</title>
-  </programme>
-  <programme start="20251225193000 +0000" stop="20251225195000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيرلي اود بارتنرز - The Fairly OddParents: Cat 'n Mouse / Chip off the Old Crock</title>
-  </programme>
-  <programme start="20251225195000 +0000" stop="20251225200000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيرلي اود بارتنرز - The Fairly OddParents: Nuts &amp; Dangerous</title>
-  </programme>
-  <programme start="20251225200500 +0000" stop="20251225203000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا بينغوانز اوف ماداغاسكر - The Penguins of Madagascar: The All Nighter Before Christmas</title>
-  </programme>
-  <programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا بينغوانز اوف ماداغاسكر: ذا لوست تريجر أوف ذا غولدن سكويريل - The Penguins Of Madagascar: The Lost Treasure Of The Golden Squirrel</title>
-  </programme>
-  <programme start="20251225205500 +0000" stop="20251225211500 +0000" channel="NickToons HD.tl">
-    <title lang="en">كونغ فو باندا: ليدجيندز أوف أويسومناس: بريزينت تينس - Kung Fu Panda: Legends of Awesomeness: Present Tense</title>
-  </programme>
-  <programme start="20251225211500 +0000" stop="20251225214000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: فوود كون كاستوايز / سنيل ميل - SpongeBob SquarePants: Food Con Castaways / Snail Mail</title>
-  </programme>
-  <programme start="20251225214000 +0000" stop="20251225220500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس - SpongeBob SquarePants: Hide and Then What Happens? / Shellback Shenanigan</title>
-  </programme>
-  <programme start="20251225220500 +0000" stop="20251225223000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا ماستربيس \ويلك أتاك - SpongeBob SquarePants: The Masterpiece / Whelk Attack</title>
-  </programme>
-  <programme start="20251225223000 +0000" stop="20251225225500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: سبونجيكوس/ ساكشنكاب سيمفوني - SpongeBob SquarePants: Spongicus / Suctioncup Symphony</title>
-  </programme>
-  <programme start="20251225225500 +0000" stop="20251225231500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: نت نورمال / غان - SpongeBob SquarePants: Not Normal / Gone</title>
-  </programme>
-  <programme start="20251225231500 +0000" stop="20251225234000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ترانسفورمرز: إيرثكوايك - Transformers: EarthSpark: Secret Legacy Pt. 2</title>
-  </programme>
-  <programme start="20251225234000 +0000" stop="20251226000000 +0000" channel="NickToons HD.tl">
-    <title lang="en">منستر هاي: كايس أوف ذا مون-دايز/ بورتريت أوف إي مونستر - Monster High: Case of the Moon-Days / Portrait of a Monster</title>
-  </programme>
-  <programme start="20251226000000 +0000" stop="20251226002000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: بيست فريندز/ ذا تريفياليست بورسوت - Best and Bester: Best Fwends / The Trivialist Pursuit</title>
-  </programme>
-  <programme start="20251226002000 +0000" stop="20251226004000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: باد إيغز/ أوت أوف باوندز - Best and Bester: Bad Eggs / Out of Bounds</title>
-  </programme>
-  <programme start="20251226004000 +0000" stop="20251226010000 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: روبو ستومي/ وود يو؟ - Best and Bester: Robo Stomp / Wood You?</title>
-  </programme>
-  <programme start="20251226010000 +0000" stop="20251226012500 +0000" channel="NickToons HD.tl">
-    <title lang="en">باست أند باستر: روك-آي-باي بيستي/ شايك أور برايك - Best and Bester: Rock-a-Bye Besty / Shake or Break</title>
-  </programme>
-  <programme start="20251226012500 +0000" stop="20251226014500 +0000" channel="NickToons HD.tl">
-    <title lang="en">دورا ذا إكسبلورر  - Dora the Explorer: Riding the Roller Coaster Rocks</title>
-  </programme>
-  <programme start="20251226014500 +0000" stop="20251226020500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا أدفنتشرز أوف كيد دانجر - The Adventures of Kid Danger: Mad Wax/ Fails</title>
-  </programme>
-  <programme start="20251226020500 +0000" stop="20251226023000 +0000" channel="NickToons HD.tl">
-    <title lang="en">افاتار: ذا لاست ايربيندر: ذا أفاتار ستيت - Avatar: The Last Airbender: The Avatar State</title>
-  </programme>
-  <programme start="20251226023000 +0000" stop="20251226025000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: بوتينغ باديز/ ذا كرابي كرونيكل - SpongeBob SquarePants: Boating Buddies / The Krabby Kronicle</title>
-  </programme>
-  <programme start="20251226025000 +0000" stop="20251226025500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Christmas at the Hospital</title>
-  </programme>
-  <programme start="20251226025500 +0000" stop="20251226030000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Valentine's Day</title>
-  </programme>
-  <programme start="20251226030000 +0000" stop="20251226030500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: The Perfect Day</title>
-  </programme>
-  <programme start="20251226030500 +0000" stop="20251226031000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Breakfast Club</title>
-  </programme>
-  <programme start="20251226031000 +0000" stop="20251226031500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: The Botanical Gardens</title>
-  </programme>
-  <programme start="20251226031500 +0000" stop="20251226032000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Mr Potato's Fruit &amp; Vegetable Quiz</title>
-  </programme>
-  <programme start="20251226032000 +0000" stop="20251226032500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Viking Day</title>
-  </programme>
-  <programme start="20251226032500 +0000" stop="20251226033000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Made Up Musical Instruments</title>
-  </programme>
-  <programme start="20251226033000 +0000" stop="20251226033500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: In The Future</title>
-  </programme>
-  <programme start="20251226033500 +0000" stop="20251226034000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Doctor Hamster's Big Present</title>
-  </programme>
-  <programme start="20251226034000 +0000" stop="20251226034500 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Butterflies</title>
-  </programme>
-  <programme start="20251226034500 +0000" stop="20251226035000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Grampy Rabbit's Jetpack</title>
-  </programme>
-  <programme start="20251226035000 +0000" stop="20251226040000 +0000" channel="NickToons HD.tl">
-    <title lang="en">بيبا بيغ  - Peppa Pig: Detective Potato</title>
-  </programme>
-  <programme start="20251226040000 +0000" stop="20251226042000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: كراستي كراشيرز/ ذا كاردز - SpongeBob SquarePants: Krusty Krushers / The Card</title>
-  </programme>
-  <programme start="20251226042000 +0000" stop="20251226044500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: دير فايكينغ / ديتشن - SpongeBob SquarePants: Dear Vikings / Ditchin'</title>
-  </programme>
-  <programme start="20251226044500 +0000" stop="20251226050500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: غراندبابي ذا بايرت / سيفالوبد لودج - SpongeBob SquarePants: Grandpappy The Pirate / Cephalopod Lodge</title>
-  </programme>
-  <programme start="20251226050500 +0000" stop="20251226052000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا هول توث - SpongeBob SquarePants: The Whole Tooth</title>
-  </programme>
-  <programme start="20251226052000 +0000" stop="20251226054500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ذا باتي كابر\ بلانكتنز ريغولار - SpongeBob SquarePants: The Patty Caper / Plankton's Regular</title>
-  </programme>
-  <programme start="20251226054500 +0000" stop="20251226061000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: كواست فور تاير/كابن اوف كريوزتي - Kamp Koral: Spongebob's Under Years: Quest For Tire / Cabin Of Curiosities</title>
-  </programme>
-  <programme start="20251226061000 +0000" stop="20251226063000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: ان سيرش اوف كمب نوديست/ كيتشن سبونج - Kamp Koral: Spongebob's Under Years: In Search Of Camp Noodist / Kitchen Sponge</title>
-  </programme>
-  <programme start="20251226063000 +0000" stop="20251226065500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا كاساغرانديز: ستريس تيست \ هاو تو ترين يور كارل - The Casagrandes: Stress Test / How To Train Your Carl</title>
-  </programme>
-  <programme start="20251226065500 +0000" stop="20251226071500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا كاساغرانديز: أوبريشن داد - The Casagrandes: Operation Dad</title>
-  </programme>
-  <programme start="20251226071500 +0000" stop="20251226074000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: ماتش ادو اباوت نوشينغ/ برودكاست بلوز - The Loud House: Much Ado About Noshing / Broadcast Blues</title>
-  </programme>
-  <programme start="20251226074000 +0000" stop="20251226080500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: تريف ذا بارتي/ كيرنال اوف تروث - The Loud House: Strife of the Party / Kernel of Truth</title>
-  </programme>
-  <programme start="20251226080500 +0000" stop="20251226083000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Blinded by Science / Band Together</title>
-  </programme>
-  <programme start="20251226083000 +0000" stop="20251226085000 +0000" channel="NickToons HD.tl">
-    <title lang="en">تيليز أوف ذا تينايغ ميوتانت نينجا ترتلز: دوني هانغز تاف - Tales of the Teenage Mutant Ninja Turtles: Donnie Hangs Tough</title>
-  </programme>
-  <programme start="20251226085000 +0000" stop="20251226091500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا باتريك ستار شو : جست إن تايم - The Patrick Star Show: Just in time for Christmas / Klopnodian Heritage F</title>
-  </programme>
-  <programme start="20251226091500 +0000" stop="20251226094000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: ذا هو هو! هورور! / أوتهاوس أوترادج - Kamp Koral: SpongeBob's Under Years: The Ho! Ho! Horror! / Outhouse Outrage</title>
-  </programme>
-  <programme start="20251226094000 +0000" stop="20251226100500 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: كامب كروس بونز - Kamp Koral: SpongeBob's Under Years: Camp Crossbones / A Jelly Life</title>
-  </programme>
-  <programme start="20251226100500 +0000" stop="20251226103000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: 'Twas the Fight Before Christmas</title>
-  </programme>
-  <programme start="20251226103000 +0000" stop="20251226105500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: سكول أوف شوك/ إلكشاند - The Loud House: School Of Shock / Elecshunned</title>
-  </programme>
-  <programme start="20251226105500 +0000" stop="20251226112000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيري أودبارنتس: إي نيو ويش: أوبيرايشن بيرذداي تايكباك بارت 1/ أوبيرايشن بيرث - The Fairly OddParents: A New Wish: Operation Birthday Takeback Pt 1 / Operation Birth</title>
-  </programme>
-  <programme start="20251226112000 +0000" stop="20251226113000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: سكويد بلاس وان - SpongeBob SquarePants: Squid Plus One</title>
-  </programme>
-  <programme start="20251226113000 +0000" stop="20251226115000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: بتريكس كوبون/ آوت اوف ذا بيكتشر - SpongeBob SquarePants: Patrick's Coupon / Out Of The Picture</title>
-  </programme>
-  <programme start="20251226115000 +0000" stop="20251226121500 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: كامب سبيريت هيلب نوت ونتد - Kamp Koral: SpongeBob's Under Years: Camp Spirit / Help Not Wanted</title>
-  </programme>
-  <programme start="20251226121500 +0000" stop="20251226123000 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز - Kamp Koral: SpongeBob's Under Years: Deep Sea Despot</title>
-  </programme>
-  <programme start="20251226123000 +0000" stop="20251226125500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: فايس ذا ميوزك ويذ ذا كاساغرانديس - The Loud House: Face the Music with the Casagrandes / Pranks for t</title>
-  </programme>
-  <programme start="20251226125500 +0000" stop="20251226132000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: باور بلاي ويذ ذا كازاغرانديس - The Loud House: Power Play with the Casagrandes / Room for Improve</title>
-  </programme>
-  <programme start="20251226132000 +0000" stop="20251226133000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Bye Tanya</title>
-  </programme>
-  <programme start="20251226133000 +0000" stop="20251226140000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Sonic Prime: It Takes One to No Place</title>
-  </programme>
-  <programme start="20251226140000 +0000" stop="20251226142500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: سمارتيفيشيل إنتليجينس/ فايرهاوس بوب - SpongeBob SquarePants: Smartificial Intelligence / Firehouse Bob</title>
-  </programme>
-  <programme start="20251226142500 +0000" stop="20251226145000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: ويل ووتشنغ/ كراستي كلينرس - SpongeBob SquarePants: Whale Watching / Krusty Kleaners</title>
-  </programme>
-  <programme start="20251226145000 +0000" stop="20251226150500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس - SpongeBob SquarePants: Sandy, Help Us!</title>
-  </programme>
-  <programme start="20251226150500 +0000" stop="20251226152500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا باتريك ستار شو : ذا راث أوف شماندور/ ذير غوز ذا نايبورهو - The Patrick Star Show: The Wrath of Shmandor / There Goes the Neighborhoo</title>
-  </programme>
-  <programme start="20251226152500 +0000" stop="20251226155000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Super Duper Bunny League: Cutie Patooties! / Queen Bex!</title>
-  </programme>
-  <programme start="20251226155000 +0000" stop="20251226160000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Prom-Com</title>
-  </programme>
-  <programme start="20251226160000 +0000" stop="20251226161500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Just Snow With It</title>
-  </programme>
-  <programme start="20251226161500 +0000" stop="20251226163500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيري أودبارنتس: إي نيو ويش: غروينغ باينز/ فيري فور إي داي - The Fairly OddParents: A New Wish: Growing Pains / Fairy for a Day</title>
-  </programme>
-  <programme start="20251226163500 +0000" stop="20251226170000 +0000" channel="NickToons HD.tl">
-    <title lang="en">Sonic Prime: It Takes One to No Place</title>
-  </programme>
-  <programme start="20251226170000 +0000" stop="20251226172500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: بلانكتنز اولد تشام/ ستورمي ويذر - SpongeBob SquarePants: Plankton's Old Chum / Stormy Weather</title>
-  </programme>
-  <programme start="20251226172500 +0000" stop="20251226175000 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس: سانديز نتمير/ بوليتن بورد - SpongeBob SquarePants: Sandy's Nutmare / Bulletin Board</title>
-  </programme>
-  <programme start="20251226175000 +0000" stop="20251226181500 +0000" channel="NickToons HD.tl">
-    <title lang="en">كامب كورال سبونجبوبس أندر ييرز: ان سيرش اوف كمب نوديست/ كيتشن سبونج - Kamp Koral: Spongebob's Under Years: In Search Of Camp Noodist / Kitchen Sponge</title>
-  </programme>
-  <programme start="20251226181500 +0000" stop="20251226183500 +0000" channel="NickToons HD.tl">
-    <title lang="en">سبونجبوب سكويربانتس - SpongeBob SquarePants: Hide and Then What Happens? / Shellback Shenanigan</title>
-  </programme>
-  <programme start="20251226183500 +0000" stop="20251226185000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: ميسد كوناكشن - The Loud House: Missed Connection</title>
-  </programme>
-  <programme start="20251226185000 +0000" stop="20251226190500 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس - The Loud House: Deal Me Out</title>
-  </programme>
-  <programme start="20251226190500 +0000" stop="20251226193000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا لاود هاوس: كراشد كورس/ بانز أند بونز - The Loud House: Crashed Course / Puns and Buns</title>
-  </programme>
-  <programme start="20251226193000 +0000" stop="20251226195000 +0000" channel="NickToons HD.tl">
-    <title lang="en">ذا فيرلي اود بارتنرز - The Fairly OddParents: Space CADAD / Summer Bummer</title>
   </programme>
   <programme start="20251226195000 +0000" stop="20251226200000 +0000" channel="NickToons HD.tl">
     <title lang="en">ذا فيرلي اود بارتنرز - The Fairly OddParents: Fairy Con</title>
@@ -142032,7 +141534,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">La Liga Highlights 2025/2026</title>
   </programme>
   <programme start="20251225230000 +0000" stop="20251225233000 +0000" channel="be INSports 1.tl">
-    <title lang="en">Vendée Fontenay Foot vs Paris Saint-Germain - French Cup - 2025/26 - Round of 64 - Mini Match - Vendée Fontenay Foot vs Paris Saint - Germain</title>
+    <title lang="en">French Cup - 2025/26 - Mini Matchs - Vendée Fontenay Foot vs Paris Saint - Germain</title>
   </programme>
   <programme start="20251225233000 +0000" stop="20251226000000 +0000" channel="be INSports 1.tl">
     <title lang="en">Ligue 1 Mid season Review  2025 /2026</title>
@@ -142074,7 +141576,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match - Villarreal vs Barcelona  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="be INSports 1.tl">
-    <title lang="en">EPL The Big Interview 2025/2026</title>
+    <title lang="en">Best World Cup Player 2002 - EPL The Big Interview 2025/2026</title>
   </programme>
   <programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="be INSports 1.tl">
     <title lang="en">FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026</title>
@@ -142140,7 +141642,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">EPL The Big Interview 2025/2026</title>
   </programme>
   <programme start="20251226180000 +0000" stop="20251226183000 +0000" channel="be INSports 1.tl">
-    <title lang="en">FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026</title>
+    <title lang="en">Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match - FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026</title>
   </programme>
   <programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="be INSports 1.tl">
     <title lang="en">EPL Stories 2025/2026</title>
@@ -142536,7 +142038,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Real Betis vs Getafe - Spanish LaLiga 2025/26 - Week 17 - Real Betis vs Getafe  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251227223000 +0000" stop="20251228003000 +0000" channel="be INSports 3.tl">
-    <title lang="en">Girona vs Atletico Madrid  -  Spanish LaLiga 2025/26</title>
+    <title lang="en">Girona vs Atletico Madrid - Spanish LaLiga 2025/26 - Week 17 - Girona vs Atletico Madrid  -  Spanish LaLiga 2025/26</title>
   </programme>
   <programme start="20251224000000 +0000" stop="20251224014500 +0000" channel="be INSports 4.tl">
     <title lang="en">Stade Rennais vs Les Sables VF - French Cup - 2025/26 - Round of 32 - Stade Rennais vs Les Sables VF  -  French Cup</title>
@@ -142725,10 +142227,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Ligue 1 Weekly Review - 2025/2026 - Ligue 1 Weekly Review  -  2025/2026</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227224500 +0000" channel="be INSports 4.tl">
-    <title lang="en">Brentford  vs AFC Bournemouth  -  English Premier League 2025/2026 Week 18</title>
+    <title lang="en">Brentford  vs AFC Bournemouth - English Premier League 2025/2026 Week 18 - Brentford  vs AFC Bournemouth  -  English Premier League 2025/2026 Week 18</title>
   </programme>
   <programme start="20251227224500 +0000" stop="20251228003000 +0000" channel="be INSports 4.tl">
-    <title lang="en">Birmingham City vs Derby County  -  EFL</title>
+    <title lang="en">Birmingham City vs Derby County - EFL - English Football League  SkyBet - Championship 2025/2026 - Birmingham City vs Derby County  -  EFL</title>
   </programme>
   <programme start="20251223232100 +0000" stop="20251224010700 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Shorta (IRQ) vs Al Ahli Saudi FC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Al Shorta (IRQ) vs Al Ahli Saudi FC (KSA)  -  AFC Champions League Elite 2025/2026</title>
@@ -142929,7 +142431,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Al Ahli Saudi FC (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD1 - Mini M - Al Ahli Saudi FC (KSA) vs PFC Nasaf (UZB)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227230000 +0000" channel="be INSports 5.tl">
-    <title lang="en">Burnley vs Everton  -  English Premier League 2025/2026 Week 18</title>
+    <title lang="en">Burnley vs Everton - English Premier League 2025/2026 Week 18 - Burnley vs Everton  -  English Premier League 2025/2026 Week 18</title>
   </programme>
   <programme start="20251224000000 +0000" stop="20251224020000 +0000" channel="be INSports 6.tl">
     <title lang="en">Azam Football Club vs Wydad AC - CAF Confederation Cup 2025/26 - MD2 - Azam Football Club vs Wydad AC  -  CAF Confederation Cup 2025/26</title>
@@ -143001,28 +142503,28 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Singida Black Stars vs Stellenbosch FC - CAF Confederation Cup 2025/26 - MD2 - FOOTBALL CLUB DE SAN PEDRO vs Djoliba AC de Bamako  -  CAF Confederation Cup 2025/26</title>
   </programme>
   <programme start="20251225220000 +0000" stop="20251225234500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Atlético Petroleos vs EST - CAF Champions League 2025/26 MD2 - Atlético Petroleos vs EST  -  CAF Champions League 2025/26 MD2</title>
+    <title lang="en">Atlético Petroleos vs EST  -  CAF Champions League 2025/26 MD2</title>
   </programme>
   <programme start="20251225234500 +0000" stop="20251226014500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Stade Malien vs Simba SC - CAF Champions League 2025/26 MD2 - Stade Malien vs Simba SC  -  CAF Champions League 2025/26 MD2</title>
+    <title lang="en">Stade Malien vs Simba SC  -  CAF Champions League 2025/26 MD2</title>
   </programme>
   <programme start="20251226014500 +0000" stop="20251226034500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Kaizer Chiefs FC vs Zamalek SC - CAF Confederation Cup 2025/26 - MD2 - Kaizer Chiefs FC vs Zamalek SC  -  CAF Confederation Cup 2025/26</title>
+    <title lang="en">Kaizer Chiefs FC vs Zamalek SC  -  CAF Confederation Cup 2025/26</title>
   </programme>
   <programme start="20251226034500 +0000" stop="20251226054500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Zesco United FC vs Al-Masry SC - CAF Confederation Cup 2025/26 - MD2 - Zesco United FC vs Al - Masry SC</title>
+    <title lang="en">Zesco United FC vs Al - Masry SC</title>
   </programme>
   <programme start="20251226054500 +0000" stop="20251226073000 +0000" channel="be INSports 6.tl">
-    <title lang="en">US Concarneau vs FC Nantes - French Cup - 2025/26 - Round of 32 - US Concarneau vs FC Nantes  -  French Cup</title>
+    <title lang="en">US Concarneau vs FC Nantes  -  French Cup</title>
   </programme>
   <programme start="20251226073000 +0000" stop="20251226091500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Atlético Petroleos vs EST - CAF Champions League 2025/26 MD2 - Atlético Petroleos vs EST  -  CAF Champions League 2025/26 MD2</title>
+    <title lang="en">Atlético Petroleos vs EST  -  CAF Champions League 2025/26 MD2</title>
   </programme>
   <programme start="20251226091500 +0000" stop="20251226111500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Stade Malien vs Simba SC - CAF Champions League 2025/26 MD2 - Stade Malien vs Simba SC  -  CAF Champions League 2025/26 MD2</title>
+    <title lang="en">Stade Malien vs Simba SC  -  CAF Champions League 2025/26 MD2</title>
   </programme>
   <programme start="20251226111500 +0000" stop="20251226131500 +0000" channel="be INSports 6.tl">
-    <title lang="en">Kaizer Chiefs FC vs Zamalek SC - CAF Confederation Cup 2025/26 - MD2 - Kaizer Chiefs FC vs Zamalek SC  -  CAF Confederation Cup 2025/26</title>
+    <title lang="en">Kaizer Chiefs FC vs Zamalek SC  -  CAF Confederation Cup 2025/26</title>
   </programme>
   <programme start="20251226131500 +0000" stop="20251226151500 +0000" channel="be INSports 6.tl">
     <title lang="en">Zesco United FC vs Al-Masry SC - CAF Confederation Cup 2025/26 - MD2 - Zesco United FC vs Al - Masry SC</title>
@@ -143160,10 +142662,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Katerina Siniakova / Taylor Townsend vs Gabriela Dabrowski / Erin Routliffe -  Women's Doubles Final - Katerina Siniakova / Taylor Townsend vs Gabriela Dabrowski / Erin Routliffe  -   Women's Doubles Final</title>
   </programme>
   <programme start="20251227213000 +0000" stop="20251227223000 +0000" channel="be INSports 7.tl">
-    <title lang="en">AO Originals  -  Ambition</title>
+    <title lang="en">AO Originals - Ambition - AO Originals  -  Ambition</title>
   </programme>
   <programme start="20251227223000 +0000" stop="20251228004500 +0000" channel="be INSports 7.tl">
-    <title lang="en">Casper Ruud (NOR) vs Denis Shapovalov (CAN)  -  Final</title>
+    <title lang="en">Casper Ruud (NOR) vs Denis Shapovalov (CAN) - Final - ATP 500 Dallas Open 2025 - Casper Ruud (NOR) vs Denis Shapovalov (CAN)  -  Final</title>
   </programme>
   <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="be INSports 8.tl">
     <title lang="en">NBA Action 2025/2026</title>
@@ -143217,10 +142719,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Denver Broncos @ Kansas City Chiefs - NFL -National Footbal League  - 2025/26 - Denver Broncos @ Kansas City Chiefs  -  NFL</title>
   </programme>
   <programme start="20251225014500 +0000" stop="20251225041500 +0000" channel="be INSports 8.tl">
-    <title lang="en">San Francisco 49ers @ Indianapolis Colts  -  NFL</title>
+    <title lang="en">San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26 - San Francisco 49ers @ Indianapolis Colts  -  NFL</title>
   </programme>
   <programme start="20251225041500 +0000" stop="20251225064500 +0000" channel="be INSports 8.tl">
-    <title lang="en">San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26 - New England Patriots @ Baltimore Ravens  -  NFL</title>
+    <title lang="en">New England Patriots @ Baltimore Ravens - NFL -National Footbal League  - 2025/26 - New England Patriots @ Baltimore Ravens  -  NFL</title>
   </programme>
   <programme start="20251225064500 +0000" stop="20251225073000 +0000" channel="be INSports 8.tl">
     <title lang="en">MA Super Ligue 1</title>
@@ -143328,7 +142830,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Cleveland vs New York - NBA season 2025–2026 - Cleveland vs New York  -  NBA season 2025–2026</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251228010000 +0000" channel="be INSports 8.tl">
-    <title lang="en">Dallas vs Sacramento  -  NBA season 2025–2026</title>
+    <title lang="en">Dallas vs Sacramento - NBA season 2025–2026 - Dallas vs Sacramento  -  NBA season 2025–2026</title>
   </programme>
   <programme start="20251223235000 +0000" stop="20251224020500 +0000" channel="be INSports 9.tl">
     <title lang="en">Equestrian Grand Prix - Global Tour – Jumping -  New York Round 2025 - Equestrian - Equestrian Grand Prix  -  Global Tour – Jumping</title>
@@ -143463,7 +142965,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">St Maur vs Lille - French Cup - 2025/26 - Round of 32 - St Maur vs Lille  -  French Cup</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228020000 +0000" channel="be INSports 9.tl">
-    <title lang="en">World Athletics Championships Tokyo 2025  -  Day 1 – Evening Session</title>
+    <title lang="en">World Athletics Championships Tokyo 2025 - Day 1 – Evening Session - World Athletics Championships Tokyo 2025  -  Day 1 – Evening Session</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251223233000 +0000" channel="be INSports English 1.tl">
     <title lang="en">Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Mini Match - Aston Villa vs Manchester United  -  English Premier League 2025/2026 Week 17</title>
@@ -143679,7 +143181,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">UEL &amp; UECL Magazine 2025/26 Ep.8</title>
   </programme>
   <programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">EPL Stories 2025/26 Ep.30 - - EPL Stories 2025/26 Ep.30  -</title>
+    <title lang="en">EPL Stories 2025/26 Ep.30 - The Forgotten Class Of 92 - EPL Stories 2025/26 Ep.30  -</title>
   </programme>
   <programme start="20251226113000 +0000" stop="20251226120000 +0000" channel="be INSports English 1.tl">
     <title lang="en">EN EPL The Big Interview 2025/26 | E20 - Michael Carrick - EN EPL The Big Interview 2025/26 | E20  -  Michael Carrick</title>
@@ -143709,7 +143211,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">EN EPL Catch-Up Show 2025/26 Ep.19 - EN EPL Catch - Up Show 2025/26 Ep.19</title>
   </programme>
   <programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">EPL Stories 2025/26 Ep.30 - - EPL Stories 2025/26 Ep.30  -</title>
+    <title lang="en">EPL Stories 2025/26 Ep.30 - The Forgotten Class Of 92 - EPL Stories 2025/26 Ep.30  -</title>
   </programme>
   <programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="be INSports English 1.tl">
     <title lang="en">EN EPL Match Officials Mic'd Up 2025/26 | E4</title>
@@ -143796,10 +143298,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">EN Ligue 1 Show 2025/26 Ep.16</title>
   </programme>
   <programme start="20251227213000 +0000" stop="20251227220000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">EPL Stories 2025/26 Ep.30  -</title>
+    <title lang="en">EPL Stories 2025/26 Ep.30 - - EPL Stories 2025/26 Ep.30  -</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251228003000 +0000" channel="be INSports English 1.tl">
-    <title lang="en">Dallas vs Sacramento  -  NBA season 2025–2026</title>
+    <title lang="en">Dallas vs Sacramento - NBA season 2025–2026 - Dallas vs Sacramento  -  NBA season 2025–2026</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224013000 +0000" channel="be INSports English 2.tl">
     <title lang="en">San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26 - San Francisco 49ers @ Indianapolis Colts  -  NFL</title>
@@ -143852,8 +143354,14 @@ A comedy series about a divorced young mother, who lives a double life as a care
   <programme start="20251224230000 +0000" stop="20251225011500 +0000" channel="be INSports English 2.tl">
     <title lang="en">Memphis vs Oklahoma City - NBA season 2025–2026 - Memphis vs Oklahoma City  -  NBA season 2025–2026</title>
   </programme>
-  <programme start="20251225011500 +0000" stop="20251225043000 +0000" channel="be INSports English 2.tl">
+  <programme start="20251225011500 +0000" stop="20251225014500 +0000" channel="be INSports English 2.tl">
     <title lang="en">Denver Broncos @ Kansas City Chiefs - NFL -National Footbal League  - 2025/26 - Denver Broncos @ Kansas City Chiefs  -  NFL</title>
+  </programme>
+  <programme start="20251225014500 +0000" stop="20251225031500 +0000" channel="be INSports English 2.tl">
+    <title lang="en">Denver vs Dallas - NBA season 2025–2026 - Denver vs Dallas  -  NBA season 2025–2026</title>
+  </programme>
+  <programme start="20251225031500 +0000" stop="20251225043000 +0000" channel="be INSports English 2.tl">
+    <title lang="en">AO Originals: Ambition EN</title>
   </programme>
   <programme start="20251225043000 +0000" stop="20251225050000 +0000" channel="be INSports English 2.tl">
     <title lang="en">EN Spirit of Sport 2026 | E2</title>
@@ -143895,10 +143403,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Denver vs Dallas - NBA season 2025–2026 - Denver vs Dallas  -  NBA season 2025–2026</title>
   </programme>
   <programme start="20251225230000 +0000" stop="20251226010000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Houston vs LA Clippers - NBA season 2025–2026 - Houston vs LA Clippers  -  NBA season 2025–2026</title>
+    <title lang="en">Houston vs LA Clippers  -  NBA season 2025–2026</title>
   </programme>
   <programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">T100 2025 Highlights - Qatar - T100 2025 Highlights  -  Qatar</title>
+    <title lang="en">T100 2025 Highlights  -  Qatar</title>
   </programme>
   <programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="be INSports English 2.tl">
     <title lang="en">MLB Plays of the Year 2025</title>
@@ -143979,10 +143487,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">New England Patriots @ Baltimore Ravens - NFL -National Footbal League  - 2025/26 - New England Patriots @ Baltimore Ravens  -  NFL</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227224500 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Birmingham City vs Derby County  -  EFL</title>
+    <title lang="en">Birmingham City vs Derby County - EFL - English Football League  SkyBet - Championship 2025/2026 - Birmingham City vs Derby County  -  EFL</title>
   </programme>
   <programme start="20251227224500 +0000" stop="20251228003000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Middlesbrough vs Blackburn Rovers  -  EFL</title>
+    <title lang="en">Middlesbrough vs Blackburn Rovers - EFL - English Football League  SkyBet - Championship 2025/2026 - Middlesbrough vs Blackburn Rovers  -  EFL</title>
   </programme>
   <programme start="20251224070000 +0000" stop="20251224074500 +0000" channel="be INSports French 1.tl">
     <title lang="en">NFL Extra - - NFL Extra  -</title>
@@ -144270,13 +143778,13 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Crystal Palace vs Arsenal - Coupe de la Ligue Anglaise Quarts De Finale - Football 2025-2026 - Crystal Palace vs Arsenal  -  Coupe de la Ligue Anglaise Quarts De Finale</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227214500 +0000" channel="be INSports French 2.tl">
-    <title lang="en">Volleyball  -  Documentaire</title>
+    <title lang="en">Volleyball - Documentaire - Volleyball  -  Documentaire</title>
   </programme>
   <programme start="20251227214500 +0000" stop="20251227220000 +0000" channel="be INSports French 2.tl">
-    <title lang="en">P02  -  NBA Extra</title>
+    <title lang="en">P02 - NBA Extra - Magazine 2025-2026 - P02  -  NBA Extra</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251228010000 +0000" channel="be INSports French 2.tl">
-    <title lang="en">Dallas Wings MAVERICKS vs Sacramento Kings  -  NBA</title>
+    <title lang="en">Dallas Wings MAVERICKS vs Sacramento Kings - NBA - Basketball 2025-2026 - Dallas Wings MAVERICKS vs Sacramento Kings  -  NBA</title>
   </programme>
   <programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="be INSports NBA.qa.tl">
     <title lang="en">Senegal vs Botswana - African Cup of Nations - Morocco 2025 - Mini Match - Senegal vs Botswana  -  African Cup of Nations</title>
@@ -144516,7 +144024,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">Nigeria vs Tunisia - African Cup of Nations - Morocco 2025 - Nigeria vs Tunisia  -  African Cup of Nations</title>
   </programme>
   <programme start="20251227223000 +0000" stop="20251228000000 +0000" channel="be INSports NBA.qa.tl">
-    <title lang="en">Evening Show  -  African Cup of Nations</title>
+    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025 - Evening Show  -  African Cup of Nations</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251223233000 +0000" channel="be INSports News.tl">
     <title lang="en">News Bulletin - Live Studio @02:00 - News Bulletin  -  Live Studio @02:00</title>
@@ -145158,7 +144666,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228210000 +0000" channel="be INSports Xtra 1.tl">
-    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224000000 +0000" channel="be INSports Xtra 2.tl">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
@@ -145374,7 +144882,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228210000 +0000" channel="be INSports Xtra 2.tl">
-    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224000000 +0000" channel="be INSports Xtra 3.tl">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
@@ -145590,7 +145098,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251228210000 +0000" channel="be INSports Xtra 3.tl">
-    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
   </programme>
   <programme start="20251224210000 +0000" stop="20251225210000 +0000" channel="be INSports Xtra 4.tl">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec - beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events  -  Dec</title>
@@ -145893,10 +145401,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">بريف (موسم 1، حلقة54) - Brave (S1, Ep54)</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="beindrama 1.tl">
-    <title lang="en">Brave (S1, Ep55)</title>
+    <title lang="en">بريف (موسم 1، حلقة55) - Brave (S1, Ep55)</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="beindrama 1.tl">
-    <title lang="en">Brave (S1, Ep56)</title>
+    <title lang="en">بريف (موسم 1، حلقة56) - Brave (S1, Ep56)</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224000000 +0000" channel="beingourmet.tl">
     <title lang="en">إيشن سبايسيز (موسم 1، حلقة1) - Asian Spices (S1, Ep1)</title>
@@ -146181,10 +145689,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">صحي وأطيب (حلقة11) - Sihhy Wa Atyab (Ep11)</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="beingourmet.tl">
-    <title lang="en">Sihhy Wa Atyab (Ep9)</title>
+    <title lang="en">صحي وأطيب (حلقة9) - Sihhy Wa Atyab (Ep9)</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="beingourmet.tl">
-    <title lang="en">Sihhy Wa Atyab (Ep10)</title>
+    <title lang="en">صحي وأطيب (حلقة10) - Sihhy Wa Atyab (Ep10)</title>
   </programme>
   <programme start="20251223231500 +0000" stop="20251224011500 +0000" channel="beinmovies 1.tl">
     <title lang="en">سو إكس - Saw X</title>
@@ -146286,7 +145794,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">ويكد ليتل ليترز - Wicked Little Letters</title>
   </programme>
   <programme start="20251226120000 +0000" stop="20251226133000 +0000" channel="beinmovies 1.tl">
-    <title lang="en">إليكترا - Cash Out</title>
+    <title lang="en">كاش أوت - Cash Out</title>
   </programme>
   <programme start="20251226133000 +0000" stop="20251226160000 +0000" channel="beinmovies 1.tl">
     <title lang="en">رست - Rust</title>
@@ -146343,7 +145851,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">هيبنوتيك - Hypnotic</title>
   </programme>
   <programme start="20251227214500 +0000" stop="20251227234500 +0000" channel="beinmovies 1.tl">
-    <title lang="en">Saw X</title>
+    <title lang="en">سو إكس - Saw X</title>
   </programme>
   <programme start="20251224000000 +0000" stop="20251224020000 +0000" channel="beinmovies 2.tl">
     <title lang="en">ذا شيد - The Shade</title>
@@ -146490,7 +145998,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">ميشن إمبوسيبول: فول أوت - Mission: Impossible  -  Fallout</title>
   </programme>
   <programme start="20251227213000 +0000" stop="20251227231500 +0000" channel="beinmovies 2.tl">
-    <title lang="en">Top Gun</title>
+    <title lang="en">توب جن - Top Gun</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="beinmovies 3.tl">
     <title lang="en">إمباير أوف لايت - Empire of Light</title>
@@ -146637,7 +146145,7 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">ذا بانشيز أوف إنشيرين - The Proposal</title>
   </programme>
   <programme start="20251227224500 +0000" stop="20251228003000 +0000" channel="beinmovies 3.tl">
-    <title lang="en">The Wedding Ringer</title>
+    <title lang="en">ذا ويدنج رنجر - The Wedding Ringer</title>
   </programme>
   <programme start="20251224001500 +0000" stop="20251224021500 +0000" channel="beinmovies 4.tl">
     <title lang="en">سبايدر مان إنتو ذا سبايدر فيرس - Spider - Man: Into the Spider</title>
@@ -147111,10 +146619,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">شارك تانك (موسم 17، حلقة7) - Shark Tank (S17, Ep7)</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="beinseries 1.tl">
-    <title lang="en">Raid the Cage (S2, Ep1)</title>
+    <title lang="en">ريد ذا كيدج (موسم 2، حلقة1) - Raid the Cage (S2, Ep1)</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="beinseries 1.tl">
-    <title lang="en">Raid the Cage  -  Bad to the Bone</title>
+    <title lang="en">ريد ذا كيدج - باد تو ذا بون - Raid the Cage  -  Bad to the Bone</title>
   </programme>
   <programme start="20251223230000 +0000" stop="20251224000000 +0000" channel="beinseries 2.tl">
     <title lang="en">ذا ميور أوف كينجزتاون - سانتا جيسوس - The Mayor of Kingstown  -  Santa Jesus</title>
@@ -147399,10 +146907,10 @@ A comedy series about a divorced young mother, who lives a double life as a care
     <title lang="en">تويستد ميتال (موسم 2، حلقة5) - Twisted Metal (S2, Ep5)</title>
   </programme>
   <programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="beinseries 2.tl">
-    <title lang="en">Justified (S4, Ep13)</title>
+    <title lang="en">جاستيفايد (موسم 4، حلقة13) - Justified (S4, Ep13)</title>
   </programme>
   <programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="beinseries 2.tl">
-    <title lang="en">Justified (S5, Ep1)</title>
+    <title lang="en">جاستيفايد (موسم 5، حلقة1) - Justified (S5, Ep1)</title>
   </programme>
   <programme start="20251223230500 +0000" stop="20251223233000 +0000" channel="stc tv Shabab Al Bomb.tl">
     <title lang="en">شباب البومب:ممنون ومداح - Shabab Al Bomb:Mamnoun W Maddah</title>
