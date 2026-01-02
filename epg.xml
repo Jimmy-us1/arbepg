@@ -4753,69 +4753,6 @@ Broadcasts both regional and local sporting events with match analysis and news.
   <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="ANC.tl">
     <title lang="en">ANC</title>
   </programme>
-  <programme start="20260102230000 +0000" stop="20260103000000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103000000 +0000" stop="20260103010000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103010000 +0000" stop="20260103020000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103030000 +0000" stop="20260103040000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103040000 +0000" stop="20260103050000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103050000 +0000" stop="20260103060000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103090000 +0000" stop="20260103100000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103100000 +0000" stop="20260103110000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103140000 +0000" stop="20260103150000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103150000 +0000" stop="20260103160000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103160000 +0000" stop="20260103170000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103170000 +0000" stop="20260103180000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103180000 +0000" stop="20260103190000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
-  <programme start="20260103190000 +0000" stop="20260103200000 +0000" channel="ANC.tl">
-    <title lang="en">ANC</title>
-  </programme>
   <programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="ANC.tl">
     <title lang="en">ANC</title>
   </programme>
@@ -4896,10 +4833,6 @@ Broadcasts both regional and local sporting events with match analysis and news.
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="ANC.tl">
     <title lang="en">ANC</title>
-  </programme>
-  <programme start="20251231230000 +0000" stop="20251231233700 +0000" channel="ART Hekayat.tl">
-    <title lang="en">الزوجة  18</title>
-    <desc lang="en">حمزة رجل متعدد الزيجات، في كل مرة يتزوج امرأة ويتخلص منها على طريقته الخاصة عندما يمل منها، وقد يجمع بين أكثر من زيجة في نفس الوقت، إلى أن تأتي الزيجة رقم 18 لتضع حدًا لاستهتاره وتلاعبه بالنساء.</desc>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101235959 +0000" channel="Abdul Majeed Abdullah.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
@@ -21438,7 +21371,7 @@ Catch the 31st annual Critics Choice Awards live, honouring the finest film and 
     <title lang="en">News</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104210500 +0000" channel="Aljazeera Documentary.tl">
-    <title lang="en">5 Minutes</title>
+    <title lang="en">إرث بيكيلا - 5 Minutes</title>
   </programme>
   <programme start="20260104210500 +0000" stop="20260104212900 +0000" channel="Aljazeera Documentary.tl">
     <title lang="en">News</title>
@@ -21450,7 +21383,7 @@ Catch the 31st annual Critics Choice Awards live, honouring the finest film and 
     <title lang="en">News</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104222900 +0000" channel="Aljazeera Documentary.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">فيتنام.. ولادة أمة - The European Debrief</title>
   </programme>
   <programme start="20260104222900 +0000" stop="20260104230000 +0000" channel="Aljazeera Documentary.tl">
     <title lang="en">The European Debrief</title>
@@ -21802,6 +21735,12 @@ Catch the 31st annual Critics Choice Awards live, honouring the finest film and 
   </programme>
   <programme start="20260104200000 +0000" stop="20260104210000 +0000" channel="Aljazeera HD.tl">
     <title lang="en">نشرة الأخبار</title>
+  </programme>
+  <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="Aljazeera HD.tl">
+    <title lang="en">سي إن إن نيوز رووم</title>
+  </programme>
+  <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="Aljazeera HD.tl">
+    <title lang="en">سي إن إن نيوز رووم</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101030000 +0000" channel="Alkass Eight.tl">
     <title lang="en">دوري الدرجة الثانية القطري - Second Division League Al - Bidaa vs. Lusail</title>
@@ -28889,10 +28828,10 @@ Join our AI Decoded team as we unpack and take a deep dive into the world of art
     <title lang="en">بيرفيكت بلانيت (موسم 1، حلقة3) - A Perfect Planet  -  Weather</title>
   </programme>
   <programme start="20260104213000 +0000" stop="20260104222000 +0000" channel="BBCEarth.uk.tl">
-    <title lang="en">AL Hayat Taht Asefr  -  Trial by Fire</title>
+    <title lang="en">لايف بيلو زيرو (موسم 6، حلقة10) - AL Hayat Taht Asefr  -  Trial by Fire</title>
   </programme>
   <programme start="20260104222000 +0000" stop="20260104230500 +0000" channel="BBCEarth.uk.tl">
-    <title lang="en">AL Hayat Taht Asefr  -  Window of Opportunity</title>
+    <title lang="en">لايف بيلو زيرو (موسم 6، حلقة11) - AL Hayat Taht Asefr  -  Window of Opportunity</title>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101235959 +0000" channel="BIG TIME.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
@@ -37314,31 +37253,31 @@ Latest local and international news in addition to entertainment programs.</desc
     <title lang="en">SONIC BOOM S2 EP 33 - Return of the Buddy Buddy Temple of Doom - SONIC BOOM S2 EP 33  -  Return of the Buddy Buddy Temple of Doom</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104211000 +0000" channel="Be Junior.tl">
-    <title lang="en">SONIC BOOM S2 EP 35  -  Planes, Trains and Dude</title>
+    <title lang="en">SONIC BOOM S2 EP 35 - Planes, Trains and Dude-Mobiles - SONIC BOOM S2 EP 35  -  Planes, Trains and Dude</title>
   </programme>
   <programme start="20260104211000 +0000" stop="20260104212300 +0000" channel="Be Junior.tl">
-    <title lang="en">SONIC BOOM S2 EP 34  -  Vector Detector</title>
+    <title lang="en">SONIC BOOM S2 EP 34 - Vector Detector - SONIC BOOM S2 EP 34  -  Vector Detector</title>
   </programme>
   <programme start="20260104212300 +0000" stop="20260104214700 +0000" channel="Be Junior.tl">
-    <title lang="en">MoominValley S1 EP 5  -  The Golden Tale</title>
+    <title lang="en">MoominValley S1 EP 5 - The Golden Tale - MoominValley S1 EP 5  -  The Golden Tale</title>
   </programme>
   <programme start="20260104214700 +0000" stop="20260104215800 +0000" channel="Be Junior.tl">
-    <title lang="en">ATCHOO S2 EP 11  - Berto the Animal Catcher</title>
+    <title lang="en">إنقاذ بيرتو - ATCHOO S2 EP 11  - Berto the Animal Catcher</title>
   </programme>
   <programme start="20260104215800 +0000" stop="20260104221100 +0000" channel="Be Junior.tl">
-    <title lang="en">ATCHOO S2 EP 12  -  Operation Sphinx</title>
+    <title lang="en">عملية أبو الهول - ATCHOO S2 EP 12  -  Operation Sphinx</title>
   </programme>
   <programme start="20260104221100 +0000" stop="20260104222200 +0000" channel="Be Junior.tl">
-    <title lang="en">THE JUNGLE BUNCH TO THE RESCUE S3 P1 - 2 EP 3</title>
+    <title lang="en">THE JUNGLE BUNCH TO THE RESCUE S3 P1-2 EP 3 - Sweet Tooth - THE JUNGLE BUNCH TO THE RESCUE S3 P1 - 2 EP 3</title>
   </programme>
   <programme start="20260104222200 +0000" stop="20260104223300 +0000" channel="Be Junior.tl">
-    <title lang="en">THE JUNGLE BUNCH TO THE RESCUE S3 P1 - 2 EP 4</title>
+    <title lang="en">THE JUNGLE BUNCH TO THE RESCUE S3 P1-2 EP 4 - Lethal  Banana - THE JUNGLE BUNCH TO THE RESCUE S3 P1 - 2 EP 4</title>
   </programme>
   <programme start="20260104223300 +0000" stop="20260104224600 +0000" channel="Be Junior.tl">
-    <title lang="en">Builder Brothers Dream Factory S2 EP 6  -  TIFF'S IN A PICKLE</title>
+    <title lang="en">Builder Brothers Dream Factory S2 EP 6 - TIFF'S IN A PICKLE - Builder Brothers Dream Factory S2 EP 6  -  TIFF'S IN A PICKLE</title>
   </programme>
   <programme start="20260104224600 +0000" stop="20260104230000 +0000" channel="Be Junior.tl">
-    <title lang="en">Bobby and Bill S2 EP 3  -  GEORGE 2.0</title>
+    <title lang="en">Bobby and Bill S2 EP 3 - GEORGE 2.0 - Bobby and Bill S2 EP 3  -  GEORGE 2.0</title>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101235959 +0000" channel="Big Time Plus.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
@@ -39615,16 +39554,16 @@ The adventures of a young boy, Zak; his grandfather, Gramps; and three bio-mecha
     <title lang="en">ليدرز ويز لوكا (موسم 1، حلقة4) - Leaders With Lacqua  -  Theresa May and the Brutality of Politics</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Bloomberg TV.us.tl">
-    <title lang="en">The Mishal Husain Show</title>
+    <title lang="en">ذا ميشال حسين شو - The Mishal Husain Show</title>
   </programme>
   <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="Bloomberg TV.us.tl">
-    <title lang="en">The Mishal Husain Show</title>
+    <title lang="en">ذا ميشال حسين شو - The Mishal Husain Show</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104223000 +0000" channel="Bloomberg TV.us.tl">
-    <title lang="en">The Circuit  -  Reese Witherspoon</title>
+    <title lang="en">ذا سيركت (موسم 4، حلقة4) - The Circuit  -  Reese Witherspoon</title>
   </programme>
   <programme start="20260104223000 +0000" stop="20260104230000 +0000" channel="Bloomberg TV.us.tl">
-    <title lang="en">Bloomberg Originals</title>
+    <title lang="en">بلومبيرج أوريجينالز - Bloomberg Originals</title>
   </programme>
   <programme start="20260102000000 +0000" stop="20260102010000 +0000" channel="CBC.tl">
     <title lang="en">CBC</title>
@@ -61786,7 +61725,7 @@ With the addition of new players, the competition between Mazu and Wasim gets fi
     <title lang="en">نيوز - News</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104210500 +0000" channel="Euronews English.tl">
-    <title lang="en">5 Minutes</title>
+    <title lang="en">إيكانز - 5 Minutes</title>
   </programme>
   <programme start="20260104210500 +0000" stop="20260104212900 +0000" channel="Euronews English.tl">
     <title lang="en">News</title>
@@ -61798,7 +61737,7 @@ With the addition of new players, the competition between Mazu and Wasim gets fi
     <title lang="en">News</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104222900 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">آنكل جراند با - The European Debrief</title>
   </programme>
   <programme start="20260104222900 +0000" stop="20260104230000 +0000" channel="Euronews English.tl">
     <title lang="en">The European Debrief</title>
@@ -67963,7 +67902,7 @@ Realising he can't find all the best food in America by himself, Guy Fieri tasks
     <title lang="en">سوبر ميجا كيكس (موسم 1، حلقة1) - Super Mega Cakes  -  Superman</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="Food Network EMEA.tl">
-    <title lang="en">Best Bite In Town  -  Davis</title>
+    <title lang="en">بيست بايت إن تاون (موسم 1، حلقة1) - Best Bite In Town  -  Davis</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20251231231500 +0000" channel="France 24.tl">
     <title lang="en">الأخبار - News</title>
@@ -73181,16 +73120,16 @@ David Bromstad helps lucky Americans buy their dream properties. These families,
     <title lang="en">أوتراجيس هوليداي هاوسيز - Island Life  -  The Path In Kill Devil Hills</title>
   </programme>
   <programme start="20260104214000 +0000" stop="20260104220500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">Island Life  -  The Path In Kill Devil Hills</title>
+    <title lang="en">ايلاند لايف (موسم 18، حلقة5) - Island Life  -  The Path In Kill Devil Hills</title>
   </programme>
   <programme start="20260104220500 +0000" stop="20260104223000 +0000" channel="HGTVArabia.tl">
-    <title lang="en">Island Life  -  Moving To Kill Devil Hills</title>
+    <title lang="en">ايلاند لايف (موسم 18، حلقة6) - Island Life  -  Moving To Kill Devil Hills</title>
   </programme>
   <programme start="20260104223000 +0000" stop="20260104225500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">My Lottery Dream Home  -  Almost Throwing Away A Million</title>
+    <title lang="en">ماي لوتري دريم هوم (موسم 7، حلقة13) - My Lottery Dream Home  -  Almost Throwing Away A Million</title>
   </programme>
   <programme start="20260104225500 +0000" stop="20260104231500 +0000" channel="HGTVArabia.tl">
-    <title lang="en">My Lottery Dream Home  -  League City Limits</title>
+    <title lang="en">ماي لوتري دريم هوم (موسم 7، حلقة14) - My Lottery Dream Home  -  League City Limits</title>
   </programme>
   <programme start="20251231234040 +0000" stop="20260101002943 +0000" channel="Hikayat Dofaa.tl">
     <title lang="en">دفعة لندن  موسم 1 حلقة 10 - Dof'at London Season 1 Episode 10</title>
@@ -111186,13 +111125,13 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
     <title lang="en">ذا أفير: الحلقة 8 - The Affair: Episode 8</title>
   </programme>
   <programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="OSNtv Now.tl">
-    <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: على أعتاب الثقة - The Real Housewives of Dubai: Note to be Trusted</title>
+    <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: متأنقون لنتذمّر - The Real Housewives of Dubai: Dressed to the Whines</title>
   </programme>
   <programme start="20260101210000 +0000" stop="20260101220000 +0000" channel="OSNtv Now.tl">
-    <title lang="en">آي زومبي: ذا هرت ستوكر - iZombie: The Hurt Stalker</title>
+    <title lang="en">آي زومبي: كيب تاون - iZombie: Cape Town</title>
   </programme>
   <programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="OSNtv Now.tl">
-    <title lang="en">ذا أفير: الحلقة 5 - The Affair: Episode 5</title>
+    <title lang="en">ذا أفير: الحلقة 7 - The Affair: Episode 7</title>
   </programme>
   <programme start="20260101230000 +0000" stop="20260102000500 +0000" channel="OSNtv Now.tl">
     <title lang="en">ذا أفير: الحلقة 8 - The Affair: Episode 8</title>
@@ -111266,6 +111205,66 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="OSNtv Now.tl">
     <title lang="en">ذا أفير: الحلقة 9 - The Affair: Episode 9</title>
   </programme>
+  <programme start="20260102230000 +0000" stop="20260103000500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا أفير: الحلقة 10 - The Affair: Episode 10</title>
+  </programme>
+  <programme start="20260103000500 +0000" stop="20260103010500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: هدّئ من روعك - The Real Housewives of Dubai: Hold Your Horses</title>
+  </programme>
+  <programme start="20260103010500 +0000" stop="20260103022500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: نايلة تويني - The Insight Track with Luca Allam: Nayla Tueini</title>
+  </programme>
+  <programme start="20260103022500 +0000" stop="20260103034000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: أنطوني رحايل - The Insight Track with Luca Allam: Anthony Rahayel</title>
+  </programme>
+  <programme start="20260103034000 +0000" stop="20260103050500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: ريكاردو كرم - The Insight Track with Luca Allam: Ricardo Karam</title>
+  </programme>
+  <programme start="20260103050500 +0000" stop="20260103060500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غراند ديزاين نيوزيلاند: رامد إيرث - Grand Designs New Zealand: Rammed Earth</title>
+  </programme>
+  <programme start="20260103060500 +0000" stop="20260103070500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غراند ديزاين نيوزيلاند: هانو شير - Grand Designs New Zealand: Whanau Share</title>
+  </programme>
+  <programme start="20260103070500 +0000" stop="20260103080500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ماي مام، يور داد - النسخة البريطانية: الحلقة 6 - My Mum, Your Dad UK: Episode 6</title>
+  </programme>
+  <programme start="20260103080500 +0000" stop="20260103093000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: ميس محمد - The Insight Track with Luca Allam: Mais Mohammed</title>
+  </programme>
+  <programme start="20260103093000 +0000" stop="20260103110000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: سارة العقروبي - The Insight Track with Luca Allam: Sarah Alagrooby</title>
+  </programme>
+  <programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ماي مام، يور داد - النسخة البريطانية: الحلقة 6 - My Mum, Your Dad UK: Episode 6</title>
+  </programme>
+  <programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">أن ريسيز مايفير ويتشيز: شبكة معقدة - Anne Rice's Mayfair Witches: A Tangled Web</title>
+  </programme>
+  <programme start="20260103130000 +0000" stop="20260103142500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: سارة العقروبي - The Insight Track with Luca Allam: Sarah Alagrooby</title>
+  </programme>
+  <programme start="20260103142500 +0000" stop="20260103152500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ماي مام، يور داد - النسخة البريطانية: الحلقة 7 - My Mum, Your Dad UK: Episode 7</title>
+  </programme>
+  <programme start="20260103152500 +0000" stop="20260103162000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غراند ديزاين نيوزيلاند: ويتاكي فالي - Grand Designs New Zealand: Waitaki Valley</title>
+  </programme>
+  <programme start="20260103162000 +0000" stop="20260103171000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وورلدس غريتيست هوتيلز: سيزارز بالاس - World's Greatest Hotels: Ceasar's Palace</title>
+  </programme>
+  <programme start="20260103171000 +0000" stop="20260103180000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">أن ريسيز مايفير ويتشيز: البريئون - Anne Rice's Mayfair Witches: The Innocents</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103190000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">سايد هسلرز: مايند يور بزنس - Side Hustlers: Mind Your Business</title>
+  </programme>
+  <programme start="20260103190000 +0000" stop="20260103193000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وي أر لايدي بارتس: ايرث نايتفز - We Are Lady Parts: Earth Natives</title>
+  </programme>
+  <programme start="20260103193000 +0000" stop="20260103200000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وي أر لايدي بارتس: غودزيلا - We Are Lady Parts: Godzilla</title>
+  </programme>
   <programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="OSNtv Now.tl">
     <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: توزيع الأنباء - The Real Housewives of Dubai: Serving the Tee</title>
   </programme>
@@ -111274,6 +111273,72 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   </programme>
   <programme start="20260103220000 +0000" stop="20260103230000 +0000" channel="OSNtv Now.tl">
     <title lang="en">سايد هسلرز: مايند يور بزنس - Side Hustlers: Mind Your Business</title>
+  </programme>
+  <programme start="20260103230000 +0000" stop="20260103233000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وي أر لايدي بارتس: ايرث نايتفز - We Are Lady Parts: Earth Natives</title>
+  </programme>
+  <programme start="20260103233000 +0000" stop="20260104000000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وي أر لايدي بارتس: غودزيلا - We Are Lady Parts: Godzilla</title>
+  </programme>
+  <programme start="20260104000000 +0000" stop="20260104010000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: توزيع الأنباء - The Real Housewives of Dubai: Serving the Tee</title>
+  </programme>
+  <programme start="20260104010000 +0000" stop="20260104022000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: ريكاردو كرم - The Insight Track with Luca Allam: Ricardo Karam</title>
+  </programme>
+  <programme start="20260104022000 +0000" stop="20260104034000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: ميس محمد - The Insight Track with Luca Allam: Mais Mohammed</title>
+  </programme>
+  <programme start="20260104034000 +0000" stop="20260104050500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: سارة العقروبي - The Insight Track with Luca Allam: Sarah Alagrooby</title>
+  </programme>
+  <programme start="20260104050500 +0000" stop="20260104060500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غراند ديزاين نيوزيلاند: ويتاكي فالي - Grand Designs New Zealand: Waitaki Valley</title>
+  </programme>
+  <programme start="20260104060500 +0000" stop="20260104070500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وورلدس غريتيست هوتيلز: سيزارز بالاس - World's Greatest Hotels: Ceasar's Palace</title>
+  </programme>
+  <programme start="20260104070500 +0000" stop="20260104080500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ماي مام، يور داد - النسخة البريطانية: الحلقة 7 - My Mum, Your Dad UK: Episode 7</title>
+  </programme>
+  <programme start="20260104080500 +0000" stop="20260104091000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام: غاتسبي - The Insight Track with Luca Allam: Gatsby</title>
+  </programme>
+  <programme start="20260104091000 +0000" stop="20260104101500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام:  ليلى صالح - The Insight Track with Luca Allam: Layla Saleh</title>
+  </programme>
+  <programme start="20260104101500 +0000" stop="20260104110500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذي أنرايدبلز: ألاساكا راينج - The Unrideables: Alaska Range</title>
+  </programme>
+  <programme start="20260104110500 +0000" stop="20260104120500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ماي مام، يور داد - النسخة البريطانية: الحلقة 7 - My Mum, Your Dad UK: Episode 7</title>
+  </programme>
+  <programme start="20260104120500 +0000" stop="20260104130500 +0000" channel="OSNtv Now.tl">
+    <title lang="en">أن ريسيز مايفير ويتشيز: البريئون - Anne Rice's Mayfair Witches: The Innocents</title>
+  </programme>
+  <programme start="20260104130500 +0000" stop="20260104141000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">ذا إنسايت تراك ويذ لوكا علّام:  ليلى صالح - The Insight Track with Luca Allam: Layla Saleh</title>
+  </programme>
+  <programme start="20260104141000 +0000" stop="20260104151000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غيلمور غيرلز: ذا بيغ ون - Gilmore Girls: The Big One</title>
+  </programme>
+  <programme start="20260104151000 +0000" stop="20260104161000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">غيلمور غيرلز: إي تيل أوف بوز أند فاير - Gilmore Girls: A Tale of Poes and Fire</title>
+  </programme>
+  <programme start="20260104161000 +0000" stop="20260104171000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">وورلدس غريتيست هوتيلز: رافلز - World's Greatest Hotels: Raffles</title>
+  </programme>
+  <programme start="20260104171000 +0000" stop="20260104180000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">آي زومبي: ميثود هيد - iZombie: Method Head</title>
+  </programme>
+  <programme start="20260104180000 +0000" stop="20260104190000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">سايد هسلرز: ذا تروث هرتس - Side Hustlers: The Truth Hurts</title>
+  </programme>
+  <programme start="20260104190000 +0000" stop="20260104193000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">فرقة السيدات - وي أر لايدي بارتس: الممثل - We Are Lady Parts: Represent</title>
+  </programme>
+  <programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="OSNtv Now.tl">
+    <title lang="en">فرقة السيدات - وي أر لايدي بارتس: سبارطا - We Are Lady Parts: Sparta</title>
   </programme>
   <programme start="20260104200000 +0000" stop="20260104210000 +0000" channel="OSNtv Now.tl">
     <title lang="en">ربات البيوت الحقيقيات دبي-ذا ريل هاوزوايفز أوف دبي: أصدقاء للأبد... الذي انتهى - The Real Housewives of Dubai: Best Friends for Never</title>
@@ -111446,6 +111511,15 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260102190000 +0000" stop="20260102200000 +0000" channel="OSNtv One.tl">
     <title lang="en">الفخ - فروم: ظلال - From: Silhouettes</title>
   </programme>
+  <programme start="20260102200000 +0000" stop="20260102210000 +0000" channel="OSNtv One.tl">
+    <title lang="en">طوكيو فايس: دونت إيفر فيكينغ ميس - Tokyo Vice: Don't Ever F**king Miss</title>
+  </programme>
+  <programme start="20260102210000 +0000" stop="20260102220500 +0000" channel="OSNtv One.tl">
+    <title lang="en">طوكيو فايس: بي ماي نامبر ون - Tokyo Vice: Be My Number One</title>
+  </programme>
+  <programme start="20260102220500 +0000" stop="20260102230000 +0000" channel="OSNtv One.tl">
+    <title lang="en">ذا هنتينغ وايفز: ليست تجربتها الأولى - The Hunting Wives: Not Her First Rodeo</title>
+  </programme>
   <programme start="20260102230000 +0000" stop="20260102235500 +0000" channel="OSNtv One.tl">
     <title lang="en">الفخ - فروم: ظلال - From: Silhouettes</title>
   </programme>
@@ -111607,6 +111681,15 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   </programme>
   <programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="OSNtv One.tl">
     <title lang="en">ذا بيت: الساعة 8:00 مساء - The Pitt: 08:00 PM</title>
+  </programme>
+  <programme start="20260104201500 +0000" stop="20260104211500 +0000" channel="OSNtv One.tl">
+    <title lang="en">ذا بيت: الساعة 9:00 مساء - The Pitt: 09:00 PM</title>
+  </programme>
+  <programme start="20260104211500 +0000" stop="20260104221500 +0000" channel="OSNtv One.tl">
+    <title lang="en">يوم إبن آوى - ذا داي أوف ذا جاكل: الحلقة 1 - The Day Of The Jackal: Episode 1</title>
+  </programme>
+  <programme start="20260104221500 +0000" stop="20260104232000 +0000" channel="OSNtv One.tl">
+    <title lang="en">ذا غيست: الحلقة الأولى - The Guest: Episode 1</title>
   </programme>
   <programme start="20251231232000 +0000" stop="20251231234500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
     <title lang="en">فريندز: حلقة الروتين - Friends: The One With The Routine</title>
@@ -111776,6 +111859,165 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260101224000 +0000" stop="20260101230500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
     <title lang="en">فريندز: الحلقة التي تتضمن أخت رايتشل - Friends: The One With Rachel's Sister</title>
   </programme>
+  <programme start="20260101230500 +0000" stop="20260101233000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يلتقي فيها روس بوالد إليزابيث - Friends: The One Where Ross Meets Elizabeth's Dad</title>
+  </programme>
+  <programme start="20260101233000 +0000" stop="20260101235500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يكون فيها بول هو الرجل - Friends: The One Where Paul's The Man</title>
+  </programme>
+  <programme start="20260101235500 +0000" stop="20260102002000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن الخاتم - Friends: The One With The Ring</title>
+  </programme>
+  <programme start="20260102002000 +0000" stop="20260102004000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تحتوي على كل الحلوى - Friends: The One With All The Candy</title>
+  </programme>
+  <programme start="20260102004000 +0000" stop="20260102010500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن قبلة رايتشل الكبيرة - Friends: The One With Rachel's Big Kiss</title>
+  </programme>
+  <programme start="20260102010500 +0000" stop="20260102012500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة حفلة الهالوين - Friends: The One With The Halloween Party</title>
+  </programme>
+  <programme start="20260102012500 +0000" stop="20260102015000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتحدث عن البقعة - Friends: The One With The Stain</title>
+  </programme>
+  <programme start="20260102015000 +0000" stop="20260102021000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتحدث عن الإشاعة - Friends: The One With The Rumor</title>
+  </programme>
+  <programme start="20260102021000 +0000" stop="20260102023500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة ماسابيكا - Friends: The One In Massapequa</title>
+  </programme>
+  <programme start="20260102023500 +0000" stop="20260102030000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن أغنية روس الغير لائقة - Friends: The One With Ross's Inappropriate Song</title>
+  </programme>
+  <programme start="20260102030000 +0000" stop="20260102033000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تغني فيها مونيكا - Friends: The One Where Monica Sings</title>
+  </programme>
+  <programme start="20260102033000 +0000" stop="20260102035500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة المواعيد العمياء - Friends: The One With The Blind Dates</title>
+  </programme>
+  <programme start="20260102035500 +0000" stop="20260102042000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تبكي فيها الراقص - Friends: The One Where The Stripper Cries</title>
+  </programme>
+  <programme start="20260102042000 +0000" stop="20260102044000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تلي المباراة (1) - Friends: The One After The Superbowl (1)</title>
+  </programme>
+  <programme start="20260102044000 +0000" stop="20260102050500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن القطة - Friends: The One With The Cat</title>
+  </programme>
+  <programme start="20260102050500 +0000" stop="20260102052500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة صديقة جوي الجديدة - Friends: The One With Joey's New Girlfriend</title>
+  </programme>
+  <programme start="20260102052500 +0000" stop="20260102055000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة المئة - Friends: The One Hundredth</title>
+  </programme>
+  <programme start="20260102055000 +0000" stop="20260102061000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يعلم فيها الجميع - Friends: The One Where Everybody Finds Out</title>
+  </programme>
+  <programme start="20260102061000 +0000" stop="20260102063500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة الشرطي - Friends: The One With The Cop</title>
+  </programme>
+  <programme start="20260102063500 +0000" stop="20260102065500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تركض فيها فيبي - Friends: The One Where Phoebe Runs</title>
+  </programme>
+  <programme start="20260102065500 +0000" stop="20260102072000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن قبلة رايتشل الكبيرة - Friends: The One With Rachel's Big Kiss</title>
+  </programme>
+  <programme start="20260102072000 +0000" stop="20260102074500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة زفاف فيبي - Friends: The One With Phoebe's Wedding</title>
+  </programme>
+  <programme start="20260102074500 +0000" stop="20260102081000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة الأميرة كونسويلا - Friends: The One With Princess Consuela</title>
+  </programme>
+  <programme start="20260102081000 +0000" stop="20260102083000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي لم يكن أحد مستعداً فيها - Friends: The One Where No One's Ready</title>
+  </programme>
+  <programme start="20260102083000 +0000" stop="20260102085500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة فيغاس، الجزء 1 - Friends: The One In Vegas, Part 1</title>
+  </programme>
+  <programme start="20260102085500 +0000" stop="20260102091500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة فيغاس، الجزء 2 - Friends: The One In Vegas, Part 2</title>
+  </programme>
+  <programme start="20260102091500 +0000" stop="20260102093500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة سيارة جوي البورش - Friends: The One With Joey's Porsche</title>
+  </programme>
+  <programme start="20260102093500 +0000" stop="20260102100000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة ثلاجة جوي - Friends: The One With Joey's Fridge</title>
+  </programme>
+  <programme start="20260102100000 +0000" stop="20260102102500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة عرض الزاوج، الجزء 1 - Friends: The One With The Proposal, Part 1</title>
+  </programme>
+  <programme start="20260102102500 +0000" stop="20260102104500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن جائزة جوي - Friends: The One With Joey's Award</title>
+  </programme>
+  <programme start="20260102104500 +0000" stop="20260102111000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يواعد فيها جوي رايتشل - Friends: The One Where Joey Dates Rachel</title>
+  </programme>
+  <programme start="20260102111000 +0000" stop="20260102113000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يجري فيها جوي مقابلة - Friends: The One With Joey's Interview</title>
+  </programme>
+  <programme start="20260102113000 +0000" stop="20260102115500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن حادثة السرقة - Friends: The One With The Mugging</title>
+  </programme>
+  <programme start="20260102115500 +0000" stop="20260102122000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تبكي فيها الراقص - Friends: The One Where The Stripper Cries</title>
+  </programme>
+  <programme start="20260102122000 +0000" stop="20260102124500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: المكان الذي بدأ فيه كل شيء - Friends: The One Where It All Began</title>
+  </programme>
+  <programme start="20260102124500 +0000" stop="20260102130500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تكتشف فيها رايتشل الحقيقة - Friends: The One Where Rachel Finds Out</title>
+  </programme>
+  <programme start="20260102130500 +0000" stop="20260102133000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي لم يكن أحد مستعداً فيها - Friends: The One Where No One's Ready</title>
+  </programme>
+  <programme start="20260102133000 +0000" stop="20260102135000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة فستان رايتشل الجديد - Friends: The One With Rachel's New Dress</title>
+  </programme>
+  <programme start="20260102135000 +0000" stop="20260102141500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يحصل فيها جوي على فرصته الكبيرة - Friends: The One With Joey's Big Break</title>
+  </programme>
+  <programme start="20260102141500 +0000" stop="20260102144000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي انتشى فيها روس - Friends: The One Where Ross Got High</title>
+  </programme>
+  <programme start="20260102144000 +0000" stop="20260102150500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: حلقة طاولة العطّار - Friends: The One With The Apothecary Table</title>
+  </programme>
+  <programme start="20260102150500 +0000" stop="20260102153000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن التشيز كيك - Friends: The One With All The Cheesecakes</title>
+  </programme>
+  <programme start="20260102153000 +0000" stop="20260102155500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يبلغون فيها جميعاً الثلاثين - Friends: The One Where They All Turn Thirty</title>
+  </programme>
+  <programme start="20260102155500 +0000" stop="20260102162000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يصبح لدى رايتشل طفل، الجزء 1 - Friends: The One Where Rachel Has A Baby, Part 1</title>
+  </programme>
+  <programme start="20260102162000 +0000" stop="20260102164500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يصبح لدى رايتشل طفل، الجزء 2 - Friends: The One Where Rachel Has A Baby, Part 2</title>
+  </programme>
+  <programme start="20260102164500 +0000" stop="20260102170500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تلي المباراة (2) - Friends: The One After The Superbowl (2)</title>
+  </programme>
+  <programme start="20260102170500 +0000" stop="20260102172500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن جهاز الوخز العملاق - Friends: The One With The Giant Poking Device</title>
+  </programme>
+  <programme start="20260102172500 +0000" stop="20260102175000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: ذا ون ويذ ذا سكريمر - Friends: The One With The Screamer</title>
+  </programme>
+  <programme start="20260102175000 +0000" stop="20260102181000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن أخت رايتشل - Friends: The One With Rachel's Sister</title>
+  </programme>
+  <programme start="20260102181000 +0000" stop="20260102183500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي يلتقي فيها روس بوالد إليزابيث - Friends: The One Where Ross Meets Elizabeth's Dad</title>
+  </programme>
+  <programme start="20260102183500 +0000" stop="20260102185500 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتضمن قبلة رايتشل الكبيرة - Friends: The One With Rachel's Big Kiss</title>
+  </programme>
+  <programme start="20260102185500 +0000" stop="20260102192000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تتحدث عن الإشاعة - Friends: The One With The Rumor</title>
+  </programme>
+  <programme start="20260102192000 +0000" stop="20260102195000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">فريندز: الحلقة التي تغني فيها مونيكا - Friends: The One Where Monica Sings</title>
+  </programme>
   <programme start="20260102195000 +0000" stop="20260102200000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
     <title lang="en">فريندز: الحلقة التي تبكي فيها الراقص - Friends: The One Where The Stripper Cries</title>
   </programme>
@@ -111787,6 +112029,66 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   </programme>
   <programme start="20260102210000 +0000" stop="20260103000000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
     <title lang="en">OSNtv Pop Up</title>
+  </programme>
+  <programme start="20260103000000 +0000" stop="20260103010000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103010000 +0000" stop="20260103020000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103030000 +0000" stop="20260103040000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103040000 +0000" stop="20260103050000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103050000 +0000" stop="20260103060000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103090000 +0000" stop="20260103100000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103100000 +0000" stop="20260103110000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103120000 +0000" stop="20260103130000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103130000 +0000" stop="20260103140000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103140000 +0000" stop="20260103150000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103150000 +0000" stop="20260103160000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103160000 +0000" stop="20260103170000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103170000 +0000" stop="20260103180000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103190000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
+  </programme>
+  <programme start="20260103190000 +0000" stop="20260103200000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
+    <title lang="en">OSNtv POP UP</title>
   </programme>
   <programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="OSNtv Pop up Sharab Al Toot.tl">
     <title lang="en">OSNtv POP UP</title>
@@ -112030,6 +112332,105 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   </programme>
   <programme start="20260102220000 +0000" stop="20260102230000 +0000" channel="OSNtv Showcase.tl">
     <title lang="en">أوز: الروتين - Oz: The Routine</title>
+  </programme>
+  <programme start="20260102230000 +0000" stop="20260103000000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">أوز: زيارات زوجية وغيرها - Oz: Visits, Conjugal and Otherwise</title>
+  </programme>
+  <programme start="20260103000000 +0000" stop="20260103010000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">أوز: التعامل بهدوء - Oz: God's Chillin'</title>
+  </programme>
+  <programme start="20260103010000 +0000" stop="20260103020000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">يوفوريا: تأملات: المتنمرون الكبار والصغار - Euphoria: Ruminations: Big And Little Bullys</title>
+  </programme>
+  <programme start="20260103020000 +0000" stop="20260103030000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">لوف كرافت كونتري: فول سيركل - Lovecraft Country: Full Circle</title>
+  </programme>
+  <programme start="20260103030000 +0000" stop="20260103033000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">غرفة 104 - روم 104: إتشي - Room 104: Itchy</title>
+  </programme>
+  <programme start="20260103033000 +0000" stop="20260103043000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">2 دوب كوينز: نوستالجيا - 2 Dope Queens: Nostalgia</title>
+  </programme>
+  <programme start="20260103043000 +0000" stop="20260103053000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">2 دوب كوينز: الموسيقى - 2 Dope Queens: Music</title>
+  </programme>
+  <programme start="20260103053000 +0000" stop="20260103063000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">2 دوب كوينز: ريغال اي أف - 2 Dope Queens: Regal AF</title>
+  </programme>
+  <programme start="20260103063000 +0000" stop="20260103073000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">الخلافة - ساكساشين : احتفال - Succession: Celebration</title>
+  </programme>
+  <programme start="20260103073000 +0000" stop="20260103083000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">الخلافة - ساكساشين : عرض سيء داخل المصنع - Succession: Sh*t Show At The F**k Factory</title>
+  </programme>
+  <programme start="20260103083000 +0000" stop="20260103090000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: والتر - الأسبوع السابع - In Treatment: Walter - Week Seven</title>
+  </programme>
+  <programme start="20260103090000 +0000" stop="20260103093000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: جينا - الأسبوع السابع - In Treatment: Gina - Week Seven</title>
+  </programme>
+  <programme start="20260103093000 +0000" stop="20260103100000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: جيس- الأسبوع الأول - In Treatment: Jesse - Week One</title>
+  </programme>
+  <programme start="20260103100000 +0000" stop="20260103103000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: آديل- الأسبوع الأول - In Treatment: Adele - Week One</title>
+  </programme>
+  <programme start="20260103103000 +0000" stop="20260103110000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: سونيل - الأسبوع 2 - In Treatment: Sunil - Week Two</title>
+  </programme>
+  <programme start="20260103110000 +0000" stop="20260103113000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: فرانسيس - الأسبوع 2 - In Treatment: Frances - Week Two</title>
+  </programme>
+  <programme start="20260103113000 +0000" stop="20260103120000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: جيس- الأسبوع 2 - In Treatment: Jesse - Week Two</title>
+  </programme>
+  <programme start="20260103120000 +0000" stop="20260103123000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">إن تريتمنت: آديل- الأسبوع 2 - In Treatment: Adele - Week Two</title>
+  </programme>
+  <programme start="20260103123000 +0000" stop="20260103130000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: النسر - Veep: The Eagle</title>
+  </programme>
+  <programme start="20260103130000 +0000" stop="20260103133000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: الأم - Veep: Mother</title>
+  </programme>
+  <programme start="20260103133000 +0000" stop="20260103140000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: عيد الشكر - Veep: Thanksgiving</title>
+  </programme>
+  <programme start="20260103140000 +0000" stop="20260103143000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: سي**تغيت - Veep: C**tgate</title>
+  </programme>
+  <programme start="20260103143000 +0000" stop="20260103150000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: حفل الكونغرس - Veep: Congressional Ball</title>
+  </programme>
+  <programme start="20260103150000 +0000" stop="20260103153000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: منتجع كامب ديفيد - Veep: Camp David</title>
+  </programme>
+  <programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: قومي بمصالحة شقيقتك - Veep: Kissing Your Sister</title>
+  </programme>
+  <programme start="20260103160000 +0000" stop="20260103163000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: التنصيب - Veep: Inauguration</title>
+  </programme>
+  <programme start="20260103163000 +0000" stop="20260103170000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: أوماها - Veep: Omaha</title>
+  </programme>
+  <programme start="20260103170000 +0000" stop="20260103173000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">فييب: مكتبة - Veep: Library</title>
+  </programme>
+  <programme start="20260103173000 +0000" stop="20260103180000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">غرفة 104 - روم 104: ذا لاست مان - Room 104: The Last Man</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103183000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">ذا فرانشايز: المشهد 54: شبح الليلك - The Franchise: Scene 54: The Lilac Ghost</title>
+  </programme>
+  <programme start="20260103183000 +0000" stop="20260103190000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">ذا فرانشايز: المشهد 83: الدخول في دوامة - The Franchise: Scene 83: Enter the Gurgler</title>
+  </programme>
+  <programme start="20260103190000 +0000" stop="20260103193000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">ذا فرانشايز: المشهد 16: مشهد إريك في المستشفى - The Franchise: Scene 16: Eric's Hospital Scene</title>
+  </programme>
+  <programme start="20260103193000 +0000" stop="20260103200000 +0000" channel="OSNtv Showcase.tl">
+    <title lang="en">بوكي: اجعلها تبدو وكأنها حادثة - Bookie: Make it Look Like an Accident</title>
   </programme>
   <programme start="20260103200000 +0000" stop="20260103210000 +0000" channel="OSNtv Showcase.tl">
     <title lang="en">اللوتس الأبيض - ذا وايت لوتس: إعادة التمركز - The White Lotus: Recentering</title>
@@ -112293,13 +112694,13 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
     <title lang="en">ذا ديوس: مورتا دي فام - The Deuce: Morta Di Fame</title>
   </programme>
   <programme start="20260102203000 +0000" stop="20260102213000 +0000" channel="OSNtv Showcase Classics.tl">
-    <title lang="en">ذا ديوس: نوبادي هاز تو غيت هيرت - The Deuce: Nobody Has To Get Hurt</title>
+    <title lang="en">ذا ديوس: نورمال از ايه لاي - The Deuce: Normal Is A Lie</title>
   </programme>
-  <programme start="20260102213000 +0000" stop="20260102223000 +0000" channel="OSNtv Showcase Classics.tl">
-    <title lang="en">جون آدمز: بيسفيلد - John Adams: Peacefield</title>
+  <programme start="20260102213000 +0000" stop="20260102234500 +0000" channel="OSNtv Showcase Classics.tl">
+    <title lang="en">ترومن - Truman</title>
   </programme>
-  <programme start="20260102223000 +0000" stop="20260103000000 +0000" channel="OSNtv Showcase Classics.tl">
-    <title lang="en">فيل سبكتور - Phil Spector</title>
+  <programme start="20260102234500 +0000" stop="20260103000000 +0000" channel="OSNtv Showcase Classics.tl">
+    <title lang="en">سينغل لونغ: بايلوت - Single Long: Pilot</title>
   </programme>
   <programme start="20260103000000 +0000" stop="20260103013000 +0000" channel="OSNtv Showcase Classics.tl">
     <title lang="en">ذا غاذيرينغ ستورم - The Gathering Storm</title>
@@ -112613,14 +113014,104 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260102220500 +0000" stop="20260102230500 +0000" channel="OSNtv Yahala.tl">
     <title lang="en">العميد: الخروج عن المسار - AL Ameed: Deviation</title>
   </programme>
+  <programme start="20260102230500 +0000" stop="20260103000000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ذا بورد : الهدية - The Board: The Gift</title>
+  </programme>
+  <programme start="20260103000000 +0000" stop="20260103005500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ذا بورد : أنتِ لستِ جاهزة - The Board: You Are Not Ready</title>
+  </programme>
+  <programme start="20260103005500 +0000" stop="20260103015000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ذا بورد : لا وقت للمساومة - The Board: No Time to Compromise</title>
+  </programme>
+  <programme start="20260103015000 +0000" stop="20260103025000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الفاشنيستا: الحلقة 5 - The Fashionista: Episode 5</title>
+  </programme>
+  <programme start="20260103025000 +0000" stop="20260103035500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الفاشنيستا: الحلقة 6 - The Fashionista: Episode 6</title>
+  </programme>
+  <programme start="20260103035500 +0000" stop="20260103044000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">قيد مجهول: الحلقة 1 - Qayd Majhoul: Episode 1</title>
+  </programme>
+  <programme start="20260103044000 +0000" stop="20260103052000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">قيد مجهول: الحلقة 2 - Qayd Majhoul: Episode 2</title>
+  </programme>
+  <programme start="20260103052000 +0000" stop="20260103060500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">قيد مجهول: الحلقة 3 - Qayd Majhoul: Episode 3</title>
+  </programme>
+  <programme start="20260103060500 +0000" stop="20260103065000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 1 - Deebo: Episode 1</title>
+  </programme>
+  <programme start="20260103065000 +0000" stop="20260103073500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 2 - Deebo: Episode 2</title>
+  </programme>
+  <programme start="20260103073500 +0000" stop="20260103082000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 3 - Deebo: Episode 3</title>
+  </programme>
+  <programme start="20260103082000 +0000" stop="20260103090000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 4 - Deebo: Episode 4</title>
+  </programme>
+  <programme start="20260103090000 +0000" stop="20260103094500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 5 - Deebo: Episode 5</title>
+  </programme>
+  <programme start="20260103094500 +0000" stop="20260103103000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">حلوة الدنيا سكر: لو كنت يوم أنساك - 5 - Helwa El Donia Soker: Law Kont Youm Ansak - 5</title>
+  </programme>
+  <programme start="20260103103000 +0000" stop="20260103111500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">حلوة الدنيا سكر: قولي لأحمد -1 - Helwa El Donia Soker: O'lly Le Ahmad - 1</title>
+  </programme>
+  <programme start="20260103111500 +0000" stop="20260103120000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">حلوة الدنيا سكر: قولي لأحمد -2 - Helwa El Donia Soker: O'lly Le Ahmad - 2</title>
+  </programme>
+  <programme start="20260103120000 +0000" stop="20260103124500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">حلوة الدنيا سكر: قولي لأحمد -3 - Helwa El Donia Soker: O'lly Le Ahmad - 3</title>
+  </programme>
+  <programme start="20260103124500 +0000" stop="20260103133000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">حلوة الدنيا سكر: قولي لأحمد -4 - Helwa El Donia Soker: O'lly Le Ahmad - 4</title>
+  </programme>
+  <programme start="20260103133000 +0000" stop="20260103141500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 20 - W Ana Ahebak Ba'd: Episode 20</title>
+  </programme>
+  <programme start="20260103141500 +0000" stop="20260103150000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 21 - W Ana Ahebak Ba'd: Episode 21</title>
+  </programme>
+  <programme start="20260103150000 +0000" stop="20260103154500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 22 - W Ana Ahebak Ba'd: Episode 22</title>
+  </programme>
+  <programme start="20260103154500 +0000" stop="20260103163000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 23 - W Ana Ahebak Ba'd: Episode 23</title>
+  </programme>
+  <programme start="20260103163000 +0000" stop="20260103171500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 24 - W Ana Ahebak Ba'd: Episode 24</title>
+  </programme>
+  <programme start="20260103171500 +0000" stop="20260103180000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">وأنا أحبك بعد: الحلقة 25 - W Ana Ahebak Ba'd: Episode 25</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103184500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 1 - Deebo: Episode 1</title>
+  </programme>
+  <programme start="20260103184500 +0000" stop="20260103193000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 2 - Deebo: Episode 2</title>
+  </programme>
   <programme start="20260103193000 +0000" stop="20260103200000 +0000" channel="OSNtv Yahala.tl">
-    <title lang="en">ذا ديوس: ذيس تراست ثينغ - The Deuce: This Trust Thing</title>
+    <title lang="en">ديبو: الحلقة 3 - Deebo: Episode 3</title>
   </programme>
-  <programme start="20260103203000 +0000" stop="20260103213000 +0000" channel="OSNtv Yahala.tl">
-    <title lang="en">ذا ديوس: ذاتس إيه راب - The Deuce: That's A Wrap</title>
+  <programme start="20260103201000 +0000" stop="20260103205500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 4 - Deebo: Episode 4</title>
   </programme>
-  <programme start="20260103213000 +0000" stop="20260103234000 +0000" channel="OSNtv Yahala.tl">
-    <title lang="en">يو دونت نو جاك - You Don't Know Jack</title>
+  <programme start="20260103205500 +0000" stop="20260103214000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">ديبو: الحلقة 5 - Deebo: Episode 5</title>
+  </programme>
+  <programme start="20260103214000 +0000" stop="20260103221500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الكبير أوي: الحلقة 1 - El Kabeer Awy: Episode 1</title>
+  </programme>
+  <programme start="20260103221500 +0000" stop="20260103225000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الكبير أوي: الحلقة 2 - El Kabeer Awy: Episode 2</title>
+  </programme>
+  <programme start="20260103225000 +0000" stop="20260103232500 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الكبير أوي: الحلقة 3 - El Kabeer Awy: Episode 3</title>
+  </programme>
+  <programme start="20260103232500 +0000" stop="20260104000000 +0000" channel="OSNtv Yahala.tl">
+    <title lang="en">الكبير أوي: الحلقة 4 - El Kabeer Awy: Episode 4</title>
   </programme>
   <programme start="20260104000000 +0000" stop="20260104004500 +0000" channel="OSNtv Yahala.tl">
     <title lang="en">الكبير أوي: الحلقة 5 - El Kabeer Awy: Episode 5</title>
@@ -112739,11 +113230,74 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260101221000 +0000" stop="20260102000000 +0000" channel="OSNtv Yahala Aflam.tl">
     <title lang="en">يوم للستات - Youm Lel Settat</title>
   </programme>
+  <programme start="20260102000000 +0000" stop="20260102020000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">شماريخ - Shamareekh</title>
+  </programme>
+  <programme start="20260102020000 +0000" stop="20260102035500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">بالغلط - Bel Ghalat</title>
+  </programme>
+  <programme start="20260102035500 +0000" stop="20260102060500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">الجريمة - El Gareema</title>
+  </programme>
+  <programme start="20260102060500 +0000" stop="20260102080000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">كازابلانكا - Casablanca</title>
+  </programme>
+  <programme start="20260102080000 +0000" stop="20260102103500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">من 30 سنة - Men 30 Sana</title>
+  </programme>
+  <programme start="20260102103500 +0000" stop="20260102120000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">11:11</title>
+  </programme>
+  <programme start="20260102120000 +0000" stop="20260102142500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">بيرغن - Bergen</title>
+  </programme>
+  <programme start="20260102142500 +0000" stop="20260102162000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">يوم للستات - Youm Lel Settat</title>
+  </programme>
+  <programme start="20260102162000 +0000" stop="20260102180000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">يا بعده - Ya Baadeh</title>
+  </programme>
+  <programme start="20260102180000 +0000" stop="20260102194000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">العنزة - ذا غوت - El Anza AKA The Goat</title>
+  </programme>
   <programme start="20260102194000 +0000" stop="20260102200000 +0000" channel="OSNtv Yahala Aflam.tl">
     <title lang="en">حوجن - Hwjn</title>
   </programme>
   <programme start="20260102215000 +0000" stop="20260102233500 +0000" channel="OSNtv Yahala Aflam.tl">
     <title lang="en">يوم وليلة - Youm W Leila</title>
+  </programme>
+  <programme start="20260102233500 +0000" stop="20260103000000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">قصة شرطي - Qesat Shortty</title>
+  </programme>
+  <programme start="20260103000000 +0000" stop="20260103015500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">كازابلانكا - Casablanca</title>
+  </programme>
+  <programme start="20260103015500 +0000" stop="20260103043000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">من 30 سنة - Men 30 Sana</title>
+  </programme>
+  <programme start="20260103043000 +0000" stop="20260103070000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">بيرغن - Bergen</title>
+  </programme>
+  <programme start="20260103070000 +0000" stop="20260103085500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">يوم للستات - Youm Lel Settat</title>
+  </programme>
+  <programme start="20260103085500 +0000" stop="20260103104000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">يا بعده - Ya Baadeh</title>
+  </programme>
+  <programme start="20260103104000 +0000" stop="20260103122000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">العنزة - ذا غوت - El Anza AKA The Goat</title>
+  </programme>
+  <programme start="20260103122000 +0000" stop="20260103143000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">حوجن - Hwjn</title>
+  </programme>
+  <programme start="20260103143000 +0000" stop="20260103161500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">يوم وليلة - Youm W Leila</title>
+  </programme>
+  <programme start="20260103161500 +0000" stop="20260103180000 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">لص بغداد - Les Baghdad</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103193500 +0000" channel="OSNtv Yahala Aflam.tl">
+    <title lang="en">التجربة المكسيكية - Al Tagriba El Mexicia</title>
   </programme>
   <programme start="20260103193500 +0000" stop="20260103200000 +0000" channel="OSNtv Yahala Aflam.tl">
     <title lang="en">جدو مشاكل - Geddo Mashakel</title>
@@ -113051,41 +113605,80 @@ The ugly, weird and overlooked animals of the world need love too, and Lucy’s 
   <programme start="20260103223000 +0000" stop="20260103231500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
     <title lang="en">هذا العالم لا يسعني: الحلقة 74 - Hatha Al A'lam La Yasaouny: Episode 74</title>
   </programme>
-  <programme start="20260104003000 +0000" stop="20260104021500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">يا بعده - Ya Baadeh</title>
+  <programme start="20260103231500 +0000" stop="20260104000000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">هذا العالم لا يسعني: الحلقة 75 - Hatha Al A'lam La Yasaouny: Episode 75</title>
   </programme>
-  <programme start="20260104021500 +0000" stop="20260104035500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">العنزة - ذا غوت - El Anza AKA The Goat</title>
+  <programme start="20260104000000 +0000" stop="20260104005000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">هذا العالم لا يسعني: الحلقة 76 - Hatha Al A'lam La Yasaouny: Episode 76</title>
   </programme>
-  <programme start="20260104035500 +0000" stop="20260104060500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">حوجن - Hwjn</title>
+  <programme start="20260104005000 +0000" stop="20260104014500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">هذا العالم لا يسعني: الحلقة 77 - Hatha Al A'lam La Yasaouny: Episode 77</title>
   </programme>
-  <programme start="20260104060500 +0000" stop="20260104075000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">يوم وليلة - Youm W Leila</title>
+  <programme start="20260104014500 +0000" stop="20260104023500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">القضاء: الحلقة 23 - Al Qada'a: Episode 23</title>
   </programme>
-  <programme start="20260104075000 +0000" stop="20260104093500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">لص بغداد - Les Baghdad</title>
+  <programme start="20260104023500 +0000" stop="20260104032500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">المشردون: الحلقة 44 - Al Mushardoon: Episode 44</title>
   </programme>
-  <programme start="20260104093500 +0000" stop="20260104111000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">التجربة المكسيكية - Al Tagriba El Mexicia</title>
+  <programme start="20260104032500 +0000" stop="20260104041500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">إخوتي: الحلقة 79 - Ikhwaty: Episode 79</title>
   </programme>
-  <programme start="20260104111000 +0000" stop="20260104125000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">جدو مشاكل - Geddo Mashakel</title>
+  <programme start="20260104041500 +0000" stop="20260104050500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">ورود حمراء - ريد روزس: الحلقة 17 - Worood Hamra - Red Roses: Episode 17</title>
   </programme>
-  <programme start="20260104125000 +0000" stop="20260104143500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">لهون وحبس - Lahon W Habs</title>
+  <programme start="20260104050500 +0000" stop="20260104055500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">المشردون: الحلقة 44 - Al Mushardoon: Episode 44</title>
   </programme>
-  <programme start="20260104143500 +0000" stop="20260104162000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">30 مارس - 30 March</title>
+  <programme start="20260104055500 +0000" stop="20260104064500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">القضاء: الحلقة 23 - Al Qada'a: Episode 23</title>
   </programme>
-  <programme start="20260104162000 +0000" stop="20260104180000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">ويلكم تو ليبانون - Welcome to Lebanon</title>
+  <programme start="20260104064500 +0000" stop="20260104073500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">شراب التوت: الحلقة 49 - Sharab Al Toot AKA One Love: Episode 49</title>
   </programme>
-  <programme start="20260104180000 +0000" stop="20260104192000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">الثلاثاء 12 - Al Thulatha 12</title>
+  <programme start="20260104073500 +0000" stop="20260104082500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">ورود حمراء - ريد روزس: الحلقة 17 - Worood Hamra - Red Roses: Episode 17</title>
   </programme>
-  <programme start="20260104192000 +0000" stop="20260104200000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
-    <title lang="en">حظر تجول - Hazer Tejwal AKA Curfew</title>
+  <programme start="20260104082500 +0000" stop="20260104091500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">القضاء: الحلقة 23 - Al Qada'a: Episode 23</title>
+  </programme>
+  <programme start="20260104091500 +0000" stop="20260104100500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">شراب التوت: الحلقة 50 - Sharab Al Toot AKA One Love: Episode 50</title>
+  </programme>
+  <programme start="20260104100500 +0000" stop="20260104105500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">المشردون: الحلقة 44 - Al Mushardoon: Episode 44</title>
+  </programme>
+  <programme start="20260104105500 +0000" stop="20260104114500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">ورود حمراء - ريد روزس: الحلقة 17 - Worood Hamra - Red Roses: Episode 17</title>
+  </programme>
+  <programme start="20260104114500 +0000" stop="20260104123500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">القضاء: الحلقة 23 - Al Qada'a: Episode 23</title>
+  </programme>
+  <programme start="20260104123500 +0000" stop="20260104132000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">إخوتي: الحلقة 79 - Ikhwaty: Episode 79</title>
+  </programme>
+  <programme start="20260104132000 +0000" stop="20260104141000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">شراب التوت: الحلقة 51 - Sharab Al Toot AKA One Love: Episode 51</title>
+  </programme>
+  <programme start="20260104141000 +0000" stop="20260104150000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">ورود حمراء - ريد روزس: الحلقة 17 - Worood Hamra - Red Roses: Episode 17</title>
+  </programme>
+  <programme start="20260104150000 +0000" stop="20260104160000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">المشردون: الحلقة 45 - Al Mushardoon: Episode 45</title>
+  </programme>
+  <programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">القضاء: الحلقة 24 - Al Qada'a: Episode 24</title>
+  </programme>
+  <programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">إخوتي: الحلقة 80 - Ikhwaty: Episode 80</title>
+  </programme>
+  <programme start="20260104180000 +0000" stop="20260104185000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">ورود حمراء - ريد روزس: الحلقة 18 - Worood Hamra - Red Roses: Episode 18</title>
+  </programme>
+  <programme start="20260104185000 +0000" stop="20260104193500 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">التفاح الحرام: الحلقة 94 - Al Tufah Al Haram: Episode 94</title>
+  </programme>
+  <programme start="20260104193500 +0000" stop="20260104200000 +0000" channel="OSNtv Yahala Bil Arabi.tl">
+    <title lang="en">شراب التوت: الحلقة 52 - Sharab Al Toot AKA One Love: Episode 52</title>
   </programme>
   <programme start="20260104202000 +0000" stop="20260104210102 +0000" channel="OSNtv Yahala Bil Arabi.tl">
     <title lang="en">شراب التوت: الحلقة 53 - Sharab Al Toot AKA One Love: Episode 53</title>
@@ -139412,7 +140005,7 @@ A modern-thrilling take on the popular novel, ‘Oliver Twist’, set-in present
     <title lang="en">بيكي - Pet</title>
   </programme>
   <programme start="20260104225500 +0000" stop="20260105002500 +0000" channel="Star Action MENA.tl">
-    <title lang="en">Oliver Twist</title>
+    <title lang="en">أوليفر تويست - Oliver Twist</title>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101014500 +0000" channel="Star Movies.tl">
     <title lang="en">ذا فرينش ديسباتش - The French Dispatch</title>
@@ -139849,7 +140442,7 @@ Paul Newman gives an Oscar-winning performance as ‘Fast’ Eddie Felson, a ret
     <title lang="en">فلاج داي - Flag Day</title>
   </programme>
   <programme start="20260104220500 +0000" stop="20260105000000 +0000" channel="Star Movies MENA.tl">
-    <title lang="en">The Color of Money</title>
+    <title lang="en">ذا كالر أوف موني - The Color of Money</title>
   </programme>
   <programme start="20251231232000 +0000" stop="20260101000500 +0000" channel="Star World.tl">
     <title lang="en">ذي أميزينغ ريس:إيه سانسِت، سياتل سكريمبُل - The Amazing Race:A Sunset, Seattle Scramble</title>
@@ -140963,13 +141556,13 @@ Jamie Oliver, a prominent chef, demonstrates his cooking skills and sheds light 
     <title lang="en">أونست رينوفيشنس (موسم 1، حلقة4) - Honest Renovations  -  Single Mom First</title>
   </programme>
   <programme start="20260104210500 +0000" stop="20260104215500 +0000" channel="Star World Middle East.tl">
-    <title lang="en">Will Trent  -  Residente O Visitante</title>
+    <title lang="en">ويل ترينت (موسم 2، حلقة9) - Will Trent  -  Residente O Visitante</title>
   </programme>
   <programme start="20260104215500 +0000" stop="20260104224000 +0000" channel="Star World Middle East.tl">
-    <title lang="en">Will Trent  -  Do You See the Vision?</title>
+    <title lang="en">ويل ترينت (موسم 2، حلقة10) - Will Trent  -  Do You See the Vision?</title>
   </programme>
   <programme start="20260104224000 +0000" stop="20260104232500 +0000" channel="Star World Middle East.tl">
-    <title lang="en">Jamie Oliver: Cooking for Less  -  Episode 1</title>
+    <title lang="en">جيمي أوليفر: كوكينج فور ليس (موسم 1، حلقة1) - Jamie Oliver: Cooking for Less  -  Episode 1</title>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="StarzPLAY Sports 1.tl">
     <title lang="en">مجلة الدوري الإيطالي:الجولة 18 - Serie A Preview Show Magazine:Round 18</title>
@@ -142794,13 +143387,16 @@ Following the roaring success of its predecessor, Lethal Weapon 2 reunites Mel G
   <programme start="20260101181500 +0000" stop="20260101200000 +0000" channel="TFC.tl">
     <title lang="en">إتس شوتايم - It's Showtime</title>
   </programme>
-  <programme start="20260101201500 +0000" stop="20260101210500 +0000" channel="TFC.tl">
-    <title lang="en">Salubong 2026</title>
+  <programme start="20260101201500 +0000" stop="20260101205000 +0000" channel="TFC.tl">
+    <title lang="en">Are You G? with MJ Felipe</title>
   </programme>
-  <programme start="20260101210500 +0000" stop="20260101220500 +0000" channel="TFC.tl">
-    <title lang="en">نيو ييرز إيف ماس - New Year's Eve Mass</title>
+  <programme start="20260101205000 +0000" stop="20260101212500 +0000" channel="TFC.tl">
+    <title lang="en">Goin' Bulilit</title>
   </programme>
-  <programme start="20260101220500 +0000" stop="20260101223500 +0000" channel="TFC.tl">
+  <programme start="20260101212500 +0000" stop="20260101220000 +0000" channel="TFC.tl">
+    <title lang="en">Lavender Fields</title>
+  </programme>
+  <programme start="20260101220000 +0000" stop="20260101223500 +0000" channel="TFC.tl">
     <title lang="en">Pamilya Sagrado</title>
   </programme>
   <programme start="20260101223500 +0000" stop="20260101230000 +0000" channel="TFC.tl">
@@ -143867,6 +144463,72 @@ Four African American families pack up all their belongings, risking everything 
   </programme>
   <programme start="20260102220000 +0000" stop="20260102233000 +0000" channel="TLC HD.tl">
     <title lang="en">ماي سيكسهاندريد - باوندز لايف: كريستال إسز جيرني - My 600-lb Life: Krystal S' Journey</title>
+  </programme>
+  <programme start="20260102233000 +0000" stop="20260103001500 +0000" channel="TLC HD.tl">
+    <title lang="en">ذا فيس دوكتورز: كل ما أريده هو أنف جديد - The Face Doctors: I Just Want a New Nose</title>
+  </programme>
+  <programme start="20260103001500 +0000" stop="20260103010000 +0000" channel="TLC HD.tl">
+    <title lang="en">7 ليتل جونستونز: براين سيرجري فور أليكس - 7 Little Johnstons: Brain Surgery For Alex</title>
+  </programme>
+  <programme start="20260103010000 +0000" stop="20260103014500 +0000" channel="TLC HD.tl">
+    <title lang="en">ذا ليتل كوبل: أيه ستورم تو بي ريكوند ويذ - The Little Couple: A Storm To Be Reckoned With</title>
+  </programme>
+  <programme start="20260103014500 +0000" stop="20260103023000 +0000" channel="TLC HD.tl">
+    <title lang="en">دارسي وستيسي: الحلقة 1 - Darcey &amp; Stacey: Episode 1</title>
+  </programme>
+  <programme start="20260103023000 +0000" stop="20260103030000 +0000" channel="TLC HD.tl">
+    <title lang="en">باديز بيغ بيكداون: إيتاليان ثرو داون - Buddy's Big Bakedown: Italian Throw Down</title>
+  </programme>
+  <programme start="20260103030000 +0000" stop="20260103034500 +0000" channel="TLC HD.tl">
+    <title lang="en">ساي يس تو ذا دريس أميركا: أميركا: الحلقة 5 - Say Yes To The Dress America: America: Episode 5</title>
+  </programme>
+  <programme start="20260103034500 +0000" stop="20260103043205 +0000" channel="TLC HD.tl">
+    <title lang="en">ساي يس تو ذا دريس أميركا: أميركا: ريد، وايت آند راندي - Say Yes To The Dress America: America: Red, White And Randy</title>
+  </programme>
+  <programme start="20260103051900 +0000" stop="20260103054155 +0000" channel="TLC HD.tl">
+    <title lang="en">كيك بوس: موماز داي، فلورال فليفورز آند كيك كلينيكس - Cake Boss: Momma's Day, Floral Flavors And Cake Clinics</title>
+  </programme>
+  <programme start="20260103054200 +0000" stop="20260103060557 +0000" channel="TLC HD.tl">
+    <title lang="en">كيك بوس: كولور فيستيفال - Cake Boss: Colour Festival, Sofia's Graduating And A Paint...</title>
+  </programme>
+  <programme start="20260103060600 +0000" stop="20260103062855 +0000" channel="TLC HD.tl">
+    <title lang="en">باديز بيغ بيكداون: سكالبد أنيمال كيكس - Buddy's Big Bakedown: Sculpted Animal Cakes</title>
+  </programme>
+  <programme start="20260103062900 +0000" stop="20260103071605 +0000" channel="TLC HD.tl">
+    <title lang="en">90 داي: ذا سينغل لايف: هل هذه النهاية؟ - 90 Day: The Single Life: Is This The End?</title>
+  </programme>
+  <programme start="20260103080300 +0000" stop="20260103085005 +0000" channel="TLC HD.tl">
+    <title lang="en">90 داي فيانسي: هابيلي إيفر أفتر؟: إنها فقط البداية - 90 Day Fiance: Happily Ever After?: It's Only the Beginning</title>
+  </programme>
+  <programme start="20260103093700 +0000" stop="20260103102405 +0000" channel="TLC HD.tl">
+    <title lang="en">ذا سباوز هاوس: آيم غوينغ تو غيت ماريد هير! - The Spouse House: I'm Going To Get Married Here!</title>
+  </programme>
+  <programme start="20260103111100 +0000" stop="20260103115805 +0000" channel="TLC HD.tl">
+    <title lang="en">7 ليتل جونستونز: رينغ إن ذا نيو يير؟ - 7 Little Johnstons: Ring In The New Year?</title>
+  </programme>
+  <programme start="20260103124500 +0000" stop="20260103135705 +0000" channel="TLC HD.tl">
+    <title lang="en">سوبر ميغا كيكس: سوبرمان - Super Mega Cakes: Superman</title>
+  </programme>
+  <programme start="20260103141900 +0000" stop="20260103150605 +0000" channel="TLC HD.tl">
+    <title lang="en">ماتش مي أبرود: عشق متوقّد - Match Me Abroad: A Slow Burn</title>
+  </programme>
+  <programme start="20260103155500 +0000" stop="20260103164500 +0000" channel="TLC HD.tl">
+    <title lang="en">ساي يس تو ذا دريس أميركا: أميركا: ريد، وايت آند راندي - Say Yes To The Dress America: America: Red, White And Randy</title>
+  </programme>
+  <programme start="20260103164500 +0000" stop="20260103171000 +0000" channel="TLC HD.tl">
+    <title lang="en">باديز بيغ بيكداون: هالويين كيكس - Buddy's Big Bakedown: Halloween Cakes</title>
+  </programme>
+  <programme start="20260103171000 +0000" stop="20260103173500 +0000" channel="TLC HD.tl">
+    <title lang="en">: Sweet 16, Hulas And Tiny Hamster Cake</title>
+  </programme>
+  <programme start="20260103173500 +0000" stop="20260103180000 +0000" channel="TLC HD.tl">
+    <title lang="en">: Cuckoo Cake, Birthday Surprise, And New Bakery</title>
+  </programme>
+  <programme start="20260103180000 +0000" stop="20260103185000 +0000" channel="TLC HD.tl">
+    <title lang="en">د. بيمبل بوبر: بوب أبس: بوب أبس: ثري تايمز أيه كيلويد - Dr. Pimple Popper: Pop Ups: Pop Ups: Three Times A Keloid</title>
+  </programme>
+  <programme start="20260103185000 +0000" stop="20260103194000 +0000" channel="TLC HD.tl">
+    <title lang="en">إكستريم سيسترز: أختي، أختي - Extreme Sisters: Sister, Sister</title>
   </programme>
   <programme start="20260103194000 +0000" stop="20260103200000 +0000" channel="TLC HD.tl">
     <title lang="en">ذا باد فوت كلينك: خطوة إلى الأمام - The Bad Foot Clinic: Best Foot Forward</title>
@@ -146745,7 +147407,7 @@ A team of paranormal experts investigate hauntings from the recently discovered 
     <title lang="en">ميستريز آت ذا ميوزيام (موسم 15، حلقة11) - The Exorcism Of Roland Doe (S1, Ep1)</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="Travel Channel EMEA.tl">
-    <title lang="en">The Holzer Files  -  Bloodline</title>
+    <title lang="en">ذا هولزر فايلز (موسم 1، حلقة10) - The Holzer Files  -  Bloodline</title>
   </programme>
   <programme start="20251231225000 +0000" stop="20260101024700 +0000" channel="Wanasa.tl">
     <title lang="en">الجلسة حلوه - Al Jalsa Helwa</title>
@@ -149264,7 +149926,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
   <programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="be INSports 2.tl">
     <title lang="en">Crystal Palace  vs Fulham - English Premier League 2025/2026 Week 19 - Crystal Palace  vs Fulham  -  English Premier League 2025/2026 Week 19</title>
   </programme>
-  <programme start="20260101195000 +0000" stop="20260101220000 +0000" channel="be INSports 2.tl">
+  <programme start="20260101195000 +0000" stop="20260101220600 +0000" channel="be INSports 2.tl">
     <title lang="en">Brentford vs Tottenham Hotspur - English Premier League 2025/2026 Week 19 - Brentford vs Tottenham Hotspur  -  English Premier League 2025/2026 Week 19</title>
   </programme>
   <programme start="20260101220600 +0000" stop="20260102000000 +0000" channel="be INSports 2.tl">
@@ -153060,10 +153722,10 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">بريف (موسم 1، حلقة61) - Brave (S1, Ep61)</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="beindrama 1.tl">
-    <title lang="en">The Ivy</title>
+    <title lang="en">سارماشيك زماني - The Ivy</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="beindrama 1.tl">
-    <title lang="en">Lunchbox (S1)</title>
+    <title lang="en">لانش بوكس (موسم 1) - Lunchbox (S1)</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="beingourmet.tl">
     <title lang="en">إيشن سبايسيز (موسم 1، حلقة7) - Asian Spices (S1, Ep7)</title>
@@ -153348,10 +154010,10 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">صحي وأطيب (حلقة18) - Sihhy Wa Atyab (Ep18)</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="beingourmet.tl">
-    <title lang="en">Sihhy Wa Atyab (Ep17)</title>
+    <title lang="en">صحي وأطيب (حلقة17) - Sihhy Wa Atyab (Ep17)</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="beingourmet.tl">
-    <title lang="en">Sihhy Wa Atyab (Ep18)</title>
+    <title lang="en">صحي وأطيب (حلقة18) - Sihhy Wa Atyab (Ep18)</title>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101014500 +0000" channel="beinmovies 1.tl">
     <title lang="en">لورد أوف ميسرول - Lord of Misrule</title>
@@ -153507,7 +154169,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">ذا لاست شوجيرل - The Last Showgirl</title>
   </programme>
   <programme start="20260104214500 +0000" stop="20260104235000 +0000" channel="beinmovies 1.tl">
-    <title lang="en">Smile 2</title>
+    <title lang="en">سمايل تو - Smile 2</title>
   </programme>
   <programme start="20251231233000 +0000" stop="20260101010000 +0000" channel="beinmovies 2.tl">
     <title lang="en">بارانورمال أكتيفيتي 2 - Paranormal Activity 2</title>
@@ -153651,7 +154313,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">سبايدرمان تو - Spider - Man 2</title>
   </programme>
   <programme start="20260104211500 +0000" stop="20260104233000 +0000" channel="beinmovies 2.tl">
-    <title lang="en">Spider - Man 3</title>
+    <title lang="en">سبايدر مان ثري - Spider - Man 3</title>
   </programme>
   <programme start="20260101010000 +0000" stop="20260101024500 +0000" channel="beinmovies 3.tl">
     <title lang="en">ماما ديريست - Mama Dearest</title>
@@ -153795,7 +154457,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">كليك - Click</title>
   </programme>
   <programme start="20260104214500 +0000" stop="20260104233000 +0000" channel="beinmovies 3.tl">
-    <title lang="en">Alice and the Vampire Queen</title>
+    <title lang="en">أليس آند ذا فامبير كوين - Alice and the Vampire Queen</title>
   </programme>
   <programme start="20260101001500 +0000" stop="20260101014500 +0000" channel="beinmovies 4.tl">
     <title lang="en">سيرفس أب: ويف مانيا - Surf's Up 2: WaveMania</title>
@@ -153894,7 +154556,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">نايت آت ذا ميوزيام - Night at the Museum</title>
   </programme>
   <programme start="20260103070100 +0000" stop="20260103083000 +0000" channel="beinmovies 4.tl">
-    <title lang="en">Treasure Fellowship</title>
+    <title lang="en">تريجر فيلوشيب - Treasure Fellowship</title>
   </programme>
   <programme start="20260103083000 +0000" stop="20260103103000 +0000" channel="beinmovies 4.tl">
     <title lang="en">سبايدر مان إنتو ذا سبايدر فيرس - Spider - Man: Into the Spider</title>
@@ -153903,7 +154565,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">نايت آت ذا ميوزيام - Night at the Museum</title>
   </programme>
   <programme start="20260103121600 +0000" stop="20260103134500 +0000" channel="beinmovies 4.tl">
-    <title lang="en">Treasure Fellowship</title>
+    <title lang="en">تريجر فيلوشيب - Treasure Fellowship</title>
   </programme>
   <programme start="20260103134500 +0000" stop="20260103154500 +0000" channel="beinmovies 4.tl">
     <title lang="en">سبايدر مان إنتو ذا سبايدر فيرس - Spider - Man: Into the Spider</title>
@@ -153963,7 +154625,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">كليفورد ذا بيج ريد دوج - Clifford the Big Red Dog</title>
   </programme>
   <programme start="20260104223000 +0000" stop="20260105001500 +0000" channel="beinmovies 4.tl">
-    <title lang="en">Butterfly Tale</title>
+    <title lang="en">باترفلاي تيل - Butterfly Tale</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="beinseries 1.tl">
     <title lang="en">أوتلاندر (موسم 3، حلقة7) - Outlander (S3, Ep7)</title>
@@ -154266,10 +154928,10 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">لونج برايت ريفر - هيريدتري - Long Bright River  -  Hereditary</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="beinseries 1.tl">
-    <title lang="en">The Art of More (S1, Ep9)</title>
+    <title lang="en">ذي أرت أوف مور (موسم 1، حلقة9) - The Art of More (S1, Ep9)</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="beinseries 1.tl">
-    <title lang="en">Raid the Cage  -  Families Who Raid Together</title>
+    <title lang="en">ريد ذا كيدج - فاميليز هو ريد توجيذر - Raid the Cage  -  Families Who Raid Together</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="beinseries 2.tl">
     <title lang="en">ذا ميور أوف كينجزتاون - راج دول - The Mayor of Kingstown  -  Rag Doll</title>
@@ -154551,10 +155213,10 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">إن سي آي إس (موسم 23، حلقة10) - NCIS (S23, Ep10)</title>
   </programme>
   <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="beinseries 2.tl">
-    <title lang="en">The Alienist (S1, Ep7)</title>
+    <title lang="en">ذا ألينست (موسم 1، حلقة7) - The Alienist (S1, Ep7)</title>
   </programme>
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="beinseries 2.tl">
-    <title lang="en">Justified (S5, Ep10)</title>
+    <title lang="en">جاستيفايد (موسم 5، حلقة10) - Justified (S5, Ep10)</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20251231232000 +0000" channel="stc tv Shabab Al Bomb.tl">
     <title lang="en">شباب البومب:كواليس - Shabab Al Bomb:Kawalees</title>
