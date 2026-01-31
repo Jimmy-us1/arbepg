@@ -2344,15 +2344,20 @@ FC Heidenheim 1846 vs. RB Leipzig</desc>
     <desc lang="en">يونيون برلين وبوروسيا دورتموند
 FC Union Berlin vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260130140235 +0000" stop="20260130140641 +0000" channel="90’ Highlights.tl">
+  <programme start="20260130140235 +0000" stop="20260130140438 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وشتوتغارت - Borussia M'gladbach vs. VfB Stuttgart</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وشتوتغارت
 Borussia M'gladbach vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260130140641 +0000" stop="20260130140837 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 19 - Top 5 Goals: Match Day 19</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 19
-Top 5 Goals: Match Day 19</desc>
+  <programme start="20260130140438 +0000" stop="20260130140740 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فرايبورغ وكولن - SC Freiburg vs. FC Köln</title>
+    <desc lang="en">فرايبورغ وكولن
+SC Freiburg vs. FC Köln</desc>
+  </programme>
+  <programme start="20260130140740 +0000" stop="20260130140837 +0000" channel="90’ Highlights.tl">
+    <title lang="en">أفضل 5 تصديات: الجولة 19 - Top 5 Saves: Match Day 19</title>
+    <desc lang="en">أفضل 5 تصديات: الجولة 19
+Top 5 Saves: Match Day 19</desc>
   </programme>
   <programme start="20260130140837 +0000" stop="20260130140936 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 19 - Team Of The Week: Match Day 19</title>
@@ -2619,10 +2624,15 @@ Real Betis vs. Elche CF</desc>
     <desc lang="en">ألافيس ورايو فايكانو
 Alaves vs. Rayo Vallecano</desc>
   </programme>
-  <programme start="20260130181405 +0000" stop="20260130182510 +0000" channel="90’ Highlights.tl">
+  <programme start="20260130181405 +0000" stop="20260130182112 +0000" channel="90’ Highlights.tl">
     <title lang="en">راسينغ سانتاندير وبرشلونة - Racing de Santander vs. FC Barcelona</title>
     <desc lang="en">راسينغ سانتاندير وبرشلونة
 Racing de Santander vs. FC Barcelona</desc>
+  </programme>
+  <programme start="20260130182112 +0000" stop="20260130182510 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بورغوس وفالنسيا - Burgos CF vs. Valencia CF</title>
+    <desc lang="en">بورغوس وفالنسيا
+Burgos CF vs. Valencia CF</desc>
   </programme>
   <programme start="20260130182510 +0000" stop="20260130182609 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 19 - Team Of The Week: Match Day 19</title>
@@ -2654,15 +2664,15 @@ FC Heidenheim 1846 vs. FC Köln</desc>
     <desc lang="en">باير ليفركوزن وشتوتغارت
 Bayer 04 Leverkusen vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260130183624 +0000" stop="20260130184030 +0000" channel="90’ Highlights.tl">
+  <programme start="20260130183624 +0000" stop="20260130183827 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ - Borussia M'gladbach vs. FC Augsburg</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ
 Borussia M'gladbach vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260130184030 +0000" stop="20260130184129 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 16 - Top 5 Goals: Match Day 16</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 16
-Top 5 Goals: Match Day 16</desc>
+  <programme start="20260130183827 +0000" stop="20260130184129 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفولفسبورغ - FC Bayern Munich vs. VfL Wolfsburg</title>
+    <desc lang="en">بايرن ميونخ وفولفسبورغ
+FC Bayern Munich vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260130184129 +0000" stop="20260130184228 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 16 - Top 5 Saves: Match Day 16</title>
@@ -2749,15 +2759,15 @@ Hamburger SV vs. Borussia M'gladbach</desc>
     <desc lang="en">لايبزيغ وبايرن ميونخ
 RB Leipzig vs. FC Bayern Munich</desc>
   </programme>
-  <programme start="20260130191720 +0000" stop="20260130192126 +0000" channel="90’ Highlights.tl">
+  <programme start="20260130191720 +0000" stop="20260130191923 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت ويونيون برلين - VfB Stuttgart vs. FC Union Berlin</title>
     <desc lang="en">شتوتغارت ويونيون برلين
 VfB Stuttgart vs. FC Union Berlin</desc>
   </programme>
-  <programme start="20260130192126 +0000" stop="20260130192225 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 17 - Top 5 Goals: Match Day 17</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 17
-Top 5 Goals: Match Day 17</desc>
+  <programme start="20260130191923 +0000" stop="20260130192225 +0000" channel="90’ Highlights.tl">
+    <title lang="en">أوغسبورغ وفرايبورغ - FC Augsburg vs. SC Freiburg</title>
+    <desc lang="en">أوغسبورغ وفرايبورغ
+FC Augsburg vs. SC Freiburg</desc>
   </programme>
   <programme start="20260130192225 +0000" stop="20260130192324 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 17 - Top 5 Saves: Match Day 17</title>
@@ -2819,10 +2829,15 @@ FC Heidenheim 1846 vs. RB Leipzig</desc>
     <desc lang="en">يونيون برلين وبوروسيا دورتموند
 FC Union Berlin vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260130194253 +0000" stop="20260130194659 +0000" channel="90’ Highlights.tl">
+  <programme start="20260130194253 +0000" stop="20260130194456 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وشتوتغارت - Borussia M'gladbach vs. VfB Stuttgart</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وشتوتغارت
 Borussia M'gladbach vs. VfB Stuttgart</desc>
+  </programme>
+  <programme start="20260130194456 +0000" stop="20260130194659 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فرايبورغ وكولن - SC Freiburg vs. FC Köln</title>
+    <desc lang="en">فرايبورغ وكولن
+SC Freiburg vs. FC Köln</desc>
   </programme>
   <programme start="20260130194659 +0000" stop="20260130194758 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 أهداف: الجولة 19 - Top 5 Goals: Match Day 19</title>
@@ -3144,10 +3159,15 @@ Real Betis vs. Elche CF</desc>
     <desc lang="en">ألافيس ورايو فايكانو
 Alaves vs. Rayo Vallecano</desc>
   </programme>
-  <programme start="20260131011714 +0000" stop="20260131012819 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131011714 +0000" stop="20260131012421 +0000" channel="90’ Highlights.tl">
     <title lang="en">راسينغ سانتاندير وبرشلونة - Racing de Santander vs. FC Barcelona</title>
     <desc lang="en">راسينغ سانتاندير وبرشلونة
 Racing de Santander vs. FC Barcelona</desc>
+  </programme>
+  <programme start="20260131012421 +0000" stop="20260131012819 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بورغوس وفالنسيا - Burgos CF vs. Valencia CF</title>
+    <desc lang="en">بورغوس وفالنسيا
+Burgos CF vs. Valencia CF</desc>
   </programme>
   <programme start="20260131012819 +0000" stop="20260131012918 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 19 - Team Of The Week: Match Day 19</title>
@@ -3179,15 +3199,15 @@ FC Heidenheim 1846 vs. FC Köln</desc>
     <desc lang="en">باير ليفركوزن وشتوتغارت
 Bayer 04 Leverkusen vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260131013933 +0000" stop="20260131014339 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131013933 +0000" stop="20260131014136 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ - Borussia M'gladbach vs. FC Augsburg</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ
 Borussia M'gladbach vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260131014339 +0000" stop="20260131014438 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 16 - Top 5 Goals: Match Day 16</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 16
-Top 5 Goals: Match Day 16</desc>
+  <programme start="20260131014136 +0000" stop="20260131014438 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفولفسبورغ - FC Bayern Munich vs. VfL Wolfsburg</title>
+    <desc lang="en">بايرن ميونخ وفولفسبورغ
+FC Bayern Munich vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260131014438 +0000" stop="20260131014537 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 16 - Top 5 Saves: Match Day 16</title>
@@ -3274,15 +3294,15 @@ Hamburger SV vs. Borussia M'gladbach</desc>
     <desc lang="en">لايبزيغ وبايرن ميونخ
 RB Leipzig vs. FC Bayern Munich</desc>
   </programme>
-  <programme start="20260131022028 +0000" stop="20260131022434 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131022028 +0000" stop="20260131022231 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت ويونيون برلين - VfB Stuttgart vs. FC Union Berlin</title>
     <desc lang="en">شتوتغارت ويونيون برلين
 VfB Stuttgart vs. FC Union Berlin</desc>
   </programme>
-  <programme start="20260131022434 +0000" stop="20260131022533 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 17 - Top 5 Goals: Match Day 17</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 17
-Top 5 Goals: Match Day 17</desc>
+  <programme start="20260131022231 +0000" stop="20260131022533 +0000" channel="90’ Highlights.tl">
+    <title lang="en">أوغسبورغ وفرايبورغ - FC Augsburg vs. SC Freiburg</title>
+    <desc lang="en">أوغسبورغ وفرايبورغ
+FC Augsburg vs. SC Freiburg</desc>
   </programme>
   <programme start="20260131022533 +0000" stop="20260131022632 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 17 - Top 5 Saves: Match Day 17</title>
@@ -3344,10 +3364,15 @@ FC Heidenheim 1846 vs. RB Leipzig</desc>
     <desc lang="en">يونيون برلين وبوروسيا دورتموند
 FC Union Berlin vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260131024601 +0000" stop="20260131025007 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131024601 +0000" stop="20260131024804 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وشتوتغارت - Borussia M'gladbach vs. VfB Stuttgart</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وشتوتغارت
 Borussia M'gladbach vs. VfB Stuttgart</desc>
+  </programme>
+  <programme start="20260131024804 +0000" stop="20260131025007 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فرايبورغ وكولن - SC Freiburg vs. FC Köln</title>
+    <desc lang="en">فرايبورغ وكولن
+SC Freiburg vs. FC Köln</desc>
   </programme>
   <programme start="20260131025007 +0000" stop="20260131025106 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 أهداف: الجولة 19 - Top 5 Goals: Match Day 19</title>
@@ -3669,10 +3694,15 @@ Real Betis vs. Elche CF</desc>
     <desc lang="en">ألافيس ورايو فايكانو
 Alaves vs. Rayo Vallecano</desc>
   </programme>
-  <programme start="20260131082023 +0000" stop="20260131083128 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131082023 +0000" stop="20260131082730 +0000" channel="90’ Highlights.tl">
     <title lang="en">راسينغ سانتاندير وبرشلونة - Racing de Santander vs. FC Barcelona</title>
     <desc lang="en">راسينغ سانتاندير وبرشلونة
 Racing de Santander vs. FC Barcelona</desc>
+  </programme>
+  <programme start="20260131082730 +0000" stop="20260131083128 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بورغوس وفالنسيا - Burgos CF vs. Valencia CF</title>
+    <desc lang="en">بورغوس وفالنسيا
+Burgos CF vs. Valencia CF</desc>
   </programme>
   <programme start="20260131083128 +0000" stop="20260131083227 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 19 - Team Of The Week: Match Day 19</title>
@@ -3704,15 +3734,15 @@ FC Heidenheim 1846 vs. FC Köln</desc>
     <desc lang="en">باير ليفركوزن وشتوتغارت
 Bayer 04 Leverkusen vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260131084242 +0000" stop="20260131084648 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131084242 +0000" stop="20260131084445 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ - Borussia M'gladbach vs. FC Augsburg</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وأوغسبورغ
 Borussia M'gladbach vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260131084648 +0000" stop="20260131084747 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 16 - Top 5 Goals: Match Day 16</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 16
-Top 5 Goals: Match Day 16</desc>
+  <programme start="20260131084445 +0000" stop="20260131084747 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفولفسبورغ - FC Bayern Munich vs. VfL Wolfsburg</title>
+    <desc lang="en">بايرن ميونخ وفولفسبورغ
+FC Bayern Munich vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260131084747 +0000" stop="20260131084846 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 16 - Top 5 Saves: Match Day 16</title>
@@ -3799,15 +3829,15 @@ Hamburger SV vs. Borussia M'gladbach</desc>
     <desc lang="en">لايبزيغ وبايرن ميونخ
 RB Leipzig vs. FC Bayern Munich</desc>
   </programme>
-  <programme start="20260131092337 +0000" stop="20260131092743 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131092337 +0000" stop="20260131092540 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت ويونيون برلين - VfB Stuttgart vs. FC Union Berlin</title>
     <desc lang="en">شتوتغارت ويونيون برلين
 VfB Stuttgart vs. FC Union Berlin</desc>
   </programme>
-  <programme start="20260131092743 +0000" stop="20260131092842 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 17 - Top 5 Goals: Match Day 17</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 17
-Top 5 Goals: Match Day 17</desc>
+  <programme start="20260131092540 +0000" stop="20260131092842 +0000" channel="90’ Highlights.tl">
+    <title lang="en">أوغسبورغ وفرايبورغ - FC Augsburg vs. SC Freiburg</title>
+    <desc lang="en">أوغسبورغ وفرايبورغ
+FC Augsburg vs. SC Freiburg</desc>
   </programme>
   <programme start="20260131092842 +0000" stop="20260131092941 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 17 - Top 5 Saves: Match Day 17</title>
@@ -3869,10 +3899,15 @@ FC Heidenheim 1846 vs. RB Leipzig</desc>
     <desc lang="en">يونيون برلين وبوروسيا دورتموند
 FC Union Berlin vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260131094910 +0000" stop="20260131095316 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131094910 +0000" stop="20260131095113 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وشتوتغارت - Borussia M'gladbach vs. VfB Stuttgart</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وشتوتغارت
 Borussia M'gladbach vs. VfB Stuttgart</desc>
+  </programme>
+  <programme start="20260131095113 +0000" stop="20260131095316 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فرايبورغ وكولن - SC Freiburg vs. FC Köln</title>
+    <desc lang="en">فرايبورغ وكولن
+SC Freiburg vs. FC Köln</desc>
   </programme>
   <programme start="20260131095316 +0000" stop="20260131095415 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 أهداف: الجولة 19 - Top 5 Goals: Match Day 19</title>
@@ -4439,15 +4474,15 @@ TSG Hoffenheim vs. FC Augsburg</desc>
     <desc lang="en">باير ليفركوزن وبوروسيا دورتموند
 Bayer 04 Leverkusen vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260131181859 +0000" stop="20260131182305 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131181859 +0000" stop="20260131182102 +0000" channel="90’ Highlights.tl">
     <title lang="en">هامبورغ وشتوتغارت - Hamburger SV vs. VfB Stuttgart</title>
     <desc lang="en">هامبورغ وشتوتغارت
 Hamburger SV vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260131182305 +0000" stop="20260131182403 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 12 - Top 5 Goals: Match Day 12</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 12
-Top 5 Goals: Match Day 12</desc>
+  <programme start="20260131182102 +0000" stop="20260131182403 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وفولفسبورغ - Eintracht Frankfurt vs. VfL Wolfsburg</title>
+    <desc lang="en">آينتراخت فرانكفورت وفولفسبورغ
+Eintracht Frankfurt vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260131182403 +0000" stop="20260131182502 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 12 - Top 5 Saves: Match Day 12</title>
@@ -4494,20 +4529,25 @@ FC Augsburg vs. Bayer 04 Leverkusen</desc>
     <desc lang="en">هايدنهايم وفرايبورغ
 FC Heidenheim 1846 vs. SC Freiburg</desc>
   </programme>
-  <programme start="20260131184250 +0000" stop="20260131184655 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131184250 +0000" stop="20260131184453 +0000" channel="90’ Highlights.tl">
     <title lang="en">كولن وسانت باولي - FC Köln vs. FC St. Pauli</title>
     <desc lang="en">كولن وسانت باولي
 FC Köln vs. FC St. Pauli</desc>
   </programme>
-  <programme start="20260131184655 +0000" stop="20260131184755 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 13 - Top 5 Goals: Match Day 13</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 13
-Top 5 Goals: Match Day 13</desc>
+  <programme start="20260131184453 +0000" stop="20260131184755 +0000" channel="90’ Highlights.tl">
+    <title lang="en">هامبورغ وفيردر بريمن - Hamburger SV vs. SV Werder Bremen</title>
+    <desc lang="en">هامبورغ وفيردر بريمن
+Hamburger SV vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260131184755 +0000" stop="20260131185058 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131184755 +0000" stop="20260131184855 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 13 - Top 5 Saves: Match Day 13</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 13
 Top 5 Saves: Match Day 13</desc>
+  </programme>
+  <programme start="20260131184855 +0000" stop="20260131185058 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بوروسيا دورتموند وهوفنهايم - Borussia Dortmund vs. TSG Hoffenheim</title>
+    <desc lang="en">بوروسيا دورتموند وهوفنهايم
+Borussia Dortmund vs. TSG Hoffenheim</desc>
   </programme>
   <programme start="20260131185058 +0000" stop="20260131185157 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 13 - Team Of The Week: Match Day 13</title>
@@ -4549,15 +4589,15 @@ Bayer 04 Leverkusen vs. FC Köln</desc>
     <desc lang="en">فرايبورغ وبوروسيا دورتموند
 SC Freiburg vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260131190731 +0000" stop="20260131191137 +0000" channel="90’ Highlights.tl">
+  <programme start="20260131190731 +0000" stop="20260131190934 +0000" channel="90’ Highlights.tl">
     <title lang="en">بايرن ميونخ وماينز - FC Bayern Munich vs. FSV Mainz 05</title>
     <desc lang="en">بايرن ميونخ وماينز
 FC Bayern Munich vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260131191137 +0000" stop="20260131191235 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 14 - Top 5 Goals: Match Day 14</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 14
-Top 5 Goals: Match Day 14</desc>
+  <programme start="20260131190934 +0000" stop="20260131191235 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فيردر بريمن وشتوتغارت - SV Werder Bremen vs. VfB Stuttgart</title>
+    <desc lang="en">فيردر بريمن وشتوتغارت
+SV Werder Bremen vs. VfB Stuttgart</desc>
   </programme>
   <programme start="20260131191235 +0000" stop="20260131191331 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 14 - Top 5 Saves: Match Day 14</title>
@@ -4695,7 +4735,9 @@ Chile vs. Argentina</desc>
 Liberia vs. Tunisia</desc>
   </programme>
   <programme start="20260131213049 +0000" stop="20260131213649 +0000" channel="90’ Highlights.tl">
-    <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
+    <title lang="en">بوتسوانا والجزائر - Botswana vs. Algeria</title>
+    <desc lang="en">بوتسوانا والجزائر
+Botswana vs. Algeria</desc>
   </programme>
   <programme start="20260131213649 +0000" stop="20260131213812 +0000" channel="90’ Highlights.tl">
     <title lang="en">الكونغو الديمقراطية وجنوب السودان - Democratic Republic of the Congo vs. South Sudan</title>
@@ -4982,15 +5024,15 @@ TSG Hoffenheim vs. FC Augsburg</desc>
     <desc lang="en">باير ليفركوزن وبوروسيا دورتموند
 Bayer 04 Leverkusen vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260201012019 +0000" stop="20260201012424 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201012019 +0000" stop="20260201012221 +0000" channel="90’ Highlights.tl">
     <title lang="en">هامبورغ وشتوتغارت - Hamburger SV vs. VfB Stuttgart</title>
     <desc lang="en">هامبورغ وشتوتغارت
 Hamburger SV vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260201012424 +0000" stop="20260201012523 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 12 - Top 5 Goals: Match Day 12</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 12
-Top 5 Goals: Match Day 12</desc>
+  <programme start="20260201012221 +0000" stop="20260201012523 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وفولفسبورغ - Eintracht Frankfurt vs. VfL Wolfsburg</title>
+    <desc lang="en">آينتراخت فرانكفورت وفولفسبورغ
+Eintracht Frankfurt vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260201012523 +0000" stop="20260201012622 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 12 - Top 5 Saves: Match Day 12</title>
@@ -5037,20 +5079,25 @@ FC Augsburg vs. Bayer 04 Leverkusen</desc>
     <desc lang="en">هايدنهايم وفرايبورغ
 FC Heidenheim 1846 vs. SC Freiburg</desc>
   </programme>
-  <programme start="20260201014409 +0000" stop="20260201014815 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201014409 +0000" stop="20260201014612 +0000" channel="90’ Highlights.tl">
     <title lang="en">كولن وسانت باولي - FC Köln vs. FC St. Pauli</title>
     <desc lang="en">كولن وسانت باولي
 FC Köln vs. FC St. Pauli</desc>
   </programme>
-  <programme start="20260201014815 +0000" stop="20260201014914 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 13 - Top 5 Goals: Match Day 13</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 13
-Top 5 Goals: Match Day 13</desc>
+  <programme start="20260201014612 +0000" stop="20260201014914 +0000" channel="90’ Highlights.tl">
+    <title lang="en">هامبورغ وفيردر بريمن - Hamburger SV vs. SV Werder Bremen</title>
+    <desc lang="en">هامبورغ وفيردر بريمن
+Hamburger SV vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260201014914 +0000" stop="20260201015217 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201014914 +0000" stop="20260201015014 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 13 - Top 5 Saves: Match Day 13</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 13
 Top 5 Saves: Match Day 13</desc>
+  </programme>
+  <programme start="20260201015014 +0000" stop="20260201015217 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بوروسيا دورتموند وهوفنهايم - Borussia Dortmund vs. TSG Hoffenheim</title>
+    <desc lang="en">بوروسيا دورتموند وهوفنهايم
+Borussia Dortmund vs. TSG Hoffenheim</desc>
   </programme>
   <programme start="20260201015217 +0000" stop="20260201015317 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 13 - Team Of The Week: Match Day 13</title>
@@ -5092,15 +5139,15 @@ Bayer 04 Leverkusen vs. FC Köln</desc>
     <desc lang="en">فرايبورغ وبوروسيا دورتموند
 SC Freiburg vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260201020851 +0000" stop="20260201021256 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201020851 +0000" stop="20260201021053 +0000" channel="90’ Highlights.tl">
     <title lang="en">بايرن ميونخ وماينز - FC Bayern Munich vs. FSV Mainz 05</title>
     <desc lang="en">بايرن ميونخ وماينز
 FC Bayern Munich vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260201021256 +0000" stop="20260201021355 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 14 - Top 5 Goals: Match Day 14</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 14
-Top 5 Goals: Match Day 14</desc>
+  <programme start="20260201021053 +0000" stop="20260201021355 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فيردر بريمن وشتوتغارت - SV Werder Bremen vs. VfB Stuttgart</title>
+    <desc lang="en">فيردر بريمن وشتوتغارت
+SV Werder Bremen vs. VfB Stuttgart</desc>
   </programme>
   <programme start="20260201021355 +0000" stop="20260201021451 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 14 - Top 5 Saves: Match Day 14</title>
@@ -5238,7 +5285,9 @@ Chile vs. Argentina</desc>
 Liberia vs. Tunisia</desc>
   </programme>
   <programme start="20260201043209 +0000" stop="20260201043808 +0000" channel="90’ Highlights.tl">
-    <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
+    <title lang="en">بوتسوانا والجزائر - Botswana vs. Algeria</title>
+    <desc lang="en">بوتسوانا والجزائر
+Botswana vs. Algeria</desc>
   </programme>
   <programme start="20260201043808 +0000" stop="20260201043932 +0000" channel="90’ Highlights.tl">
     <title lang="en">الكونغو الديمقراطية وجنوب السودان - Democratic Republic of the Congo vs. South Sudan</title>
@@ -5525,15 +5574,15 @@ TSG Hoffenheim vs. FC Augsburg</desc>
     <desc lang="en">باير ليفركوزن وبوروسيا دورتموند
 Bayer 04 Leverkusen vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260201082138 +0000" stop="20260201082544 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201082138 +0000" stop="20260201082341 +0000" channel="90’ Highlights.tl">
     <title lang="en">هامبورغ وشتوتغارت - Hamburger SV vs. VfB Stuttgart</title>
     <desc lang="en">هامبورغ وشتوتغارت
 Hamburger SV vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260201082544 +0000" stop="20260201082642 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 12 - Top 5 Goals: Match Day 12</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 12
-Top 5 Goals: Match Day 12</desc>
+  <programme start="20260201082341 +0000" stop="20260201082642 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وفولفسبورغ - Eintracht Frankfurt vs. VfL Wolfsburg</title>
+    <desc lang="en">آينتراخت فرانكفورت وفولفسبورغ
+Eintracht Frankfurt vs. VfL Wolfsburg</desc>
   </programme>
   <programme start="20260201082642 +0000" stop="20260201082741 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 12 - Top 5 Saves: Match Day 12</title>
@@ -5580,20 +5629,25 @@ FC Augsburg vs. Bayer 04 Leverkusen</desc>
     <desc lang="en">هايدنهايم وفرايبورغ
 FC Heidenheim 1846 vs. SC Freiburg</desc>
   </programme>
-  <programme start="20260201084529 +0000" stop="20260201084934 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201084529 +0000" stop="20260201084732 +0000" channel="90’ Highlights.tl">
     <title lang="en">كولن وسانت باولي - FC Köln vs. FC St. Pauli</title>
     <desc lang="en">كولن وسانت باولي
 FC Köln vs. FC St. Pauli</desc>
   </programme>
-  <programme start="20260201084934 +0000" stop="20260201085034 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 13 - Top 5 Goals: Match Day 13</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 13
-Top 5 Goals: Match Day 13</desc>
+  <programme start="20260201084732 +0000" stop="20260201085034 +0000" channel="90’ Highlights.tl">
+    <title lang="en">هامبورغ وفيردر بريمن - Hamburger SV vs. SV Werder Bremen</title>
+    <desc lang="en">هامبورغ وفيردر بريمن
+Hamburger SV vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260201085034 +0000" stop="20260201085337 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201085034 +0000" stop="20260201085134 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 13 - Top 5 Saves: Match Day 13</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 13
 Top 5 Saves: Match Day 13</desc>
+  </programme>
+  <programme start="20260201085134 +0000" stop="20260201085337 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بوروسيا دورتموند وهوفنهايم - Borussia Dortmund vs. TSG Hoffenheim</title>
+    <desc lang="en">بوروسيا دورتموند وهوفنهايم
+Borussia Dortmund vs. TSG Hoffenheim</desc>
   </programme>
   <programme start="20260201085337 +0000" stop="20260201085436 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 13 - Team Of The Week: Match Day 13</title>
@@ -5635,15 +5689,15 @@ Bayer 04 Leverkusen vs. FC Köln</desc>
     <desc lang="en">فرايبورغ وبوروسيا دورتموند
 SC Freiburg vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260201091010 +0000" stop="20260201091416 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201091010 +0000" stop="20260201091213 +0000" channel="90’ Highlights.tl">
     <title lang="en">بايرن ميونخ وماينز - FC Bayern Munich vs. FSV Mainz 05</title>
     <desc lang="en">بايرن ميونخ وماينز
 FC Bayern Munich vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260201091416 +0000" stop="20260201091514 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 14 - Top 5 Goals: Match Day 14</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 14
-Top 5 Goals: Match Day 14</desc>
+  <programme start="20260201091213 +0000" stop="20260201091514 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فيردر بريمن وشتوتغارت - SV Werder Bremen vs. VfB Stuttgart</title>
+    <desc lang="en">فيردر بريمن وشتوتغارت
+SV Werder Bremen vs. VfB Stuttgart</desc>
   </programme>
   <programme start="20260201091514 +0000" stop="20260201091610 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 14 - Top 5 Saves: Match Day 14</title>
@@ -5781,7 +5835,9 @@ Chile vs. Argentina</desc>
 Liberia vs. Tunisia</desc>
   </programme>
   <programme start="20260201113328 +0000" stop="20260201113928 +0000" channel="90’ Highlights.tl">
-    <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
+    <title lang="en">بوتسوانا والجزائر - Botswana vs. Algeria</title>
+    <desc lang="en">بوتسوانا والجزائر
+Botswana vs. Algeria</desc>
   </programme>
   <programme start="20260201113928 +0000" stop="20260201114051 +0000" channel="90’ Highlights.tl">
     <title lang="en">الكونغو الديمقراطية وجنوب السودان - Democratic Republic of the Congo vs. South Sudan</title>
@@ -6288,15 +6344,15 @@ FC Köln vs. Hamburger SV</desc>
     <desc lang="en">هايدنهايم وآينتراخت فرانكفورت
 FC Heidenheim 1846 vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260201181129 +0000" stop="20260201181545 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201181129 +0000" stop="20260201181342 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 9 - Team Of The Week: Match Day 9</title>
     <desc lang="en">فريق الأسبوع: الجولة 9
 Team Of The Week: Match Day 9</desc>
   </programme>
-  <programme start="20260201181545 +0000" stop="20260201181645 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 9 - Top 5 Goals: Match Day 9</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 9
-Top 5 Goals: Match Day 9</desc>
+  <programme start="20260201181342 +0000" stop="20260201181645 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وباير ليفركوزن - FC Bayern Munich vs. Bayer 04 Leverkusen</title>
+    <desc lang="en">بايرن ميونخ وباير ليفركوزن
+FC Bayern Munich vs. Bayer 04 Leverkusen</desc>
   </programme>
   <programme start="20260201181645 +0000" stop="20260201181745 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 9 - Top 5 Saves: Match Day 9</title>
@@ -6343,20 +6399,25 @@ SC Freiburg vs. FC St. Pauli</desc>
     <desc lang="en">بوروسيا مونشنغلادباخ وكولن
 Borussia M'gladbach vs. FC Köln</desc>
   </programme>
-  <programme start="20260201184528 +0000" stop="20260201184934 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201184528 +0000" stop="20260201184731 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت وأوغسبورغ - VfB Stuttgart vs. FC Augsburg</title>
     <desc lang="en">شتوتغارت وأوغسبورغ
 VfB Stuttgart vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260201184934 +0000" stop="20260201185032 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 10 - Top 5 Goals: Match Day 10</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 10
-Top 5 Goals: Match Day 10</desc>
+  <programme start="20260201184731 +0000" stop="20260201185032 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وماينز - Eintracht Frankfurt vs. FSV Mainz 05</title>
+    <desc lang="en">آينتراخت فرانكفورت وماينز
+Eintracht Frankfurt vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260201185032 +0000" stop="20260201185331 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201185032 +0000" stop="20260201185128 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 10 - Top 5 Saves: Match Day 10</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 10
 Top 5 Saves: Match Day 10</desc>
+  </programme>
+  <programme start="20260201185128 +0000" stop="20260201185331 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفرايبورغ - FC Bayern Munich vs. SC Freiburg</title>
+    <desc lang="en">بايرن ميونخ وفرايبورغ
+FC Bayern Munich vs. SC Freiburg</desc>
   </programme>
   <programme start="20260201185331 +0000" stop="20260201185430 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 10 - Team Of The Week: Match Day 10</title>
@@ -6393,15 +6454,15 @@ FC Heidenheim 1846 vs. Borussia M'gladbach</desc>
     <desc lang="en">كولن وآينتراخت فرانكفورت
 FC Köln vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260201192229 +0000" stop="20260201193307 +0000" channel="90’ Highlights.tl">
+  <programme start="20260201192229 +0000" stop="20260201192830 +0000" channel="90’ Highlights.tl">
     <title lang="en">لايبزيغ وفيردر بريمن - RB Leipzig vs. SV Werder Bremen</title>
     <desc lang="en">لايبزيغ وفيردر بريمن
 RB Leipzig vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260201193307 +0000" stop="20260201193406 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 11 - Top 5 Goals: Match Day 11</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 11
-Top 5 Goals: Match Day 11</desc>
+  <programme start="20260201192830 +0000" stop="20260201193406 +0000" channel="90’ Highlights.tl">
+    <title lang="en">سانت باولي ويونيون برلين - FC St. Pauli vs. FC Union Berlin</title>
+    <desc lang="en">سانت باولي ويونيون برلين
+FC St. Pauli vs. FC Union Berlin</desc>
   </programme>
   <programme start="20260201193406 +0000" stop="20260201193502 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 11 - Top 5 Saves: Match Day 11</title>
@@ -6738,15 +6799,15 @@ FC Köln vs. Hamburger SV</desc>
     <desc lang="en">هايدنهايم وآينتراخت فرانكفورت
 FC Heidenheim 1846 vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260202010745 +0000" stop="20260202011200 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202010745 +0000" stop="20260202010958 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 9 - Team Of The Week: Match Day 9</title>
     <desc lang="en">فريق الأسبوع: الجولة 9
 Team Of The Week: Match Day 9</desc>
   </programme>
-  <programme start="20260202011200 +0000" stop="20260202011300 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 9 - Top 5 Goals: Match Day 9</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 9
-Top 5 Goals: Match Day 9</desc>
+  <programme start="20260202010958 +0000" stop="20260202011300 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وباير ليفركوزن - FC Bayern Munich vs. Bayer 04 Leverkusen</title>
+    <desc lang="en">بايرن ميونخ وباير ليفركوزن
+FC Bayern Munich vs. Bayer 04 Leverkusen</desc>
   </programme>
   <programme start="20260202011300 +0000" stop="20260202011400 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 9 - Top 5 Saves: Match Day 9</title>
@@ -6793,20 +6854,25 @@ SC Freiburg vs. FC St. Pauli</desc>
     <desc lang="en">بوروسيا مونشنغلادباخ وكولن
 Borussia M'gladbach vs. FC Köln</desc>
   </programme>
-  <programme start="20260202014144 +0000" stop="20260202014549 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202014144 +0000" stop="20260202014346 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت وأوغسبورغ - VfB Stuttgart vs. FC Augsburg</title>
     <desc lang="en">شتوتغارت وأوغسبورغ
 VfB Stuttgart vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260202014549 +0000" stop="20260202014648 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 10 - Top 5 Goals: Match Day 10</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 10
-Top 5 Goals: Match Day 10</desc>
+  <programme start="20260202014346 +0000" stop="20260202014648 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وماينز - Eintracht Frankfurt vs. FSV Mainz 05</title>
+    <desc lang="en">آينتراخت فرانكفورت وماينز
+Eintracht Frankfurt vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260202014648 +0000" stop="20260202014947 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202014648 +0000" stop="20260202014744 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 10 - Top 5 Saves: Match Day 10</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 10
 Top 5 Saves: Match Day 10</desc>
+  </programme>
+  <programme start="20260202014744 +0000" stop="20260202014947 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفرايبورغ - FC Bayern Munich vs. SC Freiburg</title>
+    <desc lang="en">بايرن ميونخ وفرايبورغ
+FC Bayern Munich vs. SC Freiburg</desc>
   </programme>
   <programme start="20260202014947 +0000" stop="20260202015045 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 10 - Team Of The Week: Match Day 10</title>
@@ -6843,15 +6909,15 @@ FC Heidenheim 1846 vs. Borussia M'gladbach</desc>
     <desc lang="en">كولن وآينتراخت فرانكفورت
 FC Köln vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260202021845 +0000" stop="20260202022922 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202021845 +0000" stop="20260202022445 +0000" channel="90’ Highlights.tl">
     <title lang="en">لايبزيغ وفيردر بريمن - RB Leipzig vs. SV Werder Bremen</title>
     <desc lang="en">لايبزيغ وفيردر بريمن
 RB Leipzig vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260202022922 +0000" stop="20260202023022 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 11 - Top 5 Goals: Match Day 11</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 11
-Top 5 Goals: Match Day 11</desc>
+  <programme start="20260202022445 +0000" stop="20260202023022 +0000" channel="90’ Highlights.tl">
+    <title lang="en">سانت باولي ويونيون برلين - FC St. Pauli vs. FC Union Berlin</title>
+    <desc lang="en">سانت باولي ويونيون برلين
+FC St. Pauli vs. FC Union Berlin</desc>
   </programme>
   <programme start="20260202023022 +0000" stop="20260202023117 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 11 - Top 5 Saves: Match Day 11</title>
@@ -7188,15 +7254,15 @@ FC Köln vs. Hamburger SV</desc>
     <desc lang="en">هايدنهايم وآينتراخت فرانكفورت
 FC Heidenheim 1846 vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260202080400 +0000" stop="20260202080815 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202080400 +0000" stop="20260202080612 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 9 - Team Of The Week: Match Day 9</title>
     <desc lang="en">فريق الأسبوع: الجولة 9
 Team Of The Week: Match Day 9</desc>
   </programme>
-  <programme start="20260202080815 +0000" stop="20260202080915 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 9 - Top 5 Goals: Match Day 9</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 9
-Top 5 Goals: Match Day 9</desc>
+  <programme start="20260202080612 +0000" stop="20260202080915 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وباير ليفركوزن - FC Bayern Munich vs. Bayer 04 Leverkusen</title>
+    <desc lang="en">بايرن ميونخ وباير ليفركوزن
+FC Bayern Munich vs. Bayer 04 Leverkusen</desc>
   </programme>
   <programme start="20260202080915 +0000" stop="20260202081015 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 9 - Top 5 Saves: Match Day 9</title>
@@ -7243,20 +7309,25 @@ SC Freiburg vs. FC St. Pauli</desc>
     <desc lang="en">بوروسيا مونشنغلادباخ وكولن
 Borussia M'gladbach vs. FC Köln</desc>
   </programme>
-  <programme start="20260202083759 +0000" stop="20260202084204 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202083759 +0000" stop="20260202084001 +0000" channel="90’ Highlights.tl">
     <title lang="en">شتوتغارت وأوغسبورغ - VfB Stuttgart vs. FC Augsburg</title>
     <desc lang="en">شتوتغارت وأوغسبورغ
 VfB Stuttgart vs. FC Augsburg</desc>
   </programme>
-  <programme start="20260202084204 +0000" stop="20260202084303 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 10 - Top 5 Goals: Match Day 10</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 10
-Top 5 Goals: Match Day 10</desc>
+  <programme start="20260202084001 +0000" stop="20260202084303 +0000" channel="90’ Highlights.tl">
+    <title lang="en">آينتراخت فرانكفورت وماينز - Eintracht Frankfurt vs. FSV Mainz 05</title>
+    <desc lang="en">آينتراخت فرانكفورت وماينز
+Eintracht Frankfurt vs. FSV Mainz 05</desc>
   </programme>
-  <programme start="20260202084303 +0000" stop="20260202084601 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202084303 +0000" stop="20260202084359 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 10 - Top 5 Saves: Match Day 10</title>
     <desc lang="en">أفضل 5 تصديات: الجولة 10
 Top 5 Saves: Match Day 10</desc>
+  </programme>
+  <programme start="20260202084359 +0000" stop="20260202084601 +0000" channel="90’ Highlights.tl">
+    <title lang="en">بايرن ميونخ وفرايبورغ - FC Bayern Munich vs. SC Freiburg</title>
+    <desc lang="en">بايرن ميونخ وفرايبورغ
+FC Bayern Munich vs. SC Freiburg</desc>
   </programme>
   <programme start="20260202084601 +0000" stop="20260202084700 +0000" channel="90’ Highlights.tl">
     <title lang="en">فريق الأسبوع: الجولة 10 - Team Of The Week: Match Day 10</title>
@@ -7293,15 +7364,15 @@ FC Heidenheim 1846 vs. Borussia M'gladbach</desc>
     <desc lang="en">كولن وآينتراخت فرانكفورت
 FC Köln vs. Eintracht Frankfurt</desc>
   </programme>
-  <programme start="20260202091500 +0000" stop="20260202092537 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202091500 +0000" stop="20260202092100 +0000" channel="90’ Highlights.tl">
     <title lang="en">لايبزيغ وفيردر بريمن - RB Leipzig vs. SV Werder Bremen</title>
     <desc lang="en">لايبزيغ وفيردر بريمن
 RB Leipzig vs. SV Werder Bremen</desc>
   </programme>
-  <programme start="20260202092537 +0000" stop="20260202092636 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 11 - Top 5 Goals: Match Day 11</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 11
-Top 5 Goals: Match Day 11</desc>
+  <programme start="20260202092100 +0000" stop="20260202092636 +0000" channel="90’ Highlights.tl">
+    <title lang="en">سانت باولي ويونيون برلين - FC St. Pauli vs. FC Union Berlin</title>
+    <desc lang="en">سانت باولي ويونيون برلين
+FC St. Pauli vs. FC Union Berlin</desc>
   </programme>
   <programme start="20260202092636 +0000" stop="20260202092732 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 11 - Top 5 Saves: Match Day 11</title>
@@ -7628,15 +7699,15 @@ FC Heidenheim 1846 vs. RB Leipzig</desc>
     <desc lang="en">يونيون برلين وبوروسيا دورتموند
 FC Union Berlin vs. Borussia Dortmund</desc>
   </programme>
-  <programme start="20260202145228 +0000" stop="20260202145634 +0000" channel="90’ Highlights.tl">
+  <programme start="20260202145228 +0000" stop="20260202145431 +0000" channel="90’ Highlights.tl">
     <title lang="en">بوروسيا مونشنغلادباخ وشتوتغارت - Borussia M'gladbach vs. VfB Stuttgart</title>
     <desc lang="en">بوروسيا مونشنغلادباخ وشتوتغارت
 Borussia M'gladbach vs. VfB Stuttgart</desc>
   </programme>
-  <programme start="20260202145634 +0000" stop="20260202145733 +0000" channel="90’ Highlights.tl">
-    <title lang="en">أفضل 5 أهداف: الجولة 19 - Top 5 Goals: Match Day 19</title>
-    <desc lang="en">أفضل 5 أهداف: الجولة 19
-Top 5 Goals: Match Day 19</desc>
+  <programme start="20260202145431 +0000" stop="20260202145733 +0000" channel="90’ Highlights.tl">
+    <title lang="en">فرايبورغ وكولن - SC Freiburg vs. FC Köln</title>
+    <desc lang="en">فرايبورغ وكولن
+SC Freiburg vs. FC Köln</desc>
   </programme>
   <programme start="20260202145733 +0000" stop="20260202145830 +0000" channel="90’ Highlights.tl">
     <title lang="en">أفضل 5 تصديات: الجولة 19 - Top 5 Saves: Match Day 19</title>
@@ -7751,135 +7822,115 @@ Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.
     <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة.
 Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
   </programme>
-  <programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="AD Sports 1.tl">
+  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="AD Sports 1.tl">
     <title lang="en">أبو ظبي الرياضية 1 - AD Sports 1</title>
     <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة.
 Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
   </programme>
-  <programme start="20260130210000 +0000" stop="20260130220000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">دوري الإمارات للمحترفين تحت سن 23:الجزيرة × البطائح - UAE Pro League U23:Al Jazira x Al-Bataeh</title>
+    <desc lang="en">ابقوا على تواصل مع دوري الإمارات تحت سن 23.
+Stay tuned to the latest matches from the UAE Pro League U23.</desc>
   </programme>
-  <programme start="20260130220000 +0000" stop="20260130230000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260130220000 +0000" stop="20260130223000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">أكشن في إسبوع - Follow The Flow</title>
+    <desc lang="en">تابعوا من هنا البرنامج الرياضي، أكشن في إسبوع.
+Stay tuned to this program, 'Follow The Flow'.</desc>
   </programme>
-  <programme start="20260130230000 +0000" stop="20260131000000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260130223000 +0000" stop="20260131001500 +0000" channel="AD Sports 1.tl">
+    <title lang="en">دوري أدنوك للمحترفين:عجمان × شباب الأهلي - ADNOC Pro League:Ajman x Shabab Al-Ahli</title>
+    <desc lang="en">ترقبوا مشاهدة أفضل ما في كرة القدم من دوري أدنوك للمحترفين.
+Stay tuned to watch the best of football from the Adnoc Pro League.</desc>
   </programme>
-  <programme start="20260131000000 +0000" stop="20260131010000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131001500 +0000" stop="20260131020000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">طواف الإمارات - UAE Cycling Tour</title>
+    <desc lang="en">ابقوا على تواصل مع فعاليات طواف الإمارات.
+Stay tuned to UAE Cycling Tour.</desc>
   </programme>
-  <programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131020000 +0000" stop="20260131033000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">طواف الإمارات - UAE Cycling Tour</title>
+    <desc lang="en">ابقوا على تواصل مع فعاليات طواف الإمارات.
+Stay tuned to UAE Cycling Tour.</desc>
   </programme>
-  <programme start="20260131020000 +0000" stop="20260131030000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131033000 +0000" stop="20260131040000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">مونديال السيارات الرياضية - Motor Sport Mundial</title>
+    <desc lang="en">تابعوا آخر سباقات مونديال السيارات الرياضية.
+Follow the latest races from the Motor Sports Mundial.</desc>
   </programme>
-  <programme start="20260131030000 +0000" stop="20260131040000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131040000 +0000" stop="20260131060000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">دوري أدنوك للمحترفين:الوصل × خورفكان - ADNOC Pro League:Al Wasl X Khorfakkan</title>
+    <desc lang="en">ترقبوا مشاهدة أفضل ما في كرة القدم من دوري أدنوك للمحترفين.
+Stay tuned to watch the best of football from the Adnoc Pro League.</desc>
   </programme>
-  <programme start="20260131040000 +0000" stop="20260131050000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">بطولة الاتحاد الدولي لكرة السلة - FIBA World of Basketball</title>
+    <desc lang="en">تابعوا المسابقة الدولية لكرة السلة، حيث تتنافس المنتخبات الوطنية وينظّمها الاتحاد الدولي لكرة السلة.
+An international basketball competition contested by the national teams of the members of the International Basketball Federation.</desc>
   </programme>
-  <programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131063000 +0000" stop="20260131083000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">دوري الإمارات للمحترفين تحت سن 23:الجزيرة × البطائح - UAE Pro League U23:Al Jazira x Al-Bataeh</title>
+    <desc lang="en">ابقوا على تواصل مع دوري الإمارات تحت سن 23.
+Stay tuned to the latest matches from the UAE Pro League U23.</desc>
   </programme>
-  <programme start="20260131060000 +0000" stop="20260131070000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131083000 +0000" stop="20260131093000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">بيرلسكوني مُدان للفوز - Berlusconi Condemned To Win</title>
+    <desc lang="en">يرصد كيف حوّل بيرلسكوني نادي إي سي ميلان إلى قوة كبرى، مستفيدًا من نجاحه لدفع صعوده من العقارات والتلفزيون إلى مجد كرة القدم وأعلى منصب سياسي في إيطاليا.
+Charts how Berlusconi built A.C. Milan into a powerhouse, leveraging its success to boost his rise from real estate and TV to football glory and Italy’s top political office.</desc>
   </programme>
-  <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131093000 +0000" stop="20260131113000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">دوري أدنوك للمحترفين:النصر× بني ياس - ADNOC Pro League:Al Nasr X Bani Yas</title>
+    <desc lang="en">ترقبوا مشاهدة أفضل ما في كرة القدم من دوري أدنوك للمحترفين.
+Stay tuned to watch the best of football from the Adnoc Pro League.</desc>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131113000 +0000" stop="20260131120000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">بطولة الاتحاد الدولي لكرة السلة - FIBA World of Basketball</title>
+    <desc lang="en">تابعوا المسابقة الدولية لكرة السلة، حيث تتنافس المنتخبات الوطنية وينظّمها الاتحاد الدولي لكرة السلة.
+An international basketball competition contested by the national teams of the members of the International Basketball Federation.</desc>
   </programme>
   <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+    <title lang="en">غوالازيمو - Goalissimo</title>
+    <desc lang="en">يعرض مباريات كرة القدم من بطولة كأس الأمم الأوروبية، التي تقام في جميع أنحاء العالم.
+Recorded or live show that presents football matches of the European Championships, which are held around the world.</desc>
   </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131130000 +0000" stop="20260131133000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">الحادية عشر بالعربي - Eleven in Arabic</title>
+    <desc lang="en">دليلك إلى آخر أخبار ومستجدات كرة القدم الأوروبية لهذا الموسم.
+Your guide to the latest season of European football.</desc>
   </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131133000 +0000" stop="20260131143000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">استوديو:كأس رئيس الدولة لكرة القدم - Studio:UAE Football Presidents Cup</title>
+    <desc lang="en">لا تفوتوا جميع التحليلات واللقاءات والأنشطة التي تدور مباشرة في أرجاء الاستوديو.
+Stay tuned to all the action and analysis live from the studio.</desc>
   </programme>
-  <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131143000 +0000" stop="20260131163000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">كأس رئيس دولة الإمارات:دبا × العين - UAE President's Cup:Dibba X Al-Ain</title>
+    <desc lang="en">تابعوا آخر مباريات كأس رئيس دولة الإمارات العربية المتحدة، لكرة القدم.
+Follow the latest matches of the UAE President's Football Cup.</desc>
   </programme>
-  <programme start="20260131160000 +0000" stop="20260131170000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131163000 +0000" stop="20260131170000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">استوديو:كأس رئيس الدولة لكرة القدم - Studio:UAE Football Presidents Cup</title>
+    <desc lang="en">لا تفوتوا جميع التحليلات واللقاءات والأنشطة التي تدور مباشرة في أرجاء الاستوديو.
+Stay tuned to all the action and analysis live from the studio.</desc>
   </programme>
-  <programme start="20260131170000 +0000" stop="20260131180000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131170000 +0000" stop="20260131183000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">90 دقيقة - 90 Minutes</title>
+    <desc lang="en">ابقوا على تواصل مع برنامج (90 دقيقة).
+Stay tuned to this program (90 Minutes).</desc>
   </programme>
-  <programme start="20260131180000 +0000" stop="20260131190000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131183000 +0000" stop="20260131193000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">فاينل سكور - Final Score</title>
+    <desc lang="en">برنامج رياضي يستعرض أخبار دوري أدنوك للمحترفين، ويقدم جميع المعلومات المتعلقة بالمباريات والنتائج والمواجهات والقرارات الخاصة بالدوري.
+This is your ultimate guide to the fixture, decisions and match schedules of the much-awaited ADNOC Premiere League, don't miss it!</desc>
   </programme>
-  <programme start="20260131190000 +0000" stop="20260131200000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131193000 +0000" stop="20260131200000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">مجلة دوري أدنوك للمحترفين:الجولة 14 - ADNOC Pro League Magazine:Round 14</title>
+    <desc lang="en">ترقبوا مشاهدة أهم أخبار كرة القدم من دوري أدنوك للمحترفين ضمن هذه المجلة اليومية.
+Watch the best of football from the ADNOC Pro League on this show.</desc>
   </programme>
-  <programme start="20260131200000 +0000" stop="20260131210000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
-  </programme>
-  <programme start="20260131210000 +0000" stop="20260131220000 +0000" channel="AD Sports 1.tl">
-    <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
-    <desc lang="en">تبث أفضل وأشهر دوريات كرة القدم محلية وعالمية، فتروي نهم عشاق الساحرة المستديرة
-Broadcasts the best regional and local sporting events such as UFL, AFC and UFC.</desc>
+  <programme start="20260131200000 +0000" stop="20260131220000 +0000" channel="AD Sports 1.tl">
+    <title lang="en">كأس رئيس دولة الإمارات:دبا × العين - UAE President's Cup:Dibba X Al-Ain</title>
+    <desc lang="en">تابعوا آخر مباريات كأس رئيس دولة الإمارات العربية المتحدة، لكرة القدم.
+Follow the latest matches of the UAE President's Football Cup.</desc>
   </programme>
   <programme start="20260131220000 +0000" stop="20260131230000 +0000" channel="AD Sports 1.tl">
     <title lang="en">أبوظبي الرياضية 1 - AD Sports 1</title>
@@ -8226,135 +8277,100 @@ Broadcasts both regional and local sporting events with match analysis and news.
     <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار.
 Broadcasts both regional and local sporting events with match analysis and news.</desc>
   </programme>
-  <programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="AD Sports 2.tl">
+  <programme start="20260130190000 +0000" stop="20260130220000 +0000" channel="AD Sports 2.tl">
     <title lang="en">أبو ظبي الرياضية 2 - AD Sports 2</title>
     <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار.
 Broadcasts both regional and local sporting events with match analysis and news.</desc>
   </programme>
-  <programme start="20260130210000 +0000" stop="20260130220000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260130220000 +0000" stop="20260131000000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">بطولة خالد بن محمد بن زايد للجوجيتسو:الجولة 1 - Khalid bin Mohammed Jiu Jitsu Championship:Round 1</title>
+    <desc lang="en">تابعوا فعاليات بطولة خالد بن محمد بن زايد للجوجيتسو.
+Follow the events of Khalid bin Mohammed Jiu Jitsu Championship.</desc>
   </programme>
-  <programme start="20260130220000 +0000" stop="20260130230000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131000000 +0000" stop="20260131020000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">بطولة خالد بن محمد بن زايد للجوجيتسو:الجولة 1 - Khalid bin Mohammed Jiu Jitsu Championship:Round 1</title>
+    <desc lang="en">تابعوا فعاليات بطولة خالد بن محمد بن زايد للجوجيتسو.
+Follow the events of Khalid bin Mohammed Jiu Jitsu Championship.</desc>
   </programme>
-  <programme start="20260130230000 +0000" stop="20260131000000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131020000 +0000" stop="20260131040000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">بطولة خالد بن محمد بن زايد للجوجيتسو:الجولة 1 - Khalid bin Mohammed Jiu Jitsu Championship:Round 1</title>
+    <desc lang="en">تابعوا فعاليات بطولة خالد بن محمد بن زايد للجوجيتسو.
+Follow the events of Khalid bin Mohammed Jiu Jitsu Championship.</desc>
   </programme>
-  <programme start="20260131000000 +0000" stop="20260131010000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131020000 +0000" stop="20260131030000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131030000 +0000" stop="20260131040000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131040000 +0000" stop="20260131050000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131040000 +0000" stop="20260131060000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">مهرجان خادم الحرمين الشريفين للهجن:جلسة الصباح - Custodian of Two Holy Mosques Camel Fest..:Morning Session</title>
+    <desc lang="en">تابعوا فعاليات وأحداث مهرجان خادم الحرمين الشريفين للهجن.
+Don't miss all the action from the Custodian of Two Holy Mosques Camel Festival.</desc>
   </programme>
   <programme start="20260131060000 +0000" stop="20260131070000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+    <title lang="en">ماكس باور - Max Power</title>
+    <desc lang="en">يسلط الضوء آخر الأخبار وأحداث رياضة السيارات الدولية.
+This program features highlights and up-to-the-minute news from international motorsport events.</desc>
   </programme>
-  <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131070000 +0000" stop="20260131073000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">مونديال السيارات الرياضية - Motor Sport Mundial</title>
+    <desc lang="en">تابعوا آخر سباقات مونديال السيارات الرياضية.
+Follow the latest races from the Motor Sports Mundial.</desc>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131073000 +0000" stop="20260131083000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">جولة سانتوس داون أندر:نهائي الرجال - Cycling: Santos Tour Down Under:Men Final Program</title>
+    <desc lang="en">تابعوا من هنا فعاليات سباق جولة سانتوس داون أندرللدراجات.
+Stay tuned to the events of Cycling: Santos Tour Down Under 2024.</desc>
   </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131083000 +0000" stop="20260131104500 +0000" channel="AD Sports 2.tl">
+    <title lang="en">سباقات جبل علي للفروسية - Jebel Ali Flat Races</title>
+    <desc lang="en">تابعوا المنافسة والحماس ضمن سباقات جبل علي للفروسية.
+Stay tuned to the Jabel Ali flat race.</desc>
   </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131104500 +0000" stop="20260131124500 +0000" channel="AD Sports 2.tl">
+    <title lang="en">سباقات جبل علي للفروسية - Jebel Ali Flat Races</title>
+    <desc lang="en">تابعوا المنافسة والحماس ضمن سباقات جبل علي للفروسية.
+Stay tuned to the Jabel Ali flat race.</desc>
   </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131124500 +0000" stop="20260131131500 +0000" channel="AD Sports 2.tl">
+    <title lang="en">أكشن في إسبوع - Follow The Flow</title>
+    <desc lang="en">تابعوا من هنا البرنامج الرياضي، أكشن في إسبوع.
+Stay tuned to this program, 'Follow The Flow'.</desc>
   </programme>
-  <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131131500 +0000" stop="20260131133000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">مانشستر سيتي - قبل المباراة:مانشستر سيتي × غلطة سراي - City TV - Pre Match:Manchester City X Galatasaray</title>
+    <desc lang="en">تابعوا التحضيرات التي تسبق مباريات مانشستر سيتي، إضافة للقاءات سريعة.
+Follow the preparations of Manchester City club before the matches, in addition to quick interviews.</desc>
   </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131133000 +0000" stop="20260131153000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">نادي مانشستر سيتي لكرة القدم:مانشستر سيتي × غلطة سراي - Manchester City Football Club:Manchester City X Galatasaray</title>
+    <desc lang="en">تابعوا هذا البرنامج الخاص عن نادي مانشستر سيتي لكرة القدم.
+Follow this special program about Manchester City Football Club.</desc>
   </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131153000 +0000" stop="20260131163000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">إنسايد سيتي - Inside City</title>
+    <desc lang="en">ابقوا على تواصل معنا لمشاهدة هذا الحدث من برنامج إنسايد سيتي.
+Stay tuned to watch this special event from Inside City program.</desc>
   </programme>
-  <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131160000 +0000" stop="20260131170000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131163000 +0000" stop="20260131170000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">بطولة الاتحاد الدولي لكرة السلة - FIBA World of Basketball</title>
+    <desc lang="en">تابعوا المسابقة الدولية لكرة السلة، حيث تتنافس المنتخبات الوطنية وينظّمها الاتحاد الدولي لكرة السلة.
+An international basketball competition contested by the national teams of the members of the International Basketball Federation.</desc>
   </programme>
   <programme start="20260131170000 +0000" stop="20260131180000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+    <title lang="en">سباق زايد الخيري:ميامي، أميركا - Zayed Charity Run:Miami, USA</title>
+    <desc lang="en">ابقوا على تواصل مع آخر فعاليات سباق زايد الخيري.
+Stay tuned to the latest events from the Zayed Charity Run.</desc>
   </programme>
-  <programme start="20260131180000 +0000" stop="20260131190000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131180000 +0000" stop="20260131183000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">بطولة أبوظبي الكبرى للرماية - Abu Dhabi Grand Shooting Championship</title>
+    <desc lang="en">منافسات قوية، تركيز عالي، ولحظات حاسمة تحدد الأبطال في بطولة أبوظبي الكبرى للرماية.
+Intense competitions, sharp focus, and decisive moments that crown the champions at the Abu Dhabi Grand Shooting Championship.</desc>
   </programme>
-  <programme start="20260131190000 +0000" stop="20260131200000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131183000 +0000" stop="20260131193000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">جولة سانتوس داون أندر:نهائي الرجال - Cycling: Santos Tour Down Under:Men Final Program</title>
+    <desc lang="en">تابعوا من هنا فعاليات سباق جولة سانتوس داون أندرللدراجات.
+Stay tuned to the events of Cycling: Santos Tour Down Under 2024.</desc>
   </programme>
-  <programme start="20260131200000 +0000" stop="20260131210000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
-  </programme>
-  <programme start="20260131210000 +0000" stop="20260131220000 +0000" channel="AD Sports 2.tl">
-    <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
-    <desc lang="en">تبث أفضل وأشهر الأحداث الرياضية محلية وعالمية ومترافقة بالتحليل وآخر الأخبار
-Broadcasts both regional and local sporting events with match analysis and news.</desc>
+  <programme start="20260131193000 +0000" stop="20260131213000 +0000" channel="AD Sports 2.tl">
+    <title lang="en">أسرار الرياضة - Sport Confidential</title>
+    <desc lang="en">تابعوا هذا البرنامج الخاص الذي يأتيكم بالأسرار الرياضية التي لم تعرفوها من قبل.
+Follow this special program that features sports secrets you've never known before.</desc>
   </programme>
   <programme start="20260131220000 +0000" stop="20260131230000 +0000" channel="AD Sports 2.tl">
     <title lang="en">أبوظبي الرياضية 2 - AD Sports 2</title>
@@ -8613,6 +8629,114 @@ Broadcasts both regional and local sporting events with match analysis and news.
   <programme start="20260202000000 +0000" stop="20260202235959 +0000" channel="AL Arabiya English.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
   </programme>
+  <programme start="20260129230000 +0000" stop="20260129233000 +0000" channel="ANC.tl">
+    <title lang="en">HIYAS SA ESCODA</title>
+  </programme>
+  <programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="ANC.tl">
+    <title lang="en">إكزوكيتيف كلاس - Executive Class</title>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="ANC.tl">
+    <title lang="en">هيدستارت - Headstart</title>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130013000 +0000" channel="ANC.tl">
+    <title lang="en">ذا بوزنيس أوتلوك - The Business Outlook</title>
+  </programme>
+  <programme start="20260130013000 +0000" stop="20260130020000 +0000" channel="ANC.tl">
+    <title lang="en">ماركيت إيدج - Market Edge</title>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130023000 +0000" channel="ANC.tl">
+    <title lang="en">هاتكوبي أون هيدستارت - Hotcopy On Headstart</title>
+  </programme>
+  <programme start="20260130023000 +0000" stop="20260130030000 +0000" channel="ANC.tl">
+    <title lang="en">AMERICA'S HIDDEN HISTORY</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130040000 +0000" channel="ANC.tl">
+    <title lang="en">LUBOG SA KATIWALIAN</title>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130050000 +0000" channel="ANC.tl">
+    <title lang="en">ديتلاين فيليبينز - Dateline Philippines</title>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130053000 +0000" channel="ANC.tl">
+    <title lang="en">24X24</title>
+  </programme>
+  <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="ANC.tl">
+    <title lang="en">24X24</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="ANC.tl">
+    <title lang="en">إن غود شايب - In Good Shape</title>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130070000 +0000" channel="ANC.tl">
+    <title lang="en">داياو - Dayaw</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130080000 +0000" channel="ANC.tl">
+    <title lang="en">ماركيت إيدج - Market Edge</title>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="ANC.tl">
+    <title lang="en">BEYOND THE EXCHANGE</title>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130093000 +0000" channel="ANC.tl">
+    <title lang="en">توب ستوري - Top Story</title>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130100000 +0000" channel="ANC.tl">
+    <title lang="en">سيتيزن بينوي - Citizen Pinoy</title>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130103000 +0000" channel="ANC.tl">
+    <title lang="en">BANKER AFTER DARK</title>
+  </programme>
+  <programme start="20260130103000 +0000" stop="20260130110000 +0000" channel="ANC.tl">
+    <title lang="en">كاسا دازا - Casa Daza</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130113000 +0000" channel="ANC.tl">
+    <title lang="en">إن غود شايب - In Good Shape</title>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130120000 +0000" channel="ANC.tl">
+    <title lang="en">أرتس 21 - Arts.21</title>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130123000 +0000" channel="ANC.tl">
+    <title lang="en">ذا بوزنيس أوتلوك - The Business Outlook</title>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130130000 +0000" channel="ANC.tl">
+    <title lang="en">THE A-LIST</title>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="ANC.tl">
+    <title lang="en">ذا وورلد تونايت - The World Tonight</title>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="ANC.tl">
+    <title lang="en">BANKER AFTER DARK</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130143000 +0000" channel="ANC.tl">
+    <title lang="en">مايد إن جيرميني - Made in Germany</title>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130150000 +0000" channel="ANC.tl">
+    <title lang="en">ريف+ - Rev+</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130153000 +0000" channel="ANC.tl">
+    <title lang="en">شيسينغ فليفورز - Chasing Flavors</title>
+  </programme>
+  <programme start="20260130153000 +0000" stop="20260130160000 +0000" channel="ANC.tl">
+    <title lang="en">شيسينغ فليفورز - Chasing Flavors</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="ANC.tl">
+    <title lang="en">ذا وورلد تونايت - The World Tonight</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130170000 +0000" channel="ANC.tl">
+    <title lang="en">BEYOND THE EXCHANGE</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="ANC.tl">
+    <title lang="en">هيدستارت - Headstart</title>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130183000 +0000" channel="ANC.tl">
+    <title lang="en">لوكال ليجندز - Local Legends</title>
+  </programme>
+  <programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="ANC.tl">
+    <title lang="en">أرتس 21 - Arts.21</title>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130193000 +0000" channel="ANC.tl">
+    <title lang="en">إيس أون ذا موف - EIC On The Move</title>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130200000 +0000" channel="ANC.tl">
+    <title lang="en">THE A-LIST</title>
+  </programme>
   <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="ANC.tl">
     <title lang="en">بيتشد - Beached</title>
   </programme>
@@ -8831,6 +8955,654 @@ Broadcasts both regional and local sporting events with match analysis and news.
   </programme>
   <programme start="20260201230000 +0000" stop="20260202200000 +0000" channel="ANC.tl">
     <title lang="en">ANC</title>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130015800 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">تحقيق مع مواطنه</title>
+    <desc lang="en">تحقيق مع مواطنه</desc>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130044300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">أما عن حالة الطقس</title>
+    <desc lang="en">أما عن حالة الطقس</desc>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130063000 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">حلقة الرعب</title>
+    <desc lang="en">حلقة الرعب</desc>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130083400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ملاكى إسكندرية</title>
+    <desc lang="en">ملاكى إسكندرية</desc>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130103100 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">شيخ جاكسون</title>
+    <desc lang="en">شيخ جاكسون</desc>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130130200 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">من أجل زيكو</title>
+    <desc lang="en">من أجل زيكو</desc>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130145700 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">خليك فى حالك</title>
+    <desc lang="en">خليك فى حالك</desc>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130172500 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">الفرقه  12</title>
+    <desc lang="en">الفرقه  12</desc>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130195900 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ولاد العم</title>
+    <desc lang="en">ولاد العم</desc>
+  </programme>
+  <programme start="20260130200500 +0000" stop="20260130213300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">الغسالة</title>
+    <desc lang="en">الغسالة</desc>
+  </programme>
+  <programme start="20260130220000 +0000" stop="20260130232900 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ثمن دستة أشرار</title>
+    <desc lang="en">ثمن دستة أشرار</desc>
+  </programme>
+  <programme start="20260131003000 +0000" stop="20260131022000 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">عيش الغراب</title>
+    <desc lang="en">عيش الغراب</desc>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131044100 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">مذبحة الشرفاء</title>
+    <desc lang="en">مذبحة الشرفاء</desc>
+  </programme>
+  <programme start="20260131050000 +0000" stop="20260131063400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">درب السما</title>
+    <desc lang="en">درب السما</desc>
+  </programme>
+  <programme start="20260131070000 +0000" stop="20260131084300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">المشخصاتى</title>
+    <desc lang="en">المشخصاتى</desc>
+  </programme>
+  <programme start="20260131090000 +0000" stop="20260131105200 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">كده رضا</title>
+    <desc lang="en">كده رضا</desc>
+  </programme>
+  <programme start="20260131113000 +0000" stop="20260131132900 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ولاد العم</title>
+    <desc lang="en">ولاد العم</desc>
+  </programme>
+  <programme start="20260131133500 +0000" stop="20260131145400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ملكات</title>
+    <desc lang="en">ملكات</desc>
+  </programme>
+  <programme start="20260131160000 +0000" stop="20260131172800 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">تحقيق مع مواطنه</title>
+    <desc lang="en">تحقيق مع مواطنه</desc>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131193500 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">عريس من جهة أمنية</title>
+    <desc lang="en">عريس من جهة أمنية</desc>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131214500 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">فول الصين العظيم</title>
+    <desc lang="en">فول الصين العظيم</desc>
+  </programme>
+  <programme start="20260131220000 +0000" stop="20260131233200 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">من أجل زيكو</title>
+    <desc lang="en">من أجل زيكو</desc>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130021200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الاسطي الدكتور</title>
+    <desc lang="en">الاسطي الدكتور</desc>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130043600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">إسماعيل يس فى جنينة الحيوانات</title>
+    <desc lang="en">إسماعيل يس فى جنينة الحيوانات</desc>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130063700 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">المشاغبون فى الجيش</title>
+    <desc lang="en">المشاغبون فى الجيش</desc>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130084300 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">سوق السلاح</title>
+    <desc lang="en">سوق السلاح</desc>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130104000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">زوجة رجل مهم</title>
+    <desc lang="en">زوجة رجل مهم</desc>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130125000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">سيدتى الجميله</title>
+    <desc lang="en">سيدتى الجميله</desc>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130152600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">القبض على حمزه</title>
+    <desc lang="en">القبض على حمزه</desc>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130175400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">سبعه ايام في الجنه</title>
+    <desc lang="en">سبعه ايام في الجنه</desc>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130193000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الأزواج الشياطين</title>
+    <desc lang="en">الأزواج الشياطين</desc>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130214500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">غصن الزيتون</title>
+    <desc lang="en">غصن الزيتون</desc>
+  </programme>
+  <programme start="20260130223000 +0000" stop="20260131000200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">شادر السمك</title>
+    <desc lang="en">شادر السمك</desc>
+  </programme>
+  <programme start="20260131003000 +0000" stop="20260131022100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الجبان</title>
+    <desc lang="en">الجبان</desc>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131044600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ربيع الحب</title>
+    <desc lang="en">ربيع الحب</desc>
+  </programme>
+  <programme start="20260131050000 +0000" stop="20260131062600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">العصابة</title>
+    <desc lang="en">العصابة</desc>
+  </programme>
+  <programme start="20260131063000 +0000" stop="20260131083900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">غازية من سنباط</title>
+    <desc lang="en">غازية من سنباط</desc>
+  </programme>
+  <programme start="20260131090000 +0000" stop="20260131105700 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">أهل القمة</title>
+    <desc lang="en">أهل القمة</desc>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131124500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ابن النيل</title>
+    <desc lang="en">ابن النيل</desc>
+  </programme>
+  <programme start="20260131133000 +0000" stop="20260131154100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">قطار الذكريات</title>
+    <desc lang="en">قطار الذكريات</desc>
+  </programme>
+  <programme start="20260131160000 +0000" stop="20260131172500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">انا و مراتي و الجو</title>
+    <desc lang="en">انا و مراتي و الجو</desc>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131192100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">سمورة و البنت القموره</title>
+    <desc lang="en">سمورة و البنت القموره</desc>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131214100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الباب المفتوح</title>
+    <desc lang="en">الباب المفتوح</desc>
+  </programme>
+  <programme start="20260131220000 +0000" stop="20260131234900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الاعتراف الأخير</title>
+    <desc lang="en">الاعتراف الأخير</desc>
+  </programme>
+  <programme start="20260130000500 +0000" stop="20260130012000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130075000 +0000" channel="ART Cinema.tl">
+    <title lang="en">بوستر</title>
+    <desc lang="en">بوستر</desc>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130091500 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130114000 +0000" channel="ART Cinema.tl">
+    <title lang="en">الذراري الحمر</title>
+    <desc lang="en">الذراري الحمر</desc>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130140300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260130140500 +0000" stop="20260130152000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130174000 +0000" channel="ART Cinema.tl">
+    <title lang="en">الذراري الحمر</title>
+    <desc lang="en">الذراري الحمر</desc>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130200300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260130200500 +0000" stop="20260130212000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260130220000 +0000" stop="20260130234000 +0000" channel="ART Cinema.tl">
+    <title lang="en">الذراري الحمر</title>
+    <desc lang="en">الذراري الحمر</desc>
+  </programme>
+  <programme start="20260131000000 +0000" stop="20260131020300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131075000 +0000" channel="ART Cinema.tl">
+    <title lang="en">بوستر</title>
+    <desc lang="en">بوستر</desc>
+  </programme>
+  <programme start="20260131080000 +0000" stop="20260131100300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260131100500 +0000" stop="20260131112000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260131120000 +0000" stop="20260131134000 +0000" channel="ART Cinema.tl">
+    <title lang="en">الذراري الحمر</title>
+    <desc lang="en">الذراري الحمر</desc>
+  </programme>
+  <programme start="20260131140000 +0000" stop="20260131160300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260131160500 +0000" stop="20260131172000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131194000 +0000" channel="ART Cinema.tl">
+    <title lang="en">الذراري الحمر</title>
+    <desc lang="en">الذراري الحمر</desc>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131220300 +0000" channel="ART Cinema.tl">
+    <title lang="en">اللعب مع العيال</title>
+    <desc lang="en">اللعب مع العيال</desc>
+  </programme>
+  <programme start="20260131220500 +0000" stop="20260131232000 +0000" channel="ART Cinema.tl">
+    <title lang="en">قوارير</title>
+    <desc lang="en">قوارير</desc>
+  </programme>
+  <programme start="20260129230000 +0000" stop="20260129235400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130005400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130015300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130025000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130033500 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130044300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130055400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130065400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130075300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130085000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130093500 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130104300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130115400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130125400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130135300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130145000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130153500 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130163600 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130175400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130185400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130195400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130205000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260130210000 +0000" stop="20260130213700 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260130220000 +0000" stop="20260130223600 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260130230000 +0000" stop="20260130235400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260131000000 +0000" stop="20260131005400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260131010000 +0000" stop="20260131015400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260131020000 +0000" stop="20260131025000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131033700 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260131040000 +0000" stop="20260131043600 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260131050000 +0000" stop="20260131055400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260131060000 +0000" stop="20260131065400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260131070000 +0000" stop="20260131075400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260131080000 +0000" stop="20260131085000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260131090000 +0000" stop="20260131093700 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260131100000 +0000" stop="20260131103600 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131115400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260131120000 +0000" stop="20260131125400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260131130000 +0000" stop="20260131135400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260131140000 +0000" stop="20260131145000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131153700 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260131160000 +0000" stop="20260131163900 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131173400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131183300 +0000" channel="ART Hekayat.tl">
+    <title lang="en">رسالة الإمام محمد بن إدريس الشافعي</title>
+    <desc lang="en">رسالة الإمام محمد بن إدريس الشافعي</desc>
+  </programme>
+  <programme start="20260131190000 +0000" stop="20260131193400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">مكتوب عليا</title>
+    <desc lang="en">مكتوب عليا</desc>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131204000 +0000" channel="ART Hekayat.tl">
+    <title lang="en">نجيب زاهي زركش</title>
+    <desc lang="en">نجيب زاهي زركش</desc>
+  </programme>
+  <programme start="20260131210000 +0000" stop="20260131213400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">جزيرة غمام</title>
+    <desc lang="en">جزيرة غمام</desc>
+  </programme>
+  <programme start="20260131220000 +0000" stop="20260131223900 +0000" channel="ART Hekayat.tl">
+    <title lang="en">حارة القبة</title>
+    <desc lang="en">حارة القبة</desc>
+  </programme>
+  <programme start="20260131230000 +0000" stop="20260131233400 +0000" channel="ART Hekayat.tl">
+    <title lang="en">دايما عامر</title>
+    <desc lang="en">دايما عامر</desc>
+  </programme>
+  <programme start="20260129230000 +0000" stop="20260129234600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130005400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130015300 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260130030500 +0000" stop="20260130034900 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130044600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130054600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130065400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130075300 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130090000 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260130090500 +0000" stop="20260130094900 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130104600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130114600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130125400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130135300 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260130150500 +0000" stop="20260130154900 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130164600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130174800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130185400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130195100 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130205200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260130210000 +0000" stop="20260130214600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260130220000 +0000" stop="20260130224600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260130230000 +0000" stop="20260130234800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260131000000 +0000" stop="20260131005400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260131010000 +0000" stop="20260131015100 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260131020000 +0000" stop="20260131025200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260131030000 +0000" stop="20260131034600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260131040000 +0000" stop="20260131044600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260131050000 +0000" stop="20260131054800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260131060000 +0000" stop="20260131065400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260131070000 +0000" stop="20260131075100 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260131080000 +0000" stop="20260131085200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260131090000 +0000" stop="20260131094600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260131100000 +0000" stop="20260131104600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260131110000 +0000" stop="20260131114800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260131120000 +0000" stop="20260131125400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260131130000 +0000" stop="20260131135100 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260131140000 +0000" stop="20260131145200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260131150000 +0000" stop="20260131154600 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260131160000 +0000" stop="20260131164800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131175200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
+  </programme>
+  <programme start="20260131180000 +0000" stop="20260131184200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">هوانم جاردن سيتي - الجزء الثاني</title>
+    <desc lang="en">هوانم جاردن سيتي - الجزء الثاني</desc>
+  </programme>
+  <programme start="20260131190000 +0000" stop="20260131194900 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">أحلام العمر</title>
+    <desc lang="en">أحلام العمر</desc>
+  </programme>
+  <programme start="20260131200000 +0000" stop="20260131204400 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">حسك عينك</title>
+    <desc lang="en">حسك عينك</desc>
+  </programme>
+  <programme start="20260131210000 +0000" stop="20260131214500 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">عبده افكار</title>
+    <desc lang="en">عبده افكار</desc>
+  </programme>
+  <programme start="20260131220000 +0000" stop="20260131224800 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">الحقيقة و السراب</title>
+    <desc lang="en">الحقيقة و السراب</desc>
+  </programme>
+  <programme start="20260131230000 +0000" stop="20260131235200 +0000" channel="ART Hekayat 2.tl">
+    <title lang="en">وقال البحر</title>
+    <desc lang="en">وقال البحر</desc>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130235959 +0000" channel="Abdul Majeed Abdullah.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
@@ -11602,12 +12374,12 @@ Amidst real events that shake the conscience of the world during a tumultuous ye
     <desc lang="en">ضمن أحداث حقيقية هزت ضمير العالم في فترة عاصفة من التاريخ السعودي، يجد خالد الطيان هذه المرة نفسه في مأزق لا يخطر على البال.
 Amidst real events that shake the conscience of the world during a tumultuous year in Saudi Arabia, Khaled Al Tayan finds himself in an unexpected crisis.</desc>
   </programme>
-  <programme start="20260130115303 +0000" stop="20260130124223 +0000" channel="Al Asouf Channel.tl">
+  <programme start="20260130115303 +0000" stop="20260130124222 +0000" channel="Al Asouf Channel.tl">
     <title lang="en">العاصوف الموسم 2 الحلقة 10 - Al Asouf Season 2 Episode 10</title>
     <desc lang="en">ضمن أحداث حقيقية هزت ضمير العالم في فترة عاصفة من التاريخ السعودي، يجد خالد الطيان هذه المرة نفسه في مأزق لا يخطر على البال.
 Amidst real events that shake the conscience of the world during a tumultuous year in Saudi Arabia, Khaled Al Tayan finds himself in an unexpected crisis.</desc>
   </programme>
-  <programme start="20260130124223 +0000" stop="20260130133303 +0000" channel="Al Asouf Channel.tl">
+  <programme start="20260130124222 +0000" stop="20260130133303 +0000" channel="Al Asouf Channel.tl">
     <title lang="en">العاصوف الموسم 2 الحلقة 11 - Al Asouf Season 2 Episode 11</title>
     <desc lang="en">ضمن أحداث حقيقية هزت ضمير العالم في فترة عاصفة من التاريخ السعودي، يجد خالد الطيان هذه المرة نفسه في مأزق لا يخطر على البال.
 Amidst real events that shake the conscience of the world during a tumultuous year in Saudi Arabia, Khaled Al Tayan finds himself in an unexpected crisis.</desc>
@@ -14547,41 +15319,6 @@ Be at the forefront of top stories, breaking news, current affairs and all there
     <desc lang="en">كُن في طليعة متابعي أهم القصص، الأخبار العاجلة، والشؤون الراهنة وكل ما ينبغي معرفته في المنطقة العربية وحول العالم.
 Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="Al Hayat.tl">
-    <title lang="en">الحياة - Al Hayat</title>
-    <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
-Egyptian channel broadcasts a variety of entertainment programs, series, and interesting talk shows dealing with economy, politics and latest developments in Egypt and Arabia.</desc>
-  </programme>
   <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="Al Hayat.tl">
     <title lang="en">الحياة - Al Hayat</title>
     <desc lang="en">قناة مصرية متنوعة تبث برامج ترفيهية ومسلسلات متنوعة وحوارات شيقة تتناول الاقتصاد والسياسة وآخر المستجدات على الساحة المصرية والعربية.
@@ -14932,12 +15669,12 @@ Iconic Japanese game show Takeshi’s Castle comes to Saudi shores as Al Hisn, w
     <desc lang="en">الأخيرة
 Episodes</desc>
   </programme>
-  <programme start="20260130113820 +0000" stop="20260130123121 +0000" channel="Al Hisn Channel.tl">
+  <programme start="20260130113820 +0000" stop="20260130123120 +0000" channel="Al Hisn Channel.tl">
     <title lang="en">الحصن الموسم 2 الحلقة 1 - Takeshi's Castle Season 2 Episode 1</title>
     <desc lang="en">من اليابان إلى الرياض، تابعوا برنامج المسابقات الياباني تاكيشيز كاسل والذي يعرف بالحصن بحلته الجديدة وأحداثه المشوقة التي ستخطف الأنفاس وتشعل فتيل المنافسة.
 Iconic Japanese game show Takeshi’s Castle comes to Saudi shores as Al Hisn, with its own spin on ‎the hilarious concept.‎‎‎</desc>
   </programme>
-  <programme start="20260130123121 +0000" stop="20260130132210 +0000" channel="Al Hisn Channel.tl">
+  <programme start="20260130123120 +0000" stop="20260130132210 +0000" channel="Al Hisn Channel.tl">
     <title lang="en">الحصن الموسم 2 الحلقة 2 - Takeshi's Castle Season 2 Episode 2</title>
     <desc lang="en">من اليابان إلى الرياض، تابعوا برنامج المسابقات الياباني تاكيشيز كاسل والذي يعرف بالحصن بحلته الجديدة وأحداثه المشوقة التي ستخطف الأنفاس وتشعل فتيل المنافسة.
 Iconic Japanese game show Takeshi’s Castle comes to Saudi shores as Al Hisn, with its own spin on ‎the hilarious concept.‎‎‎</desc>
@@ -28156,61 +28893,6 @@ An in-depth look into wide-ranging topics history and civilization, to politics,
     <desc lang="en">برامج وثائقية هامة وممتعة، تتناول شتى المواضيع مثل: التاريخ، الحضارة، السياسة، العلوم، الرياضة، ومعظم النشاطات الإنسانية بكل صورها، قديمها وحديثها.
 An in-depth look into wide-ranging topics history and civilization, to politics, sports, science and technology.</desc>
   </programme>
-  <programme start="20260131090000 +0000" stop="20260131093000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131093000 +0000" stop="20260131100000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">درس - Dars</title>
-    <desc lang="en">برنامج تعليمي للأطفال الذين تتراوح أعمارهم بين 11 و16 سنة.
-An educational programme for children aged 11-16.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131100500 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131100500 +0000" stop="20260131110000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">من الذي دفع ثمن الحرب العالمية الثانية؟ - Who Paid for World War 2?</title>
-    <desc lang="en">وثائقي يتناول ماذا حدث بعد نفاذ الأموال البريطانية النقدية لدفع ثمن الأسلحة التي ستسخدمها في المعارك والعواقب العالمية لذلك.
-This documentary examines what happened after Britain ran out of cash to pay for the arms to fight with, how this had global consequences.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131113000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131113000 +0000" stop="20260131120000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">فن للحياة - Art For Life</title>
-    <desc lang="en">برنامج ثقافي أسبوعي، يعرض مجموعة متنوعة من الأعمال الفنية، بإيقاعات عالمية.
-A weekly culture program showcasing a variety of culture genres with global tunes.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131123000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131123000 +0000" stop="20260131130000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">بلا قيود - HARDtalk</title>
-    <desc lang="en">برنامج أخبار يستضيف نخبة من الصحفيين والسياسين بالإضافة إلى محللي الأخبار الرياضية والفنية والإعلامية والترفيهية.
-HARDtalk is BBC World's daily current affairs interview programme with guests comprising newsmakers, notable thinkers, and prominent personalities from the world of sports, politics, culture, media and entertainment.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">العالم الساعة الواحدة - The World At One</title>
-    <desc lang="en">الأخبار العالمية المهمة والأحدث مع التعمق في التحاليل والتفاصيل.
-The latest international news with in-depth analysis from the BBC in Arabic.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131143000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131143000 +0000" stop="20260131150000 +0000" channel="BBC Arabic.tl">
-    <title lang="en">بي بي سي إكسترا - BBC Xtra</title>
-    <desc lang="en">برنامج أسبوعي يسلط الضوء على آخر وأهم المستجدات في المنطقة.
-A weekly current affairs programme.</desc>
-  </programme>
   <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="BBC Arabic.tl">
     <title lang="en">أخبار بي بي سي - BBC News</title>
     <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
@@ -28700,61 +29382,6 @@ BBC News draws on the expertise of more than 250 correspondents around the world
     <title lang="en">ليفز إن ذا ماركت - Lives on the Market</title>
     <desc lang="en">قصة تجارة الأعضاء في العراق، والتي تبلغ قيمتها مليارات الدولارات. والتي يُشاع بأن لها علاقات بشبكات إجرامية، وقد يكون بعض المسؤولين في مراكز هامة متورطين فيها.
 This is the story of Iraq's organ trade, a multi-billion-dollar industry with alleged ties to criminal networks, and in which some officials may be implicated.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131103000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131103000 +0000" stop="20260131110000 +0000" channel="BBC World News.tl">
-    <title lang="en">توكينغ بيزنيس - Talking Business</title>
-    <desc lang="en">هل تريد أن تعرف ما الذي يجعل الأعمال تنجح وتزدهر وما الذي يحدث في الاقتصاد العالمي؟ خبراؤنا سيجيبون على أسئلتك واستفساراتك.
-Want to know what makes businesses tick, and what's happening in the global economy? Find out as experts give you the answers.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131113000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131113000 +0000" stop="20260131120000 +0000" channel="BBC World News.tl">
-    <title lang="en">عالم بدون تعديل مع جون سيمبسون - Unspun World With John Simpson</title>
-    <desc lang="en">نسخة غير معدلة لأهم القصص الإخبارية العالمية لهذا الأسبوع - مشاهدة موثوقة وأساسية مع محرر الشؤون العالمية في بي بي سي جون سيمبسون.
-Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131123000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131123000 +0000" stop="20260131130000 +0000" channel="BBC World News.tl">
-    <title lang="en">ذا سبيريت أوف ياتشينغ:رولكس سيدني هوبارت ريس - The Spirit of Yachting:Rolex Sydney Hobart Race</title>
-    <desc lang="en">تستكشف لكم هذه السلسلة بعض الأحداث الرائعة في عالم الإبحار.
-Explore high seas action as we cover some of the most exciting events in the yachting calendar.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131133000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131133000 +0000" stop="20260131140000 +0000" channel="BBC World News.tl">
-    <title lang="en">فك شفرة الذكاء الاصطناعي - AI Decoded</title>
-    <desc lang="en">انضموا معنا إلى الفريق الخاص بفك شفرة الذكاء الاصطناعي، في رحلة بحث عميقة داخل عالم الذكاء الاصطناعي المدهش.
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131143000 +0000" channel="BBC World News.tl">
-    <title lang="en">أخبار بي بي سي - BBC News</title>
-    <desc lang="en">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.
-BBC News draws on the expertise of more than 250 correspondents around the world. Comprehensive bulletins on the hour every hour bring you up to date with news and business developments. In-depth coverage on a broad range of issues.</desc>
-  </programme>
-  <programme start="20260131143000 +0000" stop="20260131150000 +0000" channel="BBC World News.tl">
-    <title lang="en">ذا ميديا شو - The Media Show</title>
-    <desc lang="en">وسائل التواصل الاجتماعي، وسائل الإعلام المعادية للتواصل الاجتماعي، الأخبار العاجلة، والأخبار المزيفة: هذا هو البرنامج الذي يتحدث عن ثورة في الإعلام.
-Social media, anti-social media, breaking news, faking news: this is the programme about a revolution in media.</desc>
   </programme>
   <programme start="20260131150000 +0000" stop="20260131153000 +0000" channel="BBC World News.tl">
     <title lang="en">أخبار بي بي سي - BBC News</title>
@@ -29820,12 +30447,12 @@ Something is up Abu Diyab’s sleeves who disguises himself once he arrives at A
     <desc lang="en">يسعى أبو دياب لتنفيذ مخطط ما، فيتنكر لدى وصوله إلى حارة الضبع، وهناك يتفاجأ بوجود مأمون، وهو رجل سيء السمعة له ماض مظلم.
 Something is up Abu Diyab’s sleeves who disguises himself once he arrives at Al Dabe’ neighborhood and recognizes Mamoun, a notorious man with a dark past.</desc>
   </programme>
-  <programme start="20260130114227 +0000" stop="20260130123027 +0000" channel="Bab Al Hara Channel.tl">
+  <programme start="20260130114227 +0000" stop="20260130123026 +0000" channel="Bab Al Hara Channel.tl">
     <title lang="en">باب الحارة  موسم 5 حلقة 18 - Bab Al Hara Season 5 Episode 18</title>
     <desc lang="en">يسعى أبو دياب لتنفيذ مخطط ما، فيتنكر لدى وصوله إلى حارة الضبع، وهناك يتفاجأ بوجود مأمون، وهو رجل سيء السمعة له ماض مظلم.
 Something is up Abu Diyab’s sleeves who disguises himself once he arrives at Al Dabe’ neighborhood and recognizes Mamoun, a notorious man with a dark past.</desc>
   </programme>
-  <programme start="20260130123027 +0000" stop="20260130132240 +0000" channel="Bab Al Hara Channel.tl">
+  <programme start="20260130123026 +0000" stop="20260130132240 +0000" channel="Bab Al Hara Channel.tl">
     <title lang="en">باب الحارة  موسم 5 حلقة 19 - Bab Al Hara Season 5 Episode 19</title>
     <desc lang="en">يسعى أبو دياب لتنفيذ مخطط ما، فيتنكر لدى وصوله إلى حارة الضبع، وهناك يتفاجأ بوجود مأمون، وهو رجل سيء السمعة له ماض مظلم.
 Something is up Abu Diyab’s sleeves who disguises himself once he arrives at Al Dabe’ neighborhood and recognizes Mamoun, a notorious man with a dark past.</desc>
@@ -34214,85 +34841,85 @@ As the colonial plotting continues, a chain of events affects everyone including
     <title lang="en">ريفير (حلقة12) - River  -  Luminous Night</title>
   </programme>
   <programme start="20260202210000 +0000" stop="20260202210500 +0000" channel="Baby TV.tl">
-    <title lang="en">أدفنتشر تايم (موسم 1) - Charlie and the Alphabet  -  Charlie Meets the Letter X</title>
+    <title lang="en">شارلي اند ذا الفابيت (حلقة24) - Charlie and the Alphabet  -  Charlie Meets the Letter X</title>
   </programme>
   <programme start="20260202210500 +0000" stop="20260202210700 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  One Potato, Two Potatoes</title>
+    <title lang="en">سونجس اند ريزم (حلقة116) - Songs and Rhymes  -  One Potato, Two Potatoes</title>
   </programme>
   <programme start="20260202210700 +0000" stop="20260202211300 +0000" channel="Baby TV.tl">
-    <title lang="en">Mini Matinee  -  Canadian Maple Syrup</title>
+    <title lang="en">ميني ماتيني (حلقة24) - Mini Matinee  -  Canadian Maple Syrup</title>
   </programme>
   <programme start="20260202211300 +0000" stop="20260202211800 +0000" channel="Baby TV.tl">
-    <title lang="en">Beep Beep  -  Voom Vam Gets Caught in the Rain</title>
+    <title lang="en">بيب بيب (حلقة4) - Beep Beep  -  Voom Vam Gets Caught in the Rain</title>
   </programme>
   <programme start="20260202211800 +0000" stop="20260202212100 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  Follow Me</title>
+    <title lang="en">سونجس اند ريزم (حلقة61) - Songs and Rhymes  -  Follow Me</title>
   </programme>
   <programme start="20260202212100 +0000" stop="20260202212600 +0000" channel="Baby TV.tl">
-    <title lang="en">Travelers  -  Duck Race</title>
+    <title lang="en">ترافيلرز (حلقة8) - Travelers  -  Duck Race</title>
   </programme>
   <programme start="20260202212600 +0000" stop="20260202213100 +0000" channel="Baby TV.tl">
-    <title lang="en">Walter and Dude  -  Key</title>
+    <title lang="en">ولتر أند دود (حلقة30) - Walter and Dude  -  Key</title>
   </programme>
   <programme start="20260202213100 +0000" stop="20260202213300 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  Little Miss Muffet</title>
+    <title lang="en">سونجس اند ريزم (حلقة117) - Songs and Rhymes  -  Little Miss Muffet</title>
   </programme>
   <programme start="20260202213300 +0000" stop="20260202214100 +0000" channel="Baby TV.tl">
-    <title lang="en">Olly  -  Olly the Farmer</title>
+    <title lang="en">أولي (حلقة16) - Olly  -  Olly the Farmer</title>
   </programme>
   <programme start="20260202214100 +0000" stop="20260202214500 +0000" channel="Baby TV.tl">
-    <title lang="en">Bug'n'Play to the Rescue  -  Duckie</title>
+    <title lang="en">باج أن بلاي تو ذا ريسكيو (حلقة2) - Bug'n'Play to the Rescue  -  Duckie</title>
   </programme>
   <programme start="20260202214500 +0000" stop="20260202214700 +0000" channel="Baby TV.tl">
-    <title lang="en">بن تن (موسم 1) - Happy Birthday to You (Ep701)</title>
+    <title lang="en">هابي بيرث داي تو يو (حلقة701) - Happy Birthday to You (Ep701)</title>
   </programme>
   <programme start="20260202214700 +0000" stop="20260202214900 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  Hello 2</title>
+    <title lang="en">سونجس اند ريزم (حلقة154) - Songs and Rhymes  -  Hello 2</title>
   </programme>
   <programme start="20260202214900 +0000" stop="20260202215500 +0000" channel="Baby TV.tl">
-    <title lang="en">Cuddlies  -  Having a Cold</title>
+    <title lang="en">كودليز (حلقة2) - Cuddlies  -  Having a Cold</title>
   </programme>
   <programme start="20260202215500 +0000" stop="20260202220000 +0000" channel="Baby TV.tl">
-    <title lang="en">Bath Tubbies  -  Bubbles</title>
+    <title lang="en">باث تابيز (حلقة1) - Bath Tubbies  -  Bubbles</title>
   </programme>
   <programme start="20260202220000 +0000" stop="20260202220200 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  Ten Green Bottles</title>
+    <title lang="en">سونجس اند ريزم (حلقة137) - Songs and Rhymes  -  Ten Green Bottles</title>
   </programme>
   <programme start="20260202220200 +0000" stop="20260202220800 +0000" channel="Baby TV.tl">
-    <title lang="en">Oliver  -  Choo Choo</title>
+    <title lang="en">أوليفر (حلقة17) - Oliver  -  Choo Choo</title>
   </programme>
   <programme start="20260202220800 +0000" stop="20260202221100 +0000" channel="Baby TV.tl">
-    <title lang="en">Charlie's World  -  Number Train</title>
+    <title lang="en">تشارليز وورلد (حلقة1) - Charlie's World  -  Number Train</title>
   </programme>
   <programme start="20260202221100 +0000" stop="20260202221500 +0000" channel="Baby TV.tl">
-    <title lang="en">The World is a Wonder  -  Bananas</title>
+    <title lang="en">ذا ورلد إز أ وندر (حلقة15) - The World is a Wonder  -  Bananas</title>
   </programme>
   <programme start="20260202221500 +0000" stop="20260202222100 +0000" channel="Baby TV.tl">
-    <title lang="en">Zeina's Detective Agency  -  The Forgetful Flute</title>
+    <title lang="en">زيناز ديتكتيف أجنسي (حلقة10) - Zeina's Detective Agency  -  The Forgetful Flute</title>
   </programme>
   <programme start="20260202222100 +0000" stop="20260202222700 +0000" channel="Baby TV.tl">
-    <title lang="en">Welcome to the Island  -  Windy Day</title>
+    <title lang="en">ويلكم تو ذا ايلند (حلقة2) - Welcome to the Island  -  Windy Day</title>
   </programme>
   <programme start="20260202222700 +0000" stop="20260202223100 +0000" channel="Baby TV.tl">
-    <title lang="en">Teeny and Tiny's Classroom  -  Teeny Wants to Be a Cow 1</title>
+    <title lang="en">تيني آند تاينز كلاس رووم (حلقة88) - Teeny and Tiny's Classroom  -  Teeny Wants to Be a Cow 1</title>
   </programme>
   <programme start="20260202223100 +0000" stop="20260202223700 +0000" channel="Baby TV.tl">
-    <title lang="en">Mike's Bikes  -  Johnny and the Kite</title>
+    <title lang="en">دراجات مايك (حلقة2) - Mike's Bikes  -  Johnny and the Kite</title>
   </programme>
   <programme start="20260202223700 +0000" stop="20260202224200 +0000" channel="Baby TV.tl">
-    <title lang="en">Stick with Mick  -  Playground</title>
+    <title lang="en">إستيك وز ميك (حلقة30) - Stick with Mick  -  Playground</title>
   </programme>
   <programme start="20260202224200 +0000" stop="20260202224600 +0000" channel="Baby TV.tl">
-    <title lang="en">Crafty Rafty  -  Boxes</title>
+    <title lang="en">كرافتى رافتى (حلقة16) - Crafty Rafty  -  Boxes</title>
   </programme>
   <programme start="20260202224600 +0000" stop="20260202224800 +0000" channel="Baby TV.tl">
-    <title lang="en">Songs and Rhymes  -  Ring a Ring O' Roses</title>
+    <title lang="en">سونجس اند ريزم (حلقة110) - Songs and Rhymes  -  Ring a Ring O' Roses</title>
   </programme>
   <programme start="20260202224800 +0000" stop="20260202225300 +0000" channel="Baby TV.tl">
-    <title lang="en">Billy Bam Bam  -  Train</title>
+    <title lang="en">بللى بم بم (حلقة1) - Billy Bam Bam  -  Train</title>
   </programme>
   <programme start="20260202225300 +0000" stop="20260202230000 +0000" channel="Baby TV.tl">
-    <title lang="en">The Jungle Book  -  Mowgli's Talent</title>
+    <title lang="en">ذا جانجل بوك (موسم 4، حلقة6) - The Jungle Book  -  Mowgli's Talent</title>
   </programme>
   <programme start="20260129230000 +0000" stop="20260130000000 +0000" channel="Bahrain Sports TV.tl">
     <title lang="en">البحرين الرياضية - Bahrain Sports TV</title>
@@ -40201,41 +40828,6 @@ Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Sli
   <programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="Bloomberg TV.us.tl">
     <title lang="en">بلومبرج : ذا كلوز - Bloomberg the Close</title>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="CBC.tl">
-    <title lang="en">CBC</title>
-    <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
-A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
-  </programme>
   <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="CBC.tl">
     <title lang="en">CBC</title>
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
@@ -40516,41 +41108,6 @@ A contemporary entertainment channel offering a mix of popular series and talk s
     <desc lang="en">قناة ترفيهية معاصرة تقدم مزيجاً من المسلسلات الدرامية والبرامج الحوارية.
 A contemporary entertainment channel offering a mix of popular series and talk shows.</desc>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="CBC Drama.tl">
-    <title lang="en">CBC دراما - CBC Drama</title>
-    <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
-Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
   <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="CBC Drama.tl">
     <title lang="en">CBC دراما - CBC Drama</title>
     <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
@@ -40830,41 +41387,6 @@ Channel offering a selection of brand new and classic Turkish and Egyptian drama
     <title lang="en">CBC دراما - CBC Drama</title>
     <desc lang="en">تقدم القناة مجموعة مختارة من المسلسلات الدرامية التركية والمصرية الجديدة والكلاسيكية.
 Channel offering a selection of brand new and classic Turkish and Egyptian drama series.</desc>
-  </programme>
-  <programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131090000 +0000" stop="20260131100000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131120000 +0000" stop="20260131130000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
-  </programme>
-  <programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="CBC Sofra.tl">
-    <title lang="en">CBC سفرة - CBC Sofra</title>
-    <desc lang="en">تعرض قناة CBC سفرة أهم برامج المأكولات وأساليب الطبخ من العالم العربي.
-CBC Sofra serves up cuisines and cooking techniques from the Arab world.</desc>
   </programme>
   <programme start="20260131150000 +0000" stop="20260131160000 +0000" channel="CBC Sofra.tl">
     <title lang="en">CBC سفرة - CBC Sofra</title>
@@ -44401,46 +44923,6 @@ Business news and analysis , featuring interviews with the region's leading exec
     <desc lang="en">برنامج مختص بالعملات الرقمية المشفرة، حيث يعرف المشاهدين على آخر أخبار هذه العملات في الأسواق العالمية.
 A program with the latest news, topics and trends in the global market from the world of cryptocurrency.</desc>
   </programme>
-  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن ذيس مورنينغ - CNN This Morning</title>
-    <desc lang="en">آخر الأخبار والمعلومات من مختلف أنحاء العالم. من تقديم دون ليمون وبوبي هارلو وكيتلان كولينز.
-The latest news and information from around the world. Don Lemon, Poppy Harlow, and Kaitlan Collins host.</desc>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن نيوز سينترال - CNN News Central</title>
-    <desc lang="en">آخر الأخبار من جميع أنحاء العالم مباشرة مع جون بيرمان وكيت بولدوان وسارة سيدنر.
-The latest news from around the world live with John Berman, Kate Bolduan and Sara Sidner.</desc>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="CNN.tl">
-    <title lang="en">سي إن إن نيوز سينترال - CNN News Central</title>
-    <desc lang="en">آخر الأخبار من جميع أنحاء العالم مباشرة مع جون بيرمان وكيت بولدوان وسارة سيدنر.
-The latest news from around the world live with John Berman, Kate Bolduan and Sara Sidner.</desc>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="CNN.tl">
-    <title lang="en">وورلد سبورت - World Sport</title>
-    <desc lang="en">استعراض شامل لآخر الأخبار الرياضية من جميع أنحاء العالم، يسلط الضوء على اللاعبين ونجوم الرياضة وصانعي الأخبار.
-A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.</desc>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130144500 +0000" channel="CNN.tl">
-    <title lang="en">كونكت ذا وورلد ويذ بي أندرلسون - Connect the World with B. Anderson</title>
-    <desc lang="en">انضم إلى بيكي أندرسون ليضع النقاط على الحروف حول القصص والأحداث في العالم من خلال استكشاف كيف يمكن لحدث أو ظرف في جزء من العالم أن يكون له تأثير كبير في أماكن أخرى.
-CNN's Becky Anderson joins the dots of stories and events by exploring how an event or circumstance in one part of the world can have a significant impact elsewhere.</desc>
-  </programme>
-  <programme start="20260130144500 +0000" stop="20260130150000 +0000" channel="CNN.tl">
-    <title lang="en">وورلد سبورت - World Sport</title>
-    <desc lang="en">استعراض شامل لآخر الأخبار الرياضية من جميع أنحاء العالم، يسلط الضوء على اللاعبين ونجوم الرياضة وصانعي الأخبار.
-A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.</desc>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="CNN.tl">
-    <title lang="en">كونكت ذا وورلد ويذ بي أندرلسون - Connect the World with B. Anderson</title>
-    <desc lang="en">انضم إلى بيكي أندرسون ليضع النقاط على الحروف حول القصص والأحداث في العالم من خلال استكشاف كيف يمكن لحدث أو ظرف في جزء من العالم أن يكون له تأثير كبير في أماكن أخرى.
-CNN's Becky Anderson joins the dots of stories and events by exploring how an event or circumstance in one part of the world can have a significant impact elsewhere.</desc>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="CNN.tl">
-    <title lang="en">ون وولد - One World</title>
-    <desc lang="en">زين آشر وبيانا جولودريغا يغطّيان أبرز القضايا العالمية والوطنية لليوم.
-Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-  </programme>
   <programme start="20260130170000 +0000" stop="20260130174500 +0000" channel="CNN.tl">
     <title lang="en">ون وولد - One World</title>
     <desc lang="en">زين آشر وبيانا جولودريغا يغطّيان أبرز القضايا العالمية والوطنية لليوم.
@@ -45387,10 +45869,10 @@ A comprehensive review of sports news from around the world, including all the k
     <title lang="en">ذا بريف - The Brief</title>
   </programme>
   <programme start="20260202210000 +0000" stop="20260202220000 +0000" channel="CNNArabic.tl">
-    <title lang="en">Erin Burnett OutFront</title>
+    <title lang="en">إيرين بيرنت أوت فرونت - Erin Burnett OutFront</title>
   </programme>
   <programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="CNNArabic.tl">
-    <title lang="en">Anderson Cooper 360 Degrees</title>
+    <title lang="en">آندرسون كوبر ثري هندرد سيكستي دجرييز - Anderson Cooper 360 Degrees</title>
   </programme>
   <programme start="20260129231000 +0000" stop="20260129232000 +0000" channel="Cartoon Network.tl">
     <title lang="en">ذا أميزينج وورلد أوف جامبول - عالم غامبول المُدهش: ذا كونسول - The Amazing World Of Gumball: The Console</title>
@@ -46344,10 +46826,10 @@ A comprehensive review of sports news from around the world, including all the k
     <title lang="en">توم آند جيري - Tom and Jerry</title>
   </programme>
   <programme start="20260202210000 +0000" stop="20260202220000 +0000" channel="Cartoon Network Arabic.tl">
-    <title lang="en">Ekans</title>
+    <title lang="en">إيكانز - Ekans</title>
   </programme>
   <programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="Cartoon Network Arabic.tl">
-    <title lang="en">Uncle Grandpa</title>
+    <title lang="en">آنكل جراند با - Uncle Grandpa</title>
   </programme>
   <programme start="20260130030000 +0000" stop="20260130060000 +0000" channel="Cartoon Network MENA.tl">
     <title lang="en">ذي أميزينج وورلد أوف جامبول - The Amazing World of Gumball</title>
@@ -50948,34 +51430,34 @@ Filled with adventure and fun, this cartoon series tells the story of King Shaki
     <title lang="en">كينج شاكير (موسم 15، حلقة15) - King Şakir  -  Origami</title>
   </programme>
   <programme start="20260202210500 +0000" stop="20260202212000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Chicks on The Loose</title>
+    <title lang="en">كينج شاكير (موسم 16، حلقة16) - King Şakir  -  Chicks on The Loose</title>
   </programme>
   <programme start="20260202212000 +0000" stop="20260202213000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Origami</title>
+    <title lang="en">كينج شاكير (موسم 18، حلقة18) - King Şakir  -  Origami</title>
   </programme>
   <programme start="20260202213000 +0000" stop="20260202214000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Pottery Is Broken</title>
+    <title lang="en">كينج شاكير (موسم 20، حلقة20) - King Şakir  -  Pottery Is Broken</title>
   </programme>
   <programme start="20260202214000 +0000" stop="20260202215500 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Şakir's Copies</title>
+    <title lang="en">كينج شاكير (موسم 21، حلقة21) - King Şakir  -  Şakir's Copies</title>
   </programme>
   <programme start="20260202215500 +0000" stop="20260202220500 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Mysterious Neighbour</title>
+    <title lang="en">كينج شاكير (موسم 23، حلقة23) - King Şakir  -  Mysterious Neighbour</title>
   </programme>
   <programme start="20260202220500 +0000" stop="20260202222000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Big Power Big Responsibility</title>
+    <title lang="en">كينج شاكير (موسم 25، حلقة25) - King Şakir  -  Big Power Big Responsibility</title>
   </programme>
   <programme start="20260202222000 +0000" stop="20260202223000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Unhappy Whale</title>
+    <title lang="en">كينج شاكير (موسم 26، حلقة26) - King Şakir  -  Unhappy Whale</title>
   </programme>
   <programme start="20260202223000 +0000" stop="20260202224000 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Village Far Away</title>
+    <title lang="en">كينج شاكير (موسم 27، حلقة27) - King Şakir  -  Village Far Away</title>
   </programme>
   <programme start="20260202224000 +0000" stop="20260202225500 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Clean Sea</title>
+    <title lang="en">كينج شاكير (موسم 30، حلقة30) - King Şakir  -  Clean Sea</title>
   </programme>
   <programme start="20260202225500 +0000" stop="20260202230500 +0000" channel="Cartoonito MENA.tl">
-    <title lang="en">King Şakir  -  Pixel Adventure</title>
+    <title lang="en">كينج شاكير (موسم 31، حلقة31) - King Şakir  -  Pixel Adventure</title>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="Cine Mo.tl">
     <title lang="en">سينيكوميديا - Cinekomedya</title>
@@ -58632,12 +59114,12 @@ After his return to the village, Hazalqoum purchases the house, which exacerbate
     <desc lang="en">بعد عودته من السفر، يقوم حزلئوم بشراء البيت، الأمر الذي يضاعف الصراع بينه وبين شقيقيه حيث ما زالت فكرة التخلص منه قائمة.
 After his return to the village, Hazalqoum purchases the house, which exacerbates his conflict with his brothers who consider getting rid of him.</desc>
   </programme>
-  <programme start="20260130114344 +0000" stop="20260130121509 +0000" channel="El Kebeer Awi Channel.tl">
+  <programme start="20260130114344 +0000" stop="20260130121508 +0000" channel="El Kebeer Awi Channel.tl">
     <title lang="en">الكبير الموسم 4 الحلقة 24 - Al Kabeer Season 4 Episode 24</title>
     <desc lang="en">بعد عودته من السفر، يقوم حزلئوم بشراء البيت، الأمر الذي يضاعف الصراع بينه وبين شقيقيه حيث ما زالت فكرة التخلص منه قائمة.
 After his return to the village, Hazalqoum purchases the house, which exacerbates his conflict with his brothers who consider getting rid of him.</desc>
   </programme>
-  <programme start="20260130121509 +0000" stop="20260130124444 +0000" channel="El Kebeer Awi Channel.tl">
+  <programme start="20260130121508 +0000" stop="20260130124444 +0000" channel="El Kebeer Awi Channel.tl">
     <title lang="en">الكبير الموسم 4 الحلقة 25 - Al Kabeer Season 4 Episode 25</title>
     <desc lang="en">بعد عودته من السفر، يقوم حزلئوم بشراء البيت، الأمر الذي يضاعف الصراع بينه وبين شقيقيه حيث ما زالت فكرة التخلص منه قائمة.
 After his return to the village, Hazalqoum purchases the house, which exacerbates his conflict with his brothers who consider getting rid of him.</desc>
@@ -61476,22 +61958,22 @@ SEASON FINALE: The game has reached its end. But after all these missions, who h
     <title lang="en">نيوز - News</title>
   </programme>
   <programme start="20260202210000 +0000" stop="20260202211500 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260202211500 +0000" stop="20260202213000 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260202213000 +0000" stop="20260202220000 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260202220000 +0000" stop="20260202221500 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260202221500 +0000" stop="20260202223000 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260202223000 +0000" stop="20260202230000 +0000" channel="Euronews English.tl">
-    <title lang="en">The European Debrief</title>
+    <title lang="en">الموجز الأوروبي - The European Debrief</title>
   </programme>
   <programme start="20260129223953 +0000" stop="20260130003132 +0000" channel="FIFA+.tl">
     <title lang="en">ألمانيا ضد النرويج | نصف النهائي | كأس العالم للسيدات الفيفا - الصين 2007™ | إعادة المباراة الكاملة - Germany v Norway | Semi-finals | FIFA Women&amp;apos;s World Cup China 2007™ | Full Match Replay</title>
@@ -141321,10 +141803,10 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
   <programme start="20260131040000 +0000" stop="20260131080000 +0000" channel="be IN 4K.tl">
     <title lang="en">Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski - Mens Double Final Day 14 - Women’ - Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski  -  Mens Double Final Day 14</title>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131113000 +0000" channel="be IN 4K.tl">
+  <programme start="20260131080000 +0000" stop="20260131113400 +0000" channel="be IN 4K.tl">
     <title lang="en">Aryna Sabalenka vs Elena Rybakina - Day 14 - Women’s Singles Final - Evening Session - Rod Laver Are - Aryna Sabalenka vs Elena Rybakina  -  Day 14</title>
   </programme>
-  <programme start="20260131113000 +0000" stop="20260131140000 +0000" channel="be IN 4K.tl">
+  <programme start="20260131113400 +0000" stop="20260131140000 +0000" channel="be IN 4K.tl">
     <title lang="en">Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski - Mens Double Final Day 14 - Women’ - Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski  -  Mens Double Final Day 14</title>
   </programme>
   <programme start="20260131140000 +0000" stop="20260131170000 +0000" channel="be IN 4K.tl">
@@ -141333,20 +141815,35 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
   <programme start="20260131170000 +0000" stop="20260131193000 +0000" channel="be IN 4K.tl">
     <title lang="en">Chelsea vs. West Ham United - English Premier League 2026/2027 - Chelsea vs. West Ham United  -  English Premier League 2026/2027</title>
   </programme>
-  <programme start="20260131193000 +0000" stop="20260201010000 +0000" channel="be IN 4K.tl">
+  <programme start="20260131193000 +0000" stop="20260131222700 +0000" channel="be IN 4K.tl">
     <title lang="en">Liverpool vs. Newcastle United - English Premier League 2026/2027 - Liverpool vs. Newcastle United  -  English Premier League 2026/2027</title>
   </programme>
+  <programme start="20260131222700 +0000" stop="20260201010000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski - Mens Double Final Day 14 - Women’ - Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski  -  Mens Double Final Day 14</title>
+  </programme>
   <programme start="20260201010000 +0000" stop="20260201040000 +0000" channel="be IN 4K.tl">
-    <title lang="en">Day 15 - Junior’s Singles Final 1 - Morning Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Junior’s Singles Final 1</title>
+    <title lang="en">Junior Girls’ Singles Final — Ekaterina Tupitsyna vs Ksenia Efremova - Day 15 - Morning Session - Ro - Junior Girls’ Singles Final — Ekaterina Tupitsyna vs Ksenia Efremova  -  Day 15</title>
   </programme>
-  <programme start="20260201040000 +0000" stop="20260201083000 +0000" channel="be IN 4K.tl">
-    <title lang="en">Day 15 - Junior’s Singles Final 2 - Morning Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Junior’s Singles Final 2</title>
+  <programme start="20260201040000 +0000" stop="20260201080000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Junior Boys’ Singles Final — Keaton Hance vs Ziga Sesko - Day 15 - Morning Session - Rod Laver Arena - Junior Boys’ Singles Final — Keaton Hance vs Ziga Sesko  -  Day 15</title>
   </programme>
-  <programme start="20260201083000 +0000" stop="20260201163000 +0000" channel="be IN 4K.tl">
-    <title lang="en">Day 15 - Men’s Singles Final - Evening Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Men’s Singles Final</title>
+  <programme start="20260201080000 +0000" stop="20260201124000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Men’s Singles Final — Carlos Alcaraz vs Novak Djokovic - Day 15 - Evening Session - Rod Laver Arena - Men’s Singles Final — Carlos Alcaraz vs Novak Djokovic  -  Day 15</title>
   </programme>
-  <programme start="20260201163000 +0000" stop="20260201205900 +0000" channel="be IN 4K.tl">
+  <programme start="20260201124000 +0000" stop="20260201143000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Chelsea vs. West Ham United - English Premier League 2026/2027 - Chelsea vs. West Ham United  -  English Premier League 2026/2027</title>
+  </programme>
+  <programme start="20260201143000 +0000" stop="20260201161500 +0000" channel="be IN 4K.tl">
+    <title lang="en">Liverpool vs. Newcastle United - English Premier League 2026/2027 - Liverpool vs. Newcastle United  -  English Premier League 2026/2027</title>
+  </programme>
+  <programme start="20260201161500 +0000" stop="20260201192000 +0000" channel="be IN 4K.tl">
     <title lang="en">Tottenham Hotspur vs. Manchester City - English Premier League 2026/2027 - Tottenham Hotspur vs. Manchester City  -  English Premier League 2026/2027</title>
+  </programme>
+  <programme start="20260201192000 +0000" stop="20260201225000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Men’s Singles Final — Carlos Alcaraz vs Novak Djokovic - Day 15 - Evening Session - Rod Laver Arena - Men’s Singles Final — Carlos Alcaraz vs Novak Djokovic  -  Day 15</title>
+  </programme>
+  <programme start="20260202221000 +0000" stop="20260203004000 +0000" channel="be IN 4K.tl">
+    <title lang="en">Aryna Sabalenka vs Elena Rybakina - Day 14 - Women’s Singles Final - Evening Session - Rod Laver Are - Aryna Sabalenka vs Elena Rybakina  -  Day 14</title>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130013000 +0000" channel="be INBox Office 1.tl">
     <title lang="en">Sisu: Road to Revenge</title>
@@ -142819,15 +143316,15 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">Wydad Casablanca vs Maniema Union - CAF Confederation Cup 2025/26 - MD3 - Wydad Casablanca vs Maniema Union  -  CAF Confederation Cup 2025/26</title>
   </programme>
   <programme start="20260131210000 +0000" stop="20260131230000 +0000" channel="be INSports 6.tl">
-    <title lang="en">Delfi Brea / Martina Calvo vs Claudia Fernández / Tamara Icardo - Women - Generali Hexagon Cup 2026 - Delfi Brea / Martina Calvo vs Claudia Fernández / Tamara Icardo  -  Women</title>
+    <title lang="en">Paris FC vs Marseille - French Ligue 1 2025/2026 Week 20 - Paris FC vs Marseille  -  French Ligue 1 2025/2026 Week 20</title>
   </programme>
-  <programme start="20260131230000 +0000" stop="20260201010000 +0000" channel="be INSports 6.tl">
+  <programme start="20260131230000 +0000" stop="20260201004000 +0000" channel="be INSports 6.tl">
     <title lang="en">Paquito Navarro / Fran Guerrero vs Agustín Tapia / Jon Sanz - Men - Generali Hexagon Cup 2026 - Paquito Navarro / Fran Guerrero vs Agustín Tapia / Jon Sanz  -  Men</title>
   </programme>
-  <programme start="20260201010000 +0000" stop="20260201030000 +0000" channel="be INSports 6.tl">
+  <programme start="20260201004000 +0000" stop="20260201024500 +0000" channel="be INSports 6.tl">
     <title lang="en">Sofia Araújo / Claudia Jensen vs Alejandra Salazar / Carmen Goenaga - Women - Generali Hexagon Cup 2 - Sofia Araújo / Claudia Jensen vs Alejandra Salazar / Carmen Goenaga  -  Women</title>
   </programme>
-  <programme start="20260201030000 +0000" stop="20260201050000 +0000" channel="be INSports 6.tl">
+  <programme start="20260201024500 +0000" stop="20260201050000 +0000" channel="be INSports 6.tl">
     <title lang="en">Fede Chingotto / Momo González vs Martín Di Nenno / Juan Tello - Men - Generali Hexagon Cup 2026 - Fede Chingotto / Momo González vs Martín Di Nenno / Juan Tello  -  Men</title>
   </programme>
   <programme start="20260201050000 +0000" stop="20260201070000 +0000" channel="be INSports 6.tl">
@@ -142932,20 +143429,23 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
   <programme start="20260131073000 +0000" stop="20260131080000 +0000" channel="be INSports 7.tl">
     <title lang="en">Novak Djokovic x Jannik Sinner - Men’s Singles Semi Final - Australian Open 2026 - Mini Match - Novak Djokovic x Jannik Sinner  -  Men’s Singles Semi Final</title>
   </programme>
-  <programme start="20260131080000 +0000" stop="20260131113000 +0000" channel="be INSports 7.tl">
+  <programme start="20260131080000 +0000" stop="20260131113300 +0000" channel="be INSports 7.tl">
     <title lang="en">Aryna Sabalenka vs Elena Rybakina - Day 14 - Women’s Singles Final - Evening Session - Rod Laver Are - Aryna Sabalenka vs Elena Rybakina  -  Day 14</title>
   </programme>
-  <programme start="20260131113000 +0000" stop="20260131133000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 14 - Legends Championship - Evening Session - Rod Laver Arena - Australian Open 2026 - Day 14  -  Legends Championship</title>
-  </programme>
-  <programme start="20260131133000 +0000" stop="20260131140000 +0000" channel="be INSports 7.tl">
+  <programme start="20260131113300 +0000" stop="20260131120000 +0000" channel="be INSports 7.tl">
     <title lang="en">Novak Djokovic x Jannik Sinner - Men’s Singles Semi Final - Australian Open 2026 - Mini Match - Novak Djokovic x Jannik Sinner  -  Men’s Singles Semi Final</title>
   </programme>
-  <programme start="20260131140000 +0000" stop="20260131163000 +0000" channel="be INSports 7.tl">
+  <programme start="20260131120000 +0000" stop="20260131143500 +0000" channel="be INSports 7.tl">
     <title lang="en">Anna Danilina / Aleksandra Krunic vs Elise Mertens / Shuai Zhang - Womens Double Final - Day 14  - M - Anna Danilina / Aleksandra Krunic vs Elise Mertens / Shuai Zhang  -  Womens Double Final</title>
   </programme>
-  <programme start="20260131163000 +0000" stop="20260131200000 +0000" channel="be INSports 7.tl">
+  <programme start="20260131143500 +0000" stop="20260131170000 +0000" channel="be INSports 7.tl">
+    <title lang="en">Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski - Mens Double Final - Day 14 - Morn - Jason Kubler / Marc Polmans vs Christian Harrison / Neal Skupski  -  Mens Double Final</title>
+  </programme>
+  <programme start="20260131170000 +0000" stop="20260131193500 +0000" channel="be INSports 7.tl">
     <title lang="en">Aryna Sabalenka vs Elena Rybakina - Day 14 - Women’s Singles Final - Evening Session - Rod Laver Are - Aryna Sabalenka vs Elena Rybakina  -  Day 14</title>
+  </programme>
+  <programme start="20260131193500 +0000" stop="20260131200000 +0000" channel="be INSports 7.tl">
+    <title lang="en">Jessica Pegula vs Elena Rybakina - Women’s Singles Semi - Australian Open 2026 - Mini Match - Jessica Pegula vs Elena Rybakina  -  Women’s Singles Semi</title>
   </programme>
   <programme start="20260131200000 +0000" stop="20260131203000 +0000" channel="be INSports 7.tl">
     <title lang="en">Novak Djokovic x Jannik Sinner - Men’s Singles Semi Final - Australian Open 2026 - Mini Match - Novak Djokovic x Jannik Sinner  -  Men’s Singles Semi Final</title>
@@ -142987,7 +143487,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">Day 15 - Junior Girls' Singles Final 1 - Morning Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Junior Girls' Singles Final 1</title>
   </programme>
   <programme start="20260201150000 +0000" stop="20260201170000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 14 - Legends Championship - Evening Session - Rod Laver Arena - Australian Open 2026 - Day 14  -  Legends Championship</title>
+    <title lang="en">Day 15 - Junior Boys' Singles Final 2 - Morning Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Junior Boys' Singles Final 2</title>
   </programme>
   <programme start="20260201170000 +0000" stop="20260201203000 +0000" channel="be INSports 7.tl">
     <title lang="en">Day 15 - Men’s Singles Final - Evening Session - Rod Laver Arena - Australian Open 2026 - Day 15  -  Men’s Singles Final</title>
@@ -143265,26 +143765,17 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
   <programme start="20260131110000 +0000" stop="20260131114000 +0000" channel="be INSports 9.tl">
     <title lang="en">HL H.H.the Father Amirs prix 2026 – Two-sphase round 1.50 meters – Week 3 - HL H.H.the Father Amirs prix 2026 – Two - sphase round 1.50 meters – Week 3</title>
   </programme>
-  <programme start="20260131114000 +0000" stop="20260131134500 +0000" channel="be INSports 9.tl">
+  <programme start="20260131114000 +0000" stop="20260131144500 +0000" channel="be INSports 9.tl">
     <title lang="en">H .H the Father Amirs Prix 2026 -  Week 4 - Gp Jump Off  - CSI3* - 150cm - H .H the Father Amirs Prix 2026  -   Week 4</title>
   </programme>
-  <programme start="20260131134500 +0000" stop="20260131141500 +0000" channel="be INSports 9.tl">
-    <title lang="en">HL H.H.the Father Amirs prix 2026 – jump off 1. 30 Meters – Week 4</title>
-  </programme>
-  <programme start="20260131141500 +0000" stop="20260131144500 +0000" channel="be INSports 9.tl">
-    <title lang="en">HL H.H.the Father Amirs prix 2026 – Accumulator 1.40 meters – Week 3</title>
-  </programme>
-  <programme start="20260131144500 +0000" stop="20260131173000 +0000" channel="be INSports 9.tl">
+  <programme start="20260131144500 +0000" stop="20260131180000 +0000" channel="be INSports 9.tl">
     <title lang="en">H .H the Father Amirs Prix 2026 -  Week 4 - CSI5* -  150cm - Jump Off - H .H the Father Amirs Prix 2026  -   Week 4</title>
   </programme>
-  <programme start="20260131173000 +0000" stop="20260131180000 +0000" channel="be INSports 9.tl">
-    <title lang="en">HL H.H.the Father Amirs prix 2026 – Two-sphase round 1.50 meters – Week 3 - HL H.H.the Father Amirs prix 2026 – Two - sphase round 1.50 meters – Week 3</title>
-  </programme>
-  <programme start="20260131180000 +0000" stop="20260131200000 +0000" channel="be INSports 9.tl">
+  <programme start="20260131180000 +0000" stop="20260131200700 +0000" channel="be INSports 9.tl">
     <title lang="en">H .H the Father Amirs Prix 2026 -  Week 4 - Faults &amp; Time - 140cm - H .H the Father Amirs Prix 2026  -   Week 4</title>
   </programme>
-  <programme start="20260131200000 +0000" stop="20260131210000 +0000" channel="be INSports 9.tl">
-    <title lang="en">H .H the Father Amirs Prix 2026 -  Week 4 - Special Two phase -CSI5* - H .H the Father Amirs Prix 2026  -   Week 4</title>
+  <programme start="20260131200700 +0000" stop="20260131210000 +0000" channel="be INSports 9.tl">
+    <title lang="en">H .H the Father Amirs Prix 2026  -   Week 4</title>
   </programme>
   <programme start="20260131210000 +0000" stop="20260131230000 +0000" channel="be INSports 9.tl">
     <title lang="en">H .H the Father Amirs Prix 2026 -  Week 4 - Gp Jump Off  - CSI3* - 150cm - H .H the Father Amirs Prix 2026  -   Week 4</title>
@@ -143872,7 +144363,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">Ath. Bilbao vs Real Sociedad - Liga - J22 - Football 2025-2026 - Ath. Bilbao vs Real Sociedad  -  Liga</title>
   </programme>
   <programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="be INSports French 1.tl">
-    <title lang="en">Doc Grandir Par Le Sport  -  Documentaire</title>
+    <title lang="en">Doc Grandir Par Le Sport - Documentaire - Doc Grandir Par Le Sport  -  Documentaire</title>
   </programme>
   <programme start="20260129231000 +0000" stop="20260130050000 +0000" channel="be INSports French 2.tl">
     <title lang="en">Club AFCONÂ  - Magazine 2025 - Club AFCONÂ   -  Magazine 2025</title>
@@ -143986,7 +144477,7 @@ Based on the resistance of the Syrian people to the Ottoman rule, the series hig
     <title lang="en">Strasbourg vs PSG - Ligue 1 - J20 - Football 2025-2026 - Strasbourg vs PSG  -  Ligue 1</title>
   </programme>
   <programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="be INSports French 2.tl">
-    <title lang="en">Saint - Etienne vs Boulogne</title>
+    <title lang="en">Saint-Etienne vs Boulogne-Levallois - Ligue 2 - J21 - Football 2025-2026 - Saint - Etienne vs Boulogne</title>
   </programme>
   <programme start="20260129230000 +0000" stop="20260130010000 +0000" channel="be INSports NBA.qa.tl">
     <title lang="en">beIN Sports MAX</title>
