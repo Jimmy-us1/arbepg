@@ -1125,6 +1125,270 @@
   <programme start="20260220220000 +0000" stop="20260220230000 +0000" channel="ANC.tl">
     <title lang="en">ماركيت إيدج - Market Edge</title>
   </programme>
+  <programme start="20260218003000 +0000" stop="20260218020700 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">عفريت النهار</title>
+    <desc lang="en">عفريت النهار</desc>
+  </programme>
+  <programme start="20260218030000 +0000" stop="20260218041400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">لا احد هناك</title>
+    <desc lang="en">لا احد هناك</desc>
+  </programme>
+  <programme start="20260218050000 +0000" stop="20260218062700 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">صائد الجبابرة</title>
+    <desc lang="en">صائد الجبابرة</desc>
+  </programme>
+  <programme start="20260218070000 +0000" stop="20260218083000 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">كارت ميموري</title>
+    <desc lang="en">كارت ميموري</desc>
+  </programme>
+  <programme start="20260218090000 +0000" stop="20260218104100 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">خير و بركه</title>
+    <desc lang="en">خير و بركه</desc>
+  </programme>
+  <programme start="20260218113000 +0000" stop="20260218133100 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">الجريمة</title>
+    <desc lang="en">الجريمة</desc>
+  </programme>
+  <programme start="20260218133500 +0000" stop="20260218150300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">بالعربى سندريلا</title>
+    <desc lang="en">بالعربى سندريلا</desc>
+  </programme>
+  <programme start="20260218160000 +0000" stop="20260218175400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">مهمة فى تل أبيب</title>
+    <desc lang="en">مهمة فى تل أبيب</desc>
+  </programme>
+  <programme start="20260218180000 +0000" stop="20260218194600 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">أسد و 4 قطط</title>
+    <desc lang="en">أسد و 4 قطط</desc>
+  </programme>
+  <programme start="20260218200000 +0000" stop="20260218215300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">مسجون ترانزيت</title>
+    <desc lang="en">مسجون ترانزيت</desc>
+  </programme>
+  <programme start="20260218220000 +0000" stop="20260218233600 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">عمر و سلمي 3</title>
+    <desc lang="en">عمر و سلمي 3</desc>
+  </programme>
+  <programme start="20260220003000 +0000" stop="20260220023200 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">جحيم 2</title>
+    <desc lang="en">جحيم 2</desc>
+  </programme>
+  <programme start="20260220030000 +0000" stop="20260220044400 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ملا علقه</title>
+    <desc lang="en">ملا علقه</desc>
+  </programme>
+  <programme start="20260220050000 +0000" stop="20260220063700 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">ارض ارض</title>
+    <desc lang="en">ارض ارض</desc>
+  </programme>
+  <programme start="20260220070000 +0000" stop="20260220082800 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">بالعربى سندريلا</title>
+    <desc lang="en">بالعربى سندريلا</desc>
+  </programme>
+  <programme start="20260220090000 +0000" stop="20260220105300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">مسجون ترانزيت</title>
+    <desc lang="en">مسجون ترانزيت</desc>
+  </programme>
+  <programme start="20260220113000 +0000" stop="20260220131900 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">عسكر فى المعسكر</title>
+    <desc lang="en">عسكر فى المعسكر</desc>
+  </programme>
+  <programme start="20260220133000 +0000" stop="20260220150300 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">حماده يلعب</title>
+    <desc lang="en">حماده يلعب</desc>
+  </programme>
+  <programme start="20260220160000 +0000" stop="20260220171900 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">فخ الجواسيس</title>
+    <desc lang="en">فخ الجواسيس</desc>
+  </programme>
+  <programme start="20260220180000 +0000" stop="20260220194600 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">فين قلبي</title>
+    <desc lang="en">فين قلبي</desc>
+  </programme>
+  <programme start="20260220200000 +0000" stop="20260220214200 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">معالى ماما</title>
+    <desc lang="en">معالى ماما</desc>
+  </programme>
+  <programme start="20260220220000 +0000" stop="20260220234600 +0000" channel="ART Aflam 1.tl">
+    <title lang="en">أسد و 4 قطط</title>
+    <desc lang="en">أسد و 4 قطط</desc>
+  </programme>
+  <programme start="20260217003000 +0000" stop="20260217021500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">وعادت زوجتى</title>
+    <desc lang="en">وعادت زوجتى</desc>
+  </programme>
+  <programme start="20260217030000 +0000" stop="20260217044100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">شيء من الحب</title>
+    <desc lang="en">شيء من الحب</desc>
+  </programme>
+  <programme start="20260217050000 +0000" stop="20260217064900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الضائعه</title>
+    <desc lang="en">الضائعه</desc>
+  </programme>
+  <programme start="20260217070000 +0000" stop="20260217082700 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">وادى النجوم</title>
+    <desc lang="en">وادى النجوم</desc>
+  </programme>
+  <programme start="20260217090000 +0000" stop="20260217102900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">إبتسامة فى نهر الدموع</title>
+    <desc lang="en">إبتسامة فى نهر الدموع</desc>
+  </programme>
+  <programme start="20260217110000 +0000" stop="20260217122600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">جوز الأربعه</title>
+    <desc lang="en">جوز الأربعه</desc>
+  </programme>
+  <programme start="20260217133000 +0000" stop="20260217150800 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">محامي المظلومين</title>
+    <desc lang="en">محامي المظلومين</desc>
+  </programme>
+  <programme start="20260217160000 +0000" stop="20260217174000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">لن أعترف</title>
+    <desc lang="en">لن أعترف</desc>
+  </programme>
+  <programme start="20260217180000 +0000" stop="20260217193400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">عبقرى على ورقة دمغه</title>
+    <desc lang="en">عبقرى على ورقة دمغه</desc>
+  </programme>
+  <programme start="20260217200000 +0000" stop="20260217215100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الوديعة</title>
+    <desc lang="en">الوديعة</desc>
+  </programme>
+  <programme start="20260217223000 +0000" stop="20260217235000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">غيتار الحب</title>
+    <desc lang="en">غيتار الحب</desc>
+  </programme>
+  <programme start="20260218003000 +0000" stop="20260218021500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">حب من ثلاثة أطراف</title>
+    <desc lang="en">حب من ثلاثة أطراف</desc>
+  </programme>
+  <programme start="20260218030000 +0000" stop="20260218042700 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">مبكى العشاق</title>
+    <desc lang="en">مبكى العشاق</desc>
+  </programme>
+  <programme start="20260218050000 +0000" stop="20260218062200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">بلبل من لبنان</title>
+    <desc lang="en">بلبل من لبنان</desc>
+  </programme>
+  <programme start="20260218070000 +0000" stop="20260218084300 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">واحد + واحد</title>
+    <desc lang="en">واحد + واحد</desc>
+  </programme>
+  <programme start="20260218090000 +0000" stop="20260218102700 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">صائد النساء</title>
+    <desc lang="en">صائد النساء</desc>
+  </programme>
+  <programme start="20260218110000 +0000" stop="20260218123400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">عاشقة نفسها</title>
+    <desc lang="en">عاشقة نفسها</desc>
+  </programme>
+  <programme start="20260218133000 +0000" stop="20260218152900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">هذه الحياه لنا</title>
+    <desc lang="en">هذه الحياه لنا</desc>
+  </programme>
+  <programme start="20260218160000 +0000" stop="20260218173100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ابن حميدو</title>
+    <desc lang="en">ابن حميدو</desc>
+  </programme>
+  <programme start="20260218180000 +0000" stop="20260218195900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">قاتل ما قتلش حد</title>
+    <desc lang="en">قاتل ما قتلش حد</desc>
+  </programme>
+  <programme start="20260218200000 +0000" stop="20260218214100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">لو كنت غني</title>
+    <desc lang="en">لو كنت غني</desc>
+  </programme>
+  <programme start="20260218220000 +0000" stop="20260219001400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">درب اللبانه</title>
+    <desc lang="en">درب اللبانه</desc>
+  </programme>
+  <programme start="20260219003000 +0000" stop="20260219020800 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">محامي المظلومين</title>
+    <desc lang="en">محامي المظلومين</desc>
+  </programme>
+  <programme start="20260219030000 +0000" stop="20260219044000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">لن أعترف</title>
+    <desc lang="en">لن أعترف</desc>
+  </programme>
+  <programme start="20260219050000 +0000" stop="20260219063400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">أين تخبئون الشمس</title>
+    <desc lang="en">أين تخبئون الشمس</desc>
+  </programme>
+  <programme start="20260219070000 +0000" stop="20260219084200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">نساء بلا رجال</title>
+    <desc lang="en">نساء بلا رجال</desc>
+  </programme>
+  <programme start="20260219090000 +0000" stop="20260219103400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">عبقرى على ورقة دمغه</title>
+    <desc lang="en">عبقرى على ورقة دمغه</desc>
+  </programme>
+  <programme start="20260219110000 +0000" stop="20260219125100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الوديعة</title>
+    <desc lang="en">الوديعة</desc>
+  </programme>
+  <programme start="20260219133000 +0000" stop="20260219145000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">قبل السادسه</title>
+    <desc lang="en">قبل السادسه</desc>
+  </programme>
+  <programme start="20260219160000 +0000" stop="20260219172500 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ثورة المدينة</title>
+    <desc lang="en">ثورة المدينة</desc>
+  </programme>
+  <programme start="20260219180000 +0000" stop="20260219192400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">القطار</title>
+    <desc lang="en">القطار</desc>
+  </programme>
+  <programme start="20260219200000 +0000" stop="20260219213900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">إنت اللى قتلت بابايا</title>
+    <desc lang="en">إنت اللى قتلت بابايا</desc>
+  </programme>
+  <programme start="20260219223000 +0000" stop="20260220001400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">بكره أحلى من النهارده</title>
+    <desc lang="en">بكره أحلى من النهارده</desc>
+  </programme>
+  <programme start="20260220003000 +0000" stop="20260220022900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">هذه الحياه لنا</title>
+    <desc lang="en">هذه الحياه لنا</desc>
+  </programme>
+  <programme start="20260220030000 +0000" stop="20260220043100 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ابن حميدو</title>
+    <desc lang="en">ابن حميدو</desc>
+  </programme>
+  <programme start="20260220050000 +0000" stop="20260220064800 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الدرجة الثالثة</title>
+    <desc lang="en">الدرجة الثالثة</desc>
+  </programme>
+  <programme start="20260220070000 +0000" stop="20260220085900 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">بقايا عذراء</title>
+    <desc lang="en">بقايا عذراء</desc>
+  </programme>
+  <programme start="20260220090500 +0000" stop="20260220110400 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">قاتل ما قتلش حد</title>
+    <desc lang="en">قاتل ما قتلش حد</desc>
+  </programme>
+  <programme start="20260220110500 +0000" stop="20260220124600 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">لو كنت غني</title>
+    <desc lang="en">لو كنت غني</desc>
+  </programme>
+  <programme start="20260220133000 +0000" stop="20260220150200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">ايام ضائعه</title>
+    <desc lang="en">ايام ضائعه</desc>
+  </programme>
+  <programme start="20260220160000 +0000" stop="20260220173200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">عفريت مراتى</title>
+    <desc lang="en">عفريت مراتى</desc>
+  </programme>
+  <programme start="20260220180000 +0000" stop="20260220193200 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">الثأر</title>
+    <desc lang="en">الثأر</desc>
+  </programme>
+  <programme start="20260220200000 +0000" stop="20260220215000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">فاعل خير</title>
+    <desc lang="en">فاعل خير</desc>
+  </programme>
+  <programme start="20260220223000 +0000" stop="20260221001000 +0000" channel="ART Aflam 2.tl">
+    <title lang="en">حكمتك يا رب</title>
+    <desc lang="en">حكمتك يا رب</desc>
+  </programme>
   <programme start="20260217000000 +0000" stop="20260217235959 +0000" channel="Abdul Majeed Abdullah.tl">
     <title lang="en">جدول البرامج غير متاح - TV guide is not available</title>
   </programme>
@@ -86494,23 +86758,17 @@ Wives only by name</desc>
   <programme start="20260218003900 +0000" stop="20260218010600 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Hilal SFC (KSA) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD8 - Mini Mat - Al Hilal SFC (KSA) vs Al Wahda FC (UAE)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20260218010600 +0000" stop="20260218024500 +0000" channel="be INSports 5.tl">
+  <programme start="20260218010600 +0000" stop="20260218034500 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Wasl FC (UAE) vs Al Zawraa (IRQ) - AFC Champions League Two 2025/2026 - R16 2ed Leg - Al Wasl FC (UAE) vs Al Zawraa (IRQ)  -  AFC Champions League Two 2025/2026</title>
   </programme>
-  <programme start="20260218024500 +0000" stop="20260218043000 +0000" channel="be INSports 5.tl">
+  <programme start="20260218034500 +0000" stop="20260218054500 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Hussein (JOR) vs Esteghlal (IRN) - AFC Champions League Two 2025/2026 - R16 2ed Leg - Al Hussein (JOR) vs Esteghlal (IRN)  -  AFC Champions League Two 2025/2026</title>
   </programme>
-  <programme start="20260218043000 +0000" stop="20260218045800 +0000" channel="be INSports 5.tl">
-    <title lang="en">Al Ahli Saudi FC (KSA) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD8 - M - Al Ahli Saudi FC (KSA) vs Shabab Al Ahli (UAE)  -  AFC Champions League Elite 2025/2026</title>
-  </programme>
-  <programme start="20260218045800 +0000" stop="20260218070000 +0000" channel="be INSports 5.tl">
+  <programme start="20260218054500 +0000" stop="20260218074500 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Hilal SFC (KSA) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD8 - Al Hilal SFC (KSA) vs Al Wahda FC (UAE)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20260218070000 +0000" stop="20260218090000 +0000" channel="be INSports 5.tl">
+  <programme start="20260218074500 +0000" stop="20260218095000 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Gharafa SC (QAT) vs Tractor FC (IRN) - AFC Champions League Elite 2025/2026 - West MD8 - Al Gharafa SC (QAT) vs Tractor FC (IRN)  -  AFC Champions League Elite 2025/2026</title>
-  </programme>
-  <programme start="20260218090000 +0000" stop="20260218095000 +0000" channel="be INSports 5.tl">
-    <title lang="en">Al Sadd SC (QAT) vs Al Ittihad Club (KSA) - AFC Champions League Elite 2025/2026 - West MD8 - Mini M - Al Sadd SC (QAT) vs Al Ittihad Club (KSA)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
   <programme start="20260218095000 +0000" stop="20260218120500 +0000" channel="be INSports 5.tl">
     <title lang="en">Shanghai Port FC (CHN) vs Ulsan HD FC (KOR) - AFC Champions League Elite 2025/2026 - East MD8 - Shanghai Port FC (CHN) vs Ulsan HD FC (KOR)  -  AFC Champions League Elite 2025/2026</title>
@@ -86521,10 +86779,10 @@ Wives only by name</desc>
   <programme start="20260218141500 +0000" stop="20260218144500 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Hilal SFC (KSA) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD8 - Mini Mat - Al Hilal SFC (KSA) vs Al Wahda FC (UAE)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20260218144500 +0000" stop="20260218163000 +0000" channel="be INSports 5.tl">
+  <programme start="20260218144500 +0000" stop="20260218163200 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Sadd SC (QAT) vs Al Ittihad Club (KSA) - AFC Champions League Elite 2025/2026 - West MD8 - Al Sadd SC (QAT) vs Al Ittihad Club (KSA)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
-  <programme start="20260218163000 +0000" stop="20260218170000 +0000" channel="be INSports 5.tl">
+  <programme start="20260218163200 +0000" stop="20260218170000 +0000" channel="be INSports 5.tl">
     <title lang="en">Al Ahli Saudi FC (KSA) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD8 - M - Al Ahli Saudi FC (KSA) vs Shabab Al Ahli (UAE)  -  AFC Champions League Elite 2025/2026</title>
   </programme>
   <programme start="20260218170000 +0000" stop="20260218173500 +0000" channel="be INSports 5.tl">
@@ -86873,10 +87131,10 @@ Wives only by name</desc>
     <title lang="en">Shintaro MOCHIZUKI (JPN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Shintaro MOCHIZUKI (JPN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218103000 +0000" stop="20260218123000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M1</title>
+    <title lang="en">Marton FUCSOVICS (HUN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Marton FUCSOVICS (HUN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218123000 +0000" stop="20260218143000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M2 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M2</title>
+    <title lang="en">Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE) - ATP 500 Qatar ExxonMobil Open 2026 - Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218143000 +0000" stop="20260218150000 +0000" channel="be INSports 7.tl">
     <title lang="en">Shintaro Mochizuki vs Karen Khachanov - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Shintaro Mochizuki vs Karen Khachanov  -  Mini Match</title>
@@ -86888,31 +87146,31 @@ Wives only by name</desc>
     <title lang="en">Jesper de Jong vs Andrey Rublev - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Jesper de Jong vs Andrey Rublev  -  Mini Match</title>
   </programme>
   <programme start="20260218160000 +0000" stop="20260218183000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M3</title>
+    <title lang="en">Alexei POPYRIN (AUS) vs Jannik SINNER (ITA) - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Alexei POPYRIN (AUS) vs Jannik SINNER (ITA)  -  M3</title>
   </programme>
   <programme start="20260218183000 +0000" stop="20260218210000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M4 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M4</title>
+    <title lang="en">Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA) - ATP 500 Qatar ExxonMobil Open 2026 - Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218210000 +0000" stop="20260218230000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M1</title>
+    <title lang="en">Marton FUCSOVICS (HUN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Marton FUCSOVICS (HUN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218230000 +0000" stop="20260219010000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M2 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M2</title>
+    <title lang="en">Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE) - ATP 500 Qatar ExxonMobil Open 2026 - Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260219010000 +0000" stop="20260219033000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M3</title>
+    <title lang="en">Alexei POPYRIN (AUS) vs Jannik SINNER (ITA) - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Alexei POPYRIN (AUS) vs Jannik SINNER (ITA)  -  M3</title>
   </programme>
   <programme start="20260219033000 +0000" stop="20260219060000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M4 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M4</title>
+    <title lang="en">Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA) - ATP 500 Qatar ExxonMobil Open 2026 - Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260219060000 +0000" stop="20260219063000 +0000" channel="be INSports 7.tl">
     <title lang="en">Shintaro Mochizuki vs Karen Khachanov - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Shintaro Mochizuki vs Karen Khachanov  -  Mini Match</title>
   </programme>
   <programme start="20260219063000 +0000" stop="20260219083000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M1</title>
+    <title lang="en">Marton FUCSOVICS (HUN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Marton FUCSOVICS (HUN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260219083000 +0000" stop="20260219103000 +0000" channel="be INSports 7.tl">
-    <title lang="en">Day 3 - M2 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M2</title>
+    <title lang="en">Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE) - ATP 500 Qatar ExxonMobil Open 2026 - Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260219103000 +0000" stop="20260219123000 +0000" channel="be INSports 7.tl">
     <title lang="en">Day 4 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 4  -  M1</title>
@@ -86921,13 +87179,13 @@ Wives only by name</desc>
     <title lang="en">Day 4 - M2 - ATP 500 Qatar ExxonMobil Open 2026 - Day 4  -  M2</title>
   </programme>
   <programme start="20260219143000 +0000" stop="20260219150000 +0000" channel="be INSports 7.tl">
-    <title lang="en">D3M1 - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - D3M1  -  Mini Match</title>
+    <title lang="en">Daniil Medvedev vs Stefanos Tsitsipas (Gre) - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Daniil Medvedev vs Stefanos Tsitsipas (Gre)  -  Mini Match</title>
   </programme>
   <programme start="20260219150000 +0000" stop="20260219153000 +0000" channel="be INSports 7.tl">
-    <title lang="en">D3M2 - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - D3M2  -  Mini Match</title>
+    <title lang="en">Alexei Popyrin (Aus) vs Jannik Sinner (Ita) - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Alexei Popyrin (Aus) vs Jannik Sinner (Ita)  -  Mini Match</title>
   </programme>
   <programme start="20260219153000 +0000" stop="20260219160000 +0000" channel="be INSports 7.tl">
-    <title lang="en">D3M3 - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - D3M3  -  Mini Match</title>
+    <title lang="en">Carlos Alcaraz (Esp) vs Valentin Royer (Fra) - Mini Match - ATP 500 Qatar ExxonMobil Open 2026 - Carlos Alcaraz (Esp) vs Valentin Royer (Fra)  -  Mini Match</title>
   </programme>
   <programme start="20260219160000 +0000" stop="20260219183000 +0000" channel="be INSports 7.tl">
     <title lang="en">Day 4 - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Day 4  -  M3</title>
@@ -87124,26 +87382,50 @@ Wives only by name</desc>
   <programme start="20260218150200 +0000" stop="20260218153000 +0000" channel="be INSports 9.tl">
     <title lang="en">HL H.H.the Father Amirs prix 2026 –  FAULTS &amp; TIME 1.40 Meters – Week 4</title>
   </programme>
-  <programme start="20260218153000 +0000" stop="20260218183000 +0000" channel="be INSports 9.tl">
+  <programme start="20260218153000 +0000" stop="20260218190000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 1 - Two Phases – 1.40m - CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Two Phases – 1.40m</title>
   </programme>
-  <programme start="20260218183000 +0000" stop="20260218190000 +0000" channel="be INSports 9.tl">
-    <title lang="en">HL H.H.the Father Amirs prix 2026 –  FAULTS &amp; TIME 1.40 Meters – Week 4</title>
-  </programme>
-  <programme start="20260218190000 +0000" stop="20260218220000 +0000" channel="be INSports 9.tl">
+  <programme start="20260218190000 +0000" stop="20260218210000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 1 - Faults &amp; Time – 1.50m -  CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Faults &amp; Time – 1.50m</title>
+  </programme>
+  <programme start="20260218210000 +0000" stop="20260218213000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 2 - Faults &amp; Time 1.40m - CHI AL SHAQAB Presented by Longines 2026 - Day 2  -  Faults &amp; Time 1.40m</title>
+  </programme>
+  <programme start="20260218213000 +0000" stop="20260218220000 +0000" channel="be INSports 9.tl">
+    <title lang="en">HL H.H.the Father Amirs prix 2026– Jump – Off 1.55  – Week 4</title>
   </programme>
   <programme start="20260218220000 +0000" stop="20260219000000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 3 - M2 - ATP 500 Rio Open Presented By Claro - Rio de janeiro 2026 - Day 3  -  M2</title>
   </programme>
-  <programme start="20260219000000 +0000" stop="20260219153000 +0000" channel="be INSports 9.tl">
+  <programme start="20260219000000 +0000" stop="20260219020000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 3 - M3 - ATP 500 Rio Open Presented By Claro - Rio de janeiro 2026 - Day 3  -  M3</title>
   </programme>
-  <programme start="20260219153000 +0000" stop="20260219180000 +0000" channel="be INSports 9.tl">
+  <programme start="20260219020000 +0000" stop="20260219050000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 1 - Two Phases – 1.40m - CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Two Phases – 1.40m</title>
+  </programme>
+  <programme start="20260219050000 +0000" stop="20260219080000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 1 - Faults &amp; Time – 1.50m -  CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Faults &amp; Time – 1.50m</title>
+  </programme>
+  <programme start="20260219080000 +0000" stop="20260219090000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Against the clock with a Jump-Off – Week 1 - Against the clock with a Jump - Off – Week 1</title>
+  </programme>
+  <programme start="20260219090000 +0000" stop="20260219093000 +0000" channel="be INSports 9.tl">
+    <title lang="en">HL H.H.the Father Amirs prix 2026 – SIX BAR COMPETITION 1.50 – Week 4</title>
+  </programme>
+  <programme start="20260219093000 +0000" stop="20260219123000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 1 - Two Phases – 1.40m - CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Two Phases – 1.40m</title>
+  </programme>
+  <programme start="20260219123000 +0000" stop="20260219153000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 1 - Faults &amp; Time – 1.50m -  CHI AL SHAQAB Presented by Longines 2026 - Day 1  -  Faults &amp; Time – 1.50m</title>
+  </programme>
+  <programme start="20260219153000 +0000" stop="20260219183000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 2 - Faults &amp; Time 1.40m - CHI AL SHAQAB Presented by Longines 2026 - Day 2  -  Faults &amp; Time 1.40m</title>
   </programme>
-  <programme start="20260219180000 +0000" stop="20260219220000 +0000" channel="be INSports 9.tl">
+  <programme start="20260219183000 +0000" stop="20260219200000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 2 - Jump Off – 1.55m - CHI AL SHAQAB Presented by Longines 2026 - Day 2  -  Jump Off – 1.55m</title>
+  </programme>
+  <programme start="20260219200000 +0000" stop="20260219220000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Grand Prix Final with a Jump-Off – Final Week 1 - Grand Prix Final with a Jump - Off – Final Week 1</title>
   </programme>
   <programme start="20260219220000 +0000" stop="20260220000000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 4 - M2 - ATP 500 Rio Open Presented By Claro - Rio de janeiro 2026 - Day 4  -  M2</title>
@@ -87154,8 +87436,11 @@ Wives only by name</desc>
   <programme start="20260220153000 +0000" stop="20260220180000 +0000" channel="be INSports 9.tl">
     <title lang="en">Day 3 - Faults * Time 1.45m - CHI AL SHAQAB Presented by Longines 2026 - Day 3  -  Faults * Time 1.45m</title>
   </programme>
-  <programme start="20260220180000 +0000" stop="20260220220000 +0000" channel="be INSports 9.tl">
-    <title lang="en">Day 3 - Faults &amp; Time – 1.50m - CHI AL SHAQAB Presented by Longines 2026 - Day 2  -  Jump Off – 1.55m</title>
+  <programme start="20260220180000 +0000" stop="20260220203000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 3 - Faults &amp; Time – 1.50m - CHI AL SHAQAB Presented by Longines 2026 - Day 3  -  Faults &amp; Time – 1.50m</title>
+  </programme>
+  <programme start="20260220203000 +0000" stop="20260220230000 +0000" channel="be INSports 9.tl">
+    <title lang="en">Day 3 - Jump &amp; Drive - CHI AL SHAQAB Presented by Longines 2026 - Day 3  -  Jump &amp; Drive</title>
   </programme>
   <programme start="20260216233000 +0000" stop="20260217000000 +0000" channel="be INSports English 1.tl">
     <title lang="en">Liverpool vs Brighton &amp; Hove Albion - Emirates FA Cup 2025-26 - Round 4 - Mini Match - Liverpool vs Brighton &amp; Hove Albion  -  Emirates FA Cup 2025</title>
@@ -87478,26 +87763,26 @@ Wives only by name</desc>
   <programme start="20260218060000 +0000" stop="20260218063000 +0000" channel="be INSports English 2.tl">
     <title lang="en">EN NBA Action 25/26 Ep.18</title>
   </programme>
-  <programme start="20260218063000 +0000" stop="20260218083000 +0000" channel="be INSports English 2.tl">
+  <programme start="20260218063000 +0000" stop="20260218082000 +0000" channel="be INSports English 2.tl">
     <title lang="en">Moez ECHARGUI (TUN) vs Stefanos TSITSIPAS (GRE) - ATP 500 Qatar ExxonMobil Open 2026 - Moez ECHARGUI (TUN) vs Stefanos TSITSIPAS (GRE)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
-  <programme start="20260218083000 +0000" stop="20260218103000 +0000" channel="be INSports English 2.tl">
+  <programme start="20260218082000 +0000" stop="20260218103000 +0000" channel="be INSports English 2.tl">
     <title lang="en">Shintaro MOCHIZUKI (JPN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Shintaro MOCHIZUKI (JPN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218103000 +0000" stop="20260218123000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Day 3 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M1</title>
+    <title lang="en">Marton FUCSOVICS (HUN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Marton FUCSOVICS (HUN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218123000 +0000" stop="20260218143000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Day 3 - M2 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M2</title>
+    <title lang="en">Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE) - ATP 500 Qatar ExxonMobil Open 2026 - Daniil MEDVEDEV vs Stefanos TSITSIPAS (GRE)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218143000 +0000" stop="20260218163000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Day 3 - M1 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M1</title>
+    <title lang="en">Marton FUCSOVICS (HUN) vs Karen KHACHANOV - ATP 500 Qatar ExxonMobil Open 2026 - Marton FUCSOVICS (HUN) vs Karen KHACHANOV  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218163000 +0000" stop="20260218183000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Day 3 - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M3</title>
+    <title lang="en">Alexei POPYRIN (AUS) vs Jannik SINNER (ITA) - M3 - ATP 500 Qatar ExxonMobil Open 2026 - Alexei POPYRIN (AUS) vs Jannik SINNER (ITA)  -  M3</title>
   </programme>
   <programme start="20260218183000 +0000" stop="20260218203000 +0000" channel="be INSports English 2.tl">
-    <title lang="en">Day 3 - M4 - ATP 500 Qatar ExxonMobil Open 2026 - Day 3  -  M4</title>
+    <title lang="en">Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA) - ATP 500 Qatar ExxonMobil Open 2026 - Carlos ALCARAZ (ESP) vs Valentin ROYER (FRA)  -  ATP 500 Qatar ExxonMobil Open 2026</title>
   </programme>
   <programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="be INSports English 2.tl">
     <title lang="en">EN NBA Action 25/26 Ep.18</title>
