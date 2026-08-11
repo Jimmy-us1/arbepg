@@ -67,8 +67,8 @@ if errorlevel 1 (
 )
 
 rem Never store an access token in this file. Git Credential Manager can authenticate the push.
-git remote set-url origin https://github.com/mohamedelansary/todland.git >nul 2>nul
-git add -- epg.xml epg_generator.py 1.bat
+git remote set-url origin https://github.com/Jimmy-us1/arbepg.git >nul 2>nul
+git add -- epg.xml 1.bat
 git diff --cached --quiet
 if not errorlevel 1 (
     echo [OK] No changes to publish.
