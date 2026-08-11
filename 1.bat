@@ -62,11 +62,13 @@ if errorlevel 1 (
 )
 
 rem Prepare Git automatically on a new PC without overwriting local files.
+set "NEW_GIT_REPOSITORY=0"
 git rev-parse --is-inside-work-tree >nul 2>nul
 if errorlevel 1 (
     echo [INFO] Initializing Git in this folder...
     git init -b main
     if errorlevel 1 exit /b 1
+    set "NEW_GIT_REPOSITORY=1"
 )
 
 git config --local user.name "Jimmy-us1"
@@ -82,7 +84,12 @@ if errorlevel 1 (
 )
 
 echo [INFO] Synchronizing Git history without replacing generated files...
-git fetch origin main
+if "%NEW_GIT_REPOSITORY%"=="1" (
+    rem A shallow first fetch avoids downloading every old 60 MB XML revision.
+    git fetch --depth=1 origin main
+) else (
+    git fetch origin main
+)
 if errorlevel 1 (
     echo [ERROR] XML generation succeeded, but the GitHub history could not be downloaded.
     exit /b 1
@@ -95,6 +102,7 @@ if errorlevel 1 (
     if errorlevel 1 exit /b 1
     git update-ref refs/heads/main refs/remotes/origin/main
     if errorlevel 1 exit /b 1
+    if not exist ".gitignore" git checkout-index -- .gitignore >nul 2>nul
 )
 
 git add -- epg.xml 1.bat
