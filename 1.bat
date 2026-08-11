@@ -55,28 +55,66 @@ if errorlevel 1 (
     exit /b 1
 )
 
-if not exist ".git" (
-    echo [OK] epg.xml was generated. This folder is not a Git repository, so publish was skipped.
-    exit /b 0
-)
-
 where git >nul 2>nul
 if errorlevel 1 (
-    echo [ERROR] XML generation succeeded, but Git was not found. Nothing was published.
+    echo [ERROR] XML generation succeeded, but Git was not found. Install Git to publish automatically.
     exit /b 1
 )
 
-rem Never store an access token in this file. Git Credential Manager can authenticate the push.
-git remote set-url origin https://Jimmy-us1@github.com/Jimmy-us1/arbepg.git >nul 2>nul
-git add -- epg.xml 1.bat
-git diff --cached --quiet
-if not errorlevel 1 (
-    echo [OK] No changes to publish.
-    exit /b 0
+rem Prepare Git automatically on a new PC without overwriting local files.
+git rev-parse --is-inside-work-tree >nul 2>nul
+if errorlevel 1 (
+    echo [INFO] Initializing Git in this folder...
+    git init -b main
+    if errorlevel 1 exit /b 1
 )
 
-git commit -m "Update enriched EPG XML"
+git config --local user.name "Jimmy-us1"
+git config --local user.email "youssef.maher.521@hotmail.com"
+git config --local credential.useHttpPath true
+
+rem Never store an access token in this file. Git Credential Manager can authenticate the push.
+git remote get-url origin >nul 2>nul
+if errorlevel 1 (
+    git remote add origin https://Jimmy-us1@github.com/Jimmy-us1/arbepg.git
+) else (
+    git remote set-url origin https://Jimmy-us1@github.com/Jimmy-us1/arbepg.git
+)
+
+echo [INFO] Synchronizing Git history without replacing generated files...
+git fetch origin main
+if errorlevel 1 (
+    echo [ERROR] XML generation succeeded, but the GitHub history could not be downloaded.
+    exit /b 1
+)
+
+git rev-parse --verify HEAD >nul 2>nul
+if errorlevel 1 (
+    rem Attach a newly initialized repository to origin/main while keeping the working files intact.
+    git read-tree refs/remotes/origin/main
+    if errorlevel 1 exit /b 1
+    git update-ref refs/heads/main refs/remotes/origin/main
+    if errorlevel 1 exit /b 1
+)
+
+git add -- epg.xml 1.bat
+git diff --cached --quiet
+if errorlevel 1 (
+    git commit -m "Update enriched EPG XML"
+    if errorlevel 1 exit /b 1
+) else (
+    echo [INFO] Generated files are already committed locally.
+)
+
+rem Another PC may have published while generation was running. Merge its history
+rem while keeping this freshly generated XML, then push without force.
+git fetch origin main
 if errorlevel 1 exit /b 1
+git merge-base --is-ancestor refs/remotes/origin/main HEAD
+if errorlevel 1 (
+    git merge -s ours refs/remotes/origin/main -m "Merge remote EPG history"
+    if errorlevel 1 exit /b 1
+)
 
 git push origin HEAD:main
 if errorlevel 1 (
